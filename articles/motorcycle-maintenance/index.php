@@ -20,7 +20,7 @@
         <?php include ("$path/includes/menu.php"); ?>
 
         <div class="article-intro offset-by-six columns">
-            <h1>Motorcycle maintenance</h1>
+            <h1>Motorcycle clubs directory</h1>
         </div>
 
         <?php include ("$path/includes/prev-next.php"); ?>
