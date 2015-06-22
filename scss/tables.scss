@@ -1,0 +1,67 @@
+/*------------------------------------*\
+    #TABLES
+\*------------------------------------*/
+th,
+td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #E1E1E1; }
+th:first-child,
+td:first-child {
+  padding-left: 0; }
+th:last-child,
+td:last-child {
+  padding-right: 0; }
+
+// Better Table
+
+.table {
+    border: 1px solid #e8e8e8;
+    text-align: center;
+    display: table;
+    width: 100%;
+    
+    h4 {
+        font-family: $sans-serif; 
+        text-transform: uppercase; 
+        letter-spacing: 1px;
+        font-size: 1.4rem;
+        font-weight: 900;
+    }
+    
+    .one-half {
+        width: (100%)/2;
+    }
+    
+    .one-third {
+        width: (100%)/3;   
+    }
+    
+    .one-half,
+    .one-third {
+        border: 2px solid #e8e8e8;
+        display: table-cell;
+        float: left;
+        padding: 15px;
+        height: 155px;
+        
+        @media (max-width: $tablet-breakpoint) {
+            width: 100%;
+            clear: both;
+            display: block;
+        }
+    }
+    
+    li {
+        list-style: none;
+    }
+    
+    span {
+        display: block;
+        clear: both;
+    }
+    
+    div {
+        display: table-row;
+    }
+}

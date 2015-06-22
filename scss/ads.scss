@@ -1,0 +1,62 @@
+/*------------------------------------*\
+    #ADVERTISMENTS
+\*------------------------------------*/
+
+.ad {
+    .arrow-nav a {
+        top: 300px;
+    }
+    .drawer-hamburger {
+        height: 80px;
+    }
+    overflow-x: hidden;
+    header {
+        background: $black-pearl;
+        height: 80px;
+    }
+    
+    span {
+        color: white;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        text-align: center;
+        margin: 0 auto;
+        display: block;
+        font-size: 1.3rem;
+        font-weight: bold;
+        background: $black-pearl;
+    }
+    
+    .container {
+        @media (max-width: $tablet-breakpoint) {
+            padding: 0 !important;
+            width: 100%;
+            }
+        
+    }
+    
+
+}
+
+// Hide Link
+
+li.ads {
+    display: none;
+}
+
+// Prev/Next Colour
+
+.nav-growpop {
+    .prev.ads .icon-wrap,
+    .next.ads .icon-wrap,
+    .prev.ads div,
+    .next.ads div {
+        @include arrow-color($black-pearl);
+        
+        img {
+        display: none;
+    }
+    }
+    
+    
+}

@@ -1,0 +1,125 @@
+/*------------------------------------*\
+    #LISTS
+\*------------------------------------*/
+
+ul {
+  list-style: disc inside; }
+ol {
+  list-style: decimal inside; }
+ol, ul {
+  padding-left: 0;
+  margin-top: 0; }
+ul ul,
+ul ol,
+ol ol,
+ol ul {
+  margin: 1.5rem 0 1.5rem 3rem;
+  font-size: 90%; }
+li {
+}
+
+.medium-list {
+  font-size: 2.0rem;
+  li {
+    margin-bottom: 1rem;
+  }
+}
+
+.semi-bold-list {
+  font-weight: 500;
+}
+
+.large-list {
+  font-size: 2.2rem;
+  li {
+    margin-bottom: 5rem;
+  }
+}
+
+.plain-list {
+  list-style-type: none;
+}
+
+.numbered-list {
+  font-family: $sans-serif;
+  font-weight: 400;
+  li {
+    margin-left: 5rem;
+    font-weight: 500;
+    list-style-type: none;
+    counter-increment: list;
+    position: relative;
+      margin-bottom: 10px;
+      
+    &:before {
+      content: counter(list) ".";
+      position: absolute;
+      left: -2.5em;
+      width: 2em;
+      font-weight: bold;
+      font-family: $serif;
+      text-align: right;
+      font-size: 3.2rem;
+    }
+  }
+}
+
+.circle-container {
+  width: 75px;
+  height: 75px;
+  display: inline-block;
+  border-radius: 50%;
+  line-height: 60px;
+  font-family: $serif;
+  font-weight: bold;
+  font-size: 4rem;
+  text-align: center;
+  &.small {
+    width: 45px;
+    height: 45px;
+    line-height: 35px;
+    font-size: 2.2rem;
+  }
+}
+
+.list-number-box {
+  margin: 3rem 0;
+  p {
+    margin-top: 2rem;
+  }
+  &.circle-container {
+    margin: 0 auto;
+    margin: 2rem 0;
+    display: block;
+  }
+}
+
+.numbered-list-box {
+  width: 100%;
+  max-width: 500px;
+  padding: 5%;
+  margin: 4rem 0;
+  ul li {
+    margin: 2rem 0 4rem;
+  }
+  .circle-container {
+    position: relative;
+    margin-left: -12%;
+    margin-right: 20px;
+  }
+    
+    @media (max-width:$mobile-breakpoint) {
+        .circle-container {
+            margin: 0 auto 5px;
+            display: block;
+            clear: both;
+        }
+        
+        ul li {
+            text-align: center;
+            margin: 20px 0 30px;
+            line-height: 1.25em;
+        }
+        
+    }
+}

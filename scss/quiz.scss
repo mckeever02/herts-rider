@@ -1,0 +1,144 @@
+/* BASE QUIZ STYLES */
+
+/* These styles ensure that the necessary elements are hidden for toggling */
+
+.startQuiz,
+.nextQuestion,
+.backToQuestion,
+.questions li.question,
+.questions li.question .responses,
+.questions li.question .responses .correct,
+.questions li.question .responses .incorrect,
+.quizResults {
+    display: none;
+}
+
+.nextQuestion {
+    padding: 15px 30px !important;
+}
+
+/* If response messages are disabled or only shown on quiz completion,
+   nextQuestion button IS checkAnswer button - so it must be displayed */
+.nextQuestion.checkAnswer {
+    display: block;
+}
+
+ol.questions,
+ul.answers,
+ul.responses,
+ol.questions li,
+ul.answers li,
+ul.responses li {
+    list-style-type: none;
+}
+
+/* Accessibility */
+.quizName span:first-child {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.questionCount {
+
+    position: relative;
+    &:before {
+        position: relative;
+        content: '';
+        font-weight: bold;
+        font-family: $serif;
+        width: 6rem;
+        height: 6rem;
+        line-height: 5rem;
+        z-index: 2;
+        text-align: center;
+        font-size: 4rem;
+        border: 3px solid;
+        border-radius: 50%;
+        background: white;
+        display: block;
+        margin: 0 auto;
+        top: -3.5rem;
+    }
+    .current {
+        position: relative;
+        text-align: center;
+        font-family: $sans-serif;
+        font-size: 4.0rem;
+        margin: 0 auto 9rem;
+        margin-top: -8.3rem;
+        z-index: 3;
+        text-transform: uppercase;
+        font-weight: 900;
+        display: block;
+    }
+}
+
+.quizNav {
+    display: block;
+    margin: 4rem auto;
+    text-align: center;
+}
+
+.answers {
+    font-size: 2.4rem;
+    margin: 0;
+    margin-top: 2rem;
+    li {
+        width: 100%;
+        display: block;
+        margin: 4rem 0 0;
+    }
+    label {
+        padding-left: .5em;
+    }
+}
+
+.correctResponse, .incorrectResponse {
+    p {
+        font-size: 3rem;
+        line-height: 1.8;
+        text-align: center;
+        padding: 2em 0;
+        width: 100%;
+        span {
+            display: block;
+            font-size: 2rem;
+            margin-bottom: 20px;
+            font-weight: 900;
+            text-transform: uppercase;
+            letter-spacing: .1em;
+
+        }
+    }
+}
+.correct p span {
+    color: $alert-green;
+}
+.incorrect p span {
+    color: $alert-red;
+}
+
+.quizResults {
+    text-align: center;
+}
+
+.quizScore {
+    font-size: 6rem;
+    color: $allports;
+}
+
+.question img {
+    display: block;
+    padding-top: 4rem;
+}
+
+.answers img {
+    display: inline-block;
+    padding-top: 0;
+}

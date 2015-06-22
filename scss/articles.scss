@@ -1,0 +1,108 @@
+// NOTE:
+// This Sass file controls the article colour and main page header
+// ---------------------------------------------------------------
+
+// Article Titles (Interpolation)
+
+$page-1: the-learning-journey;
+$page-2: the-cost-of-learning-to-drive;
+$page-3: win-a-car;
+$page-4: what-type-of-learner-are-you;
+$page-5: find-the-perfect-instructor;
+$page-6: make-the-most-of-your-lessons;
+$page-7: intensive-driving-courses;
+$page-8: learning-with-your-parents;
+$page-9: independent-instructors;
+$page-10: learner-insurance;
+$page-11: how-the-theory-test-works;
+$page-12: theory-test-quiz;
+$page-13: how-to-tackle-the-multiple-choice-questions;
+$page-14: prepare-for-the-hazard-perception-test;
+$page-15: buying-your-first-car;
+$page-16: how-to-buy-a-used-car;
+$page-17: buying-a-new-car;
+$page-18: peer-pressure;
+$page-19: learning-to-drive-with-a-disability;
+$page-20: learning-to-drive-with-special-needs;
+
+// Article Styling
+
+##{$page-1} {
+    @include article-style($allports, $page-1);
+}
+
+##{$page-2} {
+    @include article-style($java, $page-2);
+}
+
+##{$page-3} {
+    @include article-style($marmalade, $page-3);
+}
+
+##{$page-4} {
+    @include article-style($alizarin-crimson, $page-4);
+}
+
+##{$page-5} {
+    @include article-style($cabaret, $page-5);
+}
+
+##{$page-6} {
+    @include article-style($marmalade, $page-6);
+}
+
+##{$page-7} {
+    @include article-style($lilac, $page-7);
+}
+
+##{$page-8} {
+    @include article-style($allports, $page-8);
+}
+
+##{$page-9} {
+    @include article-style($java, $page-9);
+}
+
+##{$page-10} {
+    @include article-style($tree-poppy, $page-10);
+}
+
+##{$page-11} {
+    @include article-style($alizarin-crimson, $page-11);
+}
+
+##{$page-12} {
+    @include article-style($cabaret, $page-12);
+}
+
+##{$page-13} {
+    @include article-style($marmalade, $page-13);
+}
+
+##{$page-14} {
+    @include article-style($lilac, $page-14);
+}
+
+##{$page-15} {
+    @include article-style($allports, $page-15);
+}
+
+##{$page-16} {
+    @include article-style($java, $page-16);
+}
+
+##{$page-17} {
+    @include article-style($tree-poppy, $page-17);
+}
+
+##{$page-18} {
+    @include article-style($alizarin-crimson, $page-18);
+}
+
+##{$page-19} {
+    @include article-style($cabaret, $page-19);
+}
+
+##{$page-20} {
+    @include article-style($marmalade, $page-20);
+}
