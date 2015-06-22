@@ -272,7 +272,83 @@
             </div><!-- /one-half -->
 
         </div><!-- /row -->
+
+        <div class="row">
+          <blockquote>
+            <span class="small-text footnote">Top tip</span>
+            <p>Don't wear work boots with steel toe-caps. These can protect your feet in certain circumstances but are also capable of cutting through your toes.</p>
+          </blockquote>
+        </div><!-- /row -->
       </section>
+
+      <section class="container">
+
+          <div class="row">
+
+            <div class="one-half column">
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="https://firstcar.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/boots.jpg" alt="Boots"></div>
+            </div><!-- /one-half column -->
+
+            <div class="one-half column">
+              <h2>Boots</h2>
+              <p>A pair of sturdy over-the-ankle boots will provide support and protection for the ankle area and can prevent serious injuries, so it’s advised not to ride without them. In a crash, feet tend to get crushed sideways, so strong soles are important. A stitched sole is best, and if possible bonded as well. Anything less and it may fall apart under impact or abrasion.</p>
+
+              <p>The sole should contain ridges to provide good grip, and be at least 4mm thick. The thicker the sole, the more the boot will absorb the vibration of the bike. Boots come in varying levels of warmth and protection and range from a subtle black work boot to multicoloured race replicas. </p>
+
+              <p>Boots should ideally be made from good quality leather (at least 2.5mm thick) and be waterproof too. Some models come with additional armour areas in vulnerable spots such as the outer toes, ankles and shins. Whatever style you go for, try them on to make sure they’re comfortable and allow you to operate the bike’s controls with ease. </p>
+            </div><!-- one-half column -->
+
+          </div><!-- /row -->
+      </section>
+
+      <section class="container">
+        <h3 class="u-text-center">Boot buying tips</h3>
+
+        <div class="row">
+
+            <div class="one-half column wow fadeInLeft" data-wow-delay="0.5s">
+               <div class="u-text-center list-number-box">
+                <span class="circle-container">1</span>
+                 <p>Make sure the boots you buy fit properly. Too tight and they will make your feet numb &mdash; too loose and you will find it difficult to maintain control over the gear and brake levers.</p>
+               </div><!-- /u-text-center -->
+            </div><!-- /one-half -->
+
+            <div class="one-half column wow fadeInLeft" data-wow-delay="0.5s">
+               <div class="u-text-center list-number-box">
+                <span class="circle-container">2</span>
+                 <p>Boots will get softer and more comfortable with use, but if a boot is too rigid it may lead to discomfort. Test their flexibility by manipulating them physically in the store, as well as trying them on.</p>
+               </div><!-- /u-text-center -->
+            </div><!-- /one-half -->
+
+        </div><!-- /row -->
+
+        <div class="row">
+
+            <div class="one-half column wow fadeInLeft" data-wow-delay="0.5s">
+               <div class="u-text-center list-number-box">
+                <span class="circle-container">3</span>
+                 <p>Where boots are zipped up, ensure there is a large enough flap under the zip and one over it. This ensures the zip won’t let in water or rub directly on the ankle.</p>
+               </div><!-- /u-text-center -->
+            </div><!-- /one-half -->
+
+            <div class="one-half column wow fadeInLeft" data-wow-delay="0.5s">
+               <div class="u-text-center list-number-box">
+                <span class="circle-container">4</span>
+                 <p>Try to make sure the leather is colour-fast, otherwise you will find socks and feet are dyed the colour of your boots in wet weather.</p>
+               </div><!-- /u-text-center -->
+            </div><!-- /one-half -->
+
+        </div><!-- /row -->
+
+        <div class="row">
+          <blockquote>
+            <span class="small-text footnote">Top tip</span>
+            <p>Don't wear work boots with steel toe-caps. These can protect your feet in certain circumstances but are also capable of cutting through your toes.</p>
+          </blockquote>
+        </div><!-- /row -->
+      </section>
+
+
 
 
         <?php include ("$path/includes/article-social-share.php"); ?>
