@@ -50,7 +50,7 @@ li {
     counter-increment: list;
     position: relative;
       margin-bottom: 10px;
-      
+
     &:before {
       content: counter(list) ".";
       position: absolute;
@@ -92,6 +92,9 @@ li {
     margin: 2rem 0;
     display: block;
   }
+  h3 {
+    margin-top: 2rem;
+  }
 }
 
 .numbered-list-box {
@@ -107,19 +110,19 @@ li {
     margin-left: -12%;
     margin-right: 20px;
   }
-    
+
     @media (max-width:$mobile-breakpoint) {
         .circle-container {
             margin: 0 auto 5px;
             display: block;
             clear: both;
         }
-        
+
         ul li {
             text-align: center;
             margin: 20px 0 30px;
             line-height: 1.25em;
         }
-        
+
     }
 }
