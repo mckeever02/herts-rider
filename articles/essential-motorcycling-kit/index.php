@@ -219,37 +219,53 @@
           <div class="row">
 
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="https://firstcar.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/boots.jpg" alt="Boots"></div>
-            </div><!-- /one-half column -->
+              <h2>Jackets</h2>
+              <p>Whether you ride a 50cc moped or a 1200cc superbike, riding in your everyday clothes puts you at real risk of serious injury. Finding clothing to shield you from both impact and abrasion &mdash; the most common causes of injury &mdash; is extremely important, as is keeping you warm and dry if the weather takes a turn for the worse.</p>
 
-            <div class="one-half column">
-              <h2>Boots</h2>
-              <p>A pair of sturdy over-the-ankle boots will provide support and protection for the ankle area and can prevent serious injuries, so it’s advised not to ride without them. In a crash, feet tend to get crushed sideways, so strong soles are important. A stitched sole is best, and if possible bonded as well. Anything less and it may fall apart under impact or abrasion.</p>
+              <p>Traditionally, leather has been the choice of most riders, but advances in textiles means that you now have options such as Cordura and Gore-Tex, which are abrasion-resistant and waterproof.</p>
 
-              <p>The sole should contain ridges to provide good grip, and be at least 4mm thick. The thicker the sole, the more the boot will absorb the vibration of the bike. Boots come in varying levels of warmth and protection and range from a subtle black work boot to multicoloured race replicas. </p>
+              <p>Make sure any jacket you buy has CE-approved armour in the risk areas, such as your elbows, shoulders and back. Finally, make sure it’s comfortable when seated on a bike.</p>
 
-              <p>Boots should ideally be made from good quality leather (at least 2.5mm thick) and be waterproof too. Some models come with additional armour areas in vulnerable spots such as the outer toes, ankles and shins. Whatever style you go for, try them on to make sure they’re comfortable and allow you to operate the bike’s controls with ease. </p>
+              <h4>Types of jacket</h4>
+
+              <ul>
+                <li><strong>Leather:</strong> should be at least 1.2mm thick. Too thick and it’ll be uncomfortable and restrict your movement. Some will be treated to make it as waterproof as possible.</li>
+                <li><strong>Textile:</strong> Cordura gives protection from the elements, while the thermal and waterproof linings are often removable to allow for use in the spring or summer – they provide body armour too and are often multi-adjustable.</li>
+              </ul>
+
             </div><!-- one-half column -->
 
+            <div class="one-half column">
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="https://firstcar.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/jacket.jpg" alt="Jacket"></div>
+            </div><!-- /one-half column -->
+
           </div><!-- /row -->
+
+          <div class="row">
+            <blockquote>
+              <span class="small-text footnote">Top tip</span>
+              <p>A short slide on tarmac &mdash; even at 30mph &mdash; will shred through clothes and then take skin down to bone in seconds.</p>
+            </blockquote>
+          </div><!-- /row -->
+
       </section>
 
       <section class="container">
-        <h3 class="u-text-center">Boot buying tips</h3>
+        <h3 class="u-text-center">Jacket buying tips</h3>
 
         <div class="row">
 
             <div class="one-half column wow fadeInLeft" data-wow-delay="0.5s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">1</span>
-                 <p>Make sure the boots you buy fit properly. Too tight and they will make your feet numb &mdash; too loose and you will find it difficult to maintain control over the gear and brake levers.</p>
+                 <p>Your jacket should feel comfy and fit well, without being tight. Make sure the arms are long enough and the shoulders let you move within the jacket.</p>
                </div><!-- /u-text-center -->
             </div><!-- /one-half -->
 
             <div class="one-half column wow fadeInLeft" data-wow-delay="0.5s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">2</span>
-                 <p>Boots will get softer and more comfortable with use, but if a boot is too rigid it may lead to discomfort. Test their flexibility by manipulating them physically in the store, as well as trying them on.</p>
+                 <p>Stitching should be double or triple and should be sealed as well, either with a leather overlap or a plastic coating.</p>
                </div><!-- /u-text-center -->
             </div><!-- /one-half -->
 
@@ -260,14 +276,14 @@
             <div class="one-half column wow fadeInLeft" data-wow-delay="0.5s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">3</span>
-                 <p>Where boots are zipped up, ensure there is a large enough flap under the zip and one over it. This ensures the zip won’t let in water or rub directly on the ankle.</p>
+                 <p>• ntegrated body armour is common and should enhance protection at the elbows, back and shoulders. It should also carry a CE approval label.</p>
                </div><!-- /u-text-center -->
             </div><!-- /one-half -->
 
             <div class="one-half column wow fadeInLeft" data-wow-delay="0.5s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">4</span>
-                 <p>Try to make sure the leather is colour-fast, otherwise you will find socks and feet are dyed the colour of your boots in wet weather.</p>
+                 <p>Zips shouldn’t lie directly against the skin, as this will transmit heat from friction if you have a slide and a serious burn could result.</p>
                </div><!-- /u-text-center -->
             </div><!-- /one-half -->
 
@@ -276,7 +292,7 @@
         <div class="row">
           <blockquote>
             <span class="small-text footnote">Top tip</span>
-            <p>Don't wear work boots with steel toe-caps. These can protect your feet in certain circumstances but are also capable of cutting through your toes.</p>
+            <p>If you want the protection of leather but worry about the reduced level of waterproofing, wear lightweight waterproof over-trousers when it rains. Gore-Tex items can be bought cheaply from army surplus stores.</p>
           </blockquote>
         </div><!-- /row -->
       </section>
@@ -346,6 +362,34 @@
             <p>Don't wear work boots with steel toe-caps. These can protect your feet in certain circumstances but are also capable of cutting through your toes.</p>
           </blockquote>
         </div><!-- /row -->
+      </section>
+
+      <section class="container">
+
+          <div class="row">
+
+            <div class="one-half column">
+              <h2>Trousers</h2>
+              <p>Shorts and tracksuit bottoms are real no-nos when it comes to riding safely, as they offer zero protection in an accident. Jeans are slightly better, but can still wear through in under a second should the worst happen. A better option is to opt for a pair of jeans that are reinforced with Kevlar. Prices start at around £90 for a pair.</p>
+
+              <p>The ultimate in protection is a pair of dedicated leather or textile trousers featuring double or triple stitching, plus CE-approved armour in the knees. As with jackets, leather provides the most abrasion resistance, while textiles such as Cordura are waterproof and warmer, so they can be used all year round.</p>
+
+              <p>Just like jackets, trousers can be made of either leather or a textile, with leather being the best for abrasion resistance and textile topping the tree for waterproofing and comfort. Make sure any in-built armour is CE-approved.</p>
+
+            </div><!-- one-half column -->
+
+            <div class="one-half column">
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="https://firstcar.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/trousers.jpg" alt="trousers"></div>
+            </div><!-- /one-half column -->
+
+          </div><!-- /row -->
+
+          <div class="row">
+            <blockquote>
+              <span class="small-text footnote">Top tip</span>
+              <p>Make sure your trousers fit well and are comfortable when you’re sitting on the bike, allowing you a full range of motion and letting you operate the bike’s controls easily.</p>
+            </blockquote>
+          </div><!-- /row -->
       </section>
 
 
