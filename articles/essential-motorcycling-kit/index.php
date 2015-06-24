@@ -1,5 +1,9 @@
 <!-- Set the Page ID -->
+<<<<<<< HEAD
 <?php $page_id = 21; ?>
+=======
+<?php $page_id = 6; ?>
+>>>>>>> master
 
 <?php include ("../../includes/variables.php"); ?>
 <?php include ("$path/includes/doctype.php"); ?>
@@ -22,7 +26,11 @@
         <div class="article-intro offset-by-six columns">
             <p class="subheading">Your guide to</p>
             <h1>Essential motorcycling kit</h1>
+<<<<<<< HEAD
             <p>Wearing the right kit when riding can make the difference between being injured or even killed, and just walking away. Here’s how to buy the best protective gear for when you’re on your bike </p>
+=======
+            <p>Wearing the right kit when riding can make the difference between being injured or even killed, and just walking away. Here’s how to buy the best protective gear for when you’re on your bike</p>
+>>>>>>> master
         </div>
 
         <?php include ("$path/includes/prev-next.php"); ?>
