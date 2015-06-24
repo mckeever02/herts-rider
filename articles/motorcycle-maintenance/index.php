@@ -1,9 +1,6 @@
 <!-- Set the Page ID -->
-<<<<<<< HEAD
-<?php $page_id = 21; ?>
-=======
+
 <?php $page_id = 9; ?>
->>>>>>> master
 
 <?php include ("../../includes/variables.php"); ?>
 <?php include ("$path/includes/doctype.php"); ?>
@@ -24,12 +21,8 @@
         <?php include ("$path/includes/menu.php"); ?>
 
         <div class="article-intro offset-by-six columns">
-<<<<<<< HEAD
-            <h1>Motorcycle clubs directory</h1>
-=======
             <h1>Motorcycle maintenance</h1>
             <p>Needs blurb</p>
->>>>>>> master
         </div>
 
         <?php include ("$path/includes/prev-next.php"); ?>
