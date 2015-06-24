@@ -19,6 +19,7 @@
         pixelStep: 10,
         autoInsertCSSBestPractices: true,
         lazyLoad: true,
+        lazyLoadOffsetVertical: -100,
         onChangeParamOverride: function(w, h) {
            /* Override and insert additional imgix parameters*/
            /* Currently displaying information about the image size and dpr */
