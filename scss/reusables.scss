@@ -360,7 +360,7 @@ $page-header-height: 600px;
         }
 
         .article-tile.#{$article-name}::after {
-            background: $color;
+            background: $black-pearl;
             z-index: 1;
             position: absolute;
             top: 0;

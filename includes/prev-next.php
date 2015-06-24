@@ -1,5 +1,5 @@
         <nav class="arrow-nav nav-growpop">
-          <a class="prev <? echo $page[''.$prev.'']['id'];?> <? echo $page[''.$prev.'']['type'];?>" href="../../articles<? echo $page[''.$prev.'']['type'];?>/<? echo $page[''.$prev.'']['id'];?>">
+          <a class="prev <? echo $page[''.$prev.'']['id'];?> <? echo $page[''.$prev.'']['type'];?>" href="../../<? echo $page[''.$prev.'']['type'];?>/<? echo $page[''.$prev.'']['id'];?>">
              <span class="icon-wrap">
               <svg class="icon" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 9.691 9.809">
                 <g>
@@ -14,7 +14,7 @@
             </div>
           </a>
 
-          <a class="next <? echo $page[''.$next.'']['id'];?> <? echo $page[''.$next.'']['type'];?>" href="../../articles<? echo $page[''.$next.'']['type'];?>/<? echo $page[''.$next.'']['id'];?>">
+          <a class="next <? echo $page[''.$next.'']['id'];?> <? echo $page[''.$next.'']['type'];?>" href="../../<? echo $page[''.$next.'']['type'];?>/<? echo $page[''.$next.'']['id'];?>">
             <span class="icon-wrap">
               <svg class="icon rotate-right" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 9.691 9.809">
                 <g>

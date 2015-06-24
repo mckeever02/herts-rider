@@ -11,7 +11,7 @@
 
           <ul class="drawer-menu">
             <?php foreach($page as $item) {
-                echo "<li class=\"drawer-menu-item {$item['id']} {$item['type']}\"><a href=\"../../articles{$item['type']}/{$item['id']}\">{$item['title']}</a></li>";
+                echo "<li class=\"drawer-menu-item {$item['id']} {$item['type']}\"><a href=\"../../{$item['type']}/{$item['id']}\">{$item['title']}</a></li>";
                 } ?>
           </ul>
         </nav>

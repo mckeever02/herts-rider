@@ -21,15 +21,15 @@ $page-13: protect-yourself-when-buying;
 // Article Styling
 
 ##{$page-1} {
-    @include article-style($allports, $page-1);
+    @include article-style($alizarin-crimson, $page-1);
 }
 
 ##{$page-2} {
-    @include article-style($java, $page-2);
+    @include article-style($alizarin-crimson, $page-2);
 }
 
 ##{$page-3} {
-    @include article-style($marmalade, $page-3);
+    @include article-style($alizarin-crimson, $page-3);
 }
 
 ##{$page-4} {
@@ -37,27 +37,27 @@ $page-13: protect-yourself-when-buying;
 }
 
 ##{$page-5} {
-    @include article-style($cabaret, $page-5);
+    @include article-style($alizarin-crimson, $page-5);
 }
 
 ##{$page-6} {
-    @include article-style($marmalade, $page-6);
+    @include article-style($alizarin-crimson, $page-6);
 }
 
 ##{$page-7} {
-    @include article-style($lilac, $page-7);
+    @include article-style($alizarin-crimson, $page-7);
 }
 
 ##{$page-8} {
-    @include article-style($allports, $page-8);
+    @include article-style($alizarin-crimson, $page-8);
 }
 
 ##{$page-9} {
-    @include article-style($java, $page-9);
+    @include article-style($alizarin-crimson, $page-9);
 }
 
 ##{$page-10} {
-    @include article-style($tree-poppy, $page-10);
+    @include article-style($alizarin-crimson, $page-10);
 }
 
 ##{$page-11} {
@@ -65,9 +65,9 @@ $page-13: protect-yourself-when-buying;
 }
 
 ##{$page-12} {
-    @include article-style($cabaret, $page-12);
+    @include article-style($alizarin-crimson, $page-12);
 }
 
 ##{$page-13} {
-    @include article-style($marmalade, $page-13);
+    @include article-style($alizarin-crimson, $page-13);
 }
