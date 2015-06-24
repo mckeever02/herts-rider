@@ -1,9 +1,5 @@
 <!-- Set the Page ID -->
-<<<<<<< HEAD
-<?php $page_id = 21; ?>
-=======
 <?php $page_id = 9; ?>
->>>>>>> master
 
 <?php include ("../../includes/variables.php"); ?>
 <?php include ("$path/includes/doctype.php"); ?>
