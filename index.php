@@ -1,2 +1,2 @@
-<?php header("Location: articles/contents/");
-die(); ?>
+<?//php header("Location: articles/contents/");
+//die(); ?>
