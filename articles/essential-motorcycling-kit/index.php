@@ -1,6 +1,6 @@
 <!-- Set the Page ID -->
 
-<?php $page_id = 6; ?>
+<?php $page_id = 18; ?>
 
 <?php include ("../../includes/variables.php"); ?>
 <?php include ("$path/includes/doctype.php"); ?>
@@ -22,8 +22,8 @@
 
         <div class="article-intro offset-by-six columns">
             <p class="subheading">Your guide to</p>
-            <h1>Essential motorcycling kit</h1>
-            <p>Wearing the right kit when riding can make the difference between being injured or even killed, and just walking away. Here’s how to buy the best protective gear for when you’re on your bike </p>
+            <h1><? echo $page[''.$page_id.'']['title'];?></h1>
+            <p><? echo $page[''.$page_id.'']['blurb'];?></p>
         </div>
 
         <?php include ("$path/includes/prev-next.php"); ?>
@@ -34,7 +34,7 @@
         <section class="container wow fadeInUp">
 
           <div class="longform-text-container">
-            <p class="introduction">Making sure you’re protected is as important, if not more important, than picking the right bike. Fortunately, modern day biking kit isn’t as bulky or as expensive as it used to be with something for every budget – you really don’t have to break the bank to be protected against incidents and the elements.</p>
+            <p class="introduction">Making sure you’re protected is as important, if not more important, than picking the right bike. Fortunately, modern day biking kit isn’t as bulky or as expensive as it used to be with something for every budget &mdash; you really don’t have to break the bank to be protected against incidents and the elements.</p>
           </div><!-- /longform-text-container -->
         </section>
 

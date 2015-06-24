@@ -104,6 +104,11 @@
         'blurb'  => 'Blurb needed',
         'type'  => 'articles'),
     '18' => array(
+        'id'    => 'essential-motorcycling-kit',
+        'title' => 'Essential motorcycling kit',
+        'blurb'  => '>Wearing the right kit when riding can make the difference between being injured or even killed, and just walking away. Here’s how to buy the best protective gear for when you’re on your bike ',
+        'type'  => 'articles'),
+    '19' => array(
         'id'    => 'protect-yourself-when-buying',
         'title' => 'Protect yourself when buying',
         'blurb'  => 'Don’t take chances when purchasing protective kit...',
