@@ -15,7 +15,7 @@
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-    <header class="page-header dark imgix-fluid-bg dark-overlay" data-src="https://firstcar.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/page-header.jpg?auto=format,enhance&fit=crop" role="banner">
+    <header class="page-header dark imgix-fluid-bg dark-overlay" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/page-header.jpg?auto=format,enhance&fit=crop" role="banner">
         <?php include ("$path/includes/logo.php"); ?>
         <?php include ("$path/includes/menu.php"); ?>
 
@@ -53,7 +53,7 @@
           <div class="row">
 
             <div class="full column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://firstcar.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/stay-seen.jpg" alt="Stay seen"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/stay-seen.jpg" alt="Stay seen"></div>
             </div><!-- /full-column column -->
           </div>
 
@@ -104,7 +104,7 @@
           <div class="row">
 
             <div class="full column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://firstcar.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/stay-seen.jpg" alt="Stay seen"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/stay-seen.jpg" alt="Stay seen"></div>
             </div><!-- /full-column column -->
           </div>
 
@@ -179,7 +179,7 @@
           <div class="row">
 
             <div class="full column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://firstcar.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/stay-seen.jpg" alt="Stay seen"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/stay-seen.jpg" alt="Stay seen"></div>
             </div><!-- /full-column column -->
           </div>
 

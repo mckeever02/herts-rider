@@ -16,7 +16,7 @@
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-    <header class="page-header dark imgix-fluid-bg dark-overlay" data-src="https://firstcar.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/page-header.jpg?auto=format,enhance&fit=crop" role="banner">
+    <header class="page-header dark imgix-fluid-bg dark-overlay" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/page-header.jpg?auto=format,enhance&fit=crop" role="banner">
         <?php include ("$path/includes/logo.php"); ?>
         <?php include ("$path/includes/menu.php"); ?>
 
@@ -39,7 +39,7 @@
 
             <p>What you’re looking for is a label that has a CE (Conformité Européenne) marking on it. This shows that the clothing has undergone rigorous testing to ensure that if you come off your bike, it’ll protect you as well as possible.</p>
 
-            <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="https://firstcar.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/CE-marking.jpg" alt="CE marking"></div>
+            <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/CE-marking.jpg" alt="CE marking"></div>
 
             <p>If you buy something that doesn’t have the CE marking on it, the chances are that it’s little more than mainstream leisure clothing which will be torn to shreds at the first sign of an interface with the Tarmac.</p>
 
@@ -55,7 +55,7 @@
 
             <div class="one-third column">
               <div class="u-text-center">
-                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="https://firstcar.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/boots.jpg" alt="boots"></div>
+                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/boots.jpg" alt="boots"></div>
                 <h3>Boots</h3>
                 <h5>CE EN 13634</h5>
               </div>
@@ -63,7 +63,7 @@
 
             <div class="one-third column">
               <div class="u-text-center">
-                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="https://firstcar.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/boots.jpg" alt="boots"></div>
+                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/boots.jpg" alt="boots"></div>
                 <h3>Jackets, trousers &amp; suits</h3>
                 <h5>CE EN 13595</h5>
               </div>
@@ -71,7 +71,7 @@
 
             <div class="one-third column">
               <div class="u-text-center">
-                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="https://firstcar.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/boots.jpg" alt="boots"></div>
+                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/boots.jpg" alt="boots"></div>
                 <h3>Impact protectors &amp; body armour</h3>
                 <h5>CE EN 1621</h5>
               </div>

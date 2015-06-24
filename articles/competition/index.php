@@ -15,7 +15,7 @@
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-    <header class="page-header dark imgix-fluid-bg dark-overlay" data-src="https://firstcar.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/page-header.jpg?auto=format,enhance&fit=crop" role="banner">
+    <header class="page-header dark imgix-fluid-bg dark-overlay" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/page-header.jpg?auto=format,enhance&fit=crop" role="banner">
         <?php include ("$path/includes/logo.php"); ?>
         <?php include ("$path/includes/menu.php"); ?>
 
@@ -49,13 +49,13 @@
             </div><!-- /one-half column -->
 
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://firstcar.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/helmet.jpg" alt="Kabuto Kamui helmet"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/helmet.jpg" alt="Kabuto Kamui helmet"></div>
             </div><!-- /one-half column -->
           </div><!-- /row -->
 
           <div class="row">
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://firstcar.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/boots.jpg" alt="Falco Boots Oxegen"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/boots.jpg" alt="Falco Boots Oxegen"></div>
             </div><!-- /one-half column -->
 
             <div class="one-half column">
@@ -71,13 +71,13 @@
             </div><!-- /one-half column -->
 
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://firstcar.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/boots.jpg" alt="ARMR Ashido 2 jacket"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/boots.jpg" alt="ARMR Ashido 2 jacket"></div>
             </div><!-- /one-half column -->
           </div><!-- /row -->
 
           <div class="row">
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://firstcar.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/roadskin-jeans.jpg" alt="Roadskin Paranoid jeans"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/roadskin-jeans.jpg" alt="Roadskin Paranoid jeans"></div>
             </div><!-- /one-half column -->
 
             <div class="one-half column">
@@ -93,13 +93,13 @@
             </div><!-- /one-half column -->
 
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://firstcar.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/chain-lock.jpg" alt="Lampa Kiton chain lock"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/chain-lock.jpg" alt="Lampa Kiton chain lock"></div>
             </div><!-- /one-half column -->
           </div><!-- /row -->
 
           <div class="row">
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://firstcar.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/roadskin-jeans.jpg" alt="Lampa Optima bike cover"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/roadskin-jeans.jpg" alt="Lampa Optima bike cover"></div>
             </div><!-- /one-half column -->
 
             <div class="one-half column">
@@ -115,13 +115,13 @@
             </div><!-- /one-half column -->
 
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://firstcar.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/gloves.jpg" alt="ARMR S550 gloves"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/gloves.jpg" alt="ARMR S550 gloves"></div>
             </div><!-- /one-half column -->
           </div><!-- /row -->
 
           <div class="row">
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://firstcar.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/indo-trousers.jpg" alt="ARMR Indo trousers"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/indo-trousers.jpg" alt="ARMR Indo trousers"></div>
             </div><!-- /one-half column -->
 
             <div class="one-half column">

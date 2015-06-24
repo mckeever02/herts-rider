@@ -23,7 +23,7 @@
 
 
       <ul class="contents">
-           <li class="intro article-tile imgix-fluid-bg" data-src="https://firstcar.imgix.net/articles/contents/images/page-header.jpg?auto=format,enhance&sat=-100">
+           <li class="intro article-tile imgix-fluid-bg" data-src="https://herts-rider.imgix.net/articles/contents/images/page-header.jpg?auto=format,enhance&sat=-100">
               <img class="intro-image" src="images/walsall-logo.svg" alt="Walsall Council logo">
                <h2>Welcome to FirstCar Provisional</h2>
                <p class="opening">FirstCar Provisional tells you everything you need to know about finding the right instructor, learning with your parents and getting through your theory test.</p>
@@ -31,7 +31,7 @@
            </li>
             <?php foreach($page as $item) {
                 echo "
-                    <li class=\"article-tile imgix-fluid-bg {$item['id']} {$item['type']}\" data-src=\"https://firstcar.imgix.net/articles/{$item['id']}/images/page-header.jpg?auto=format,enhance&fit=crop&sat=-100\">
+                    <li class=\"article-tile imgix-fluid-bg {$item['id']} {$item['type']}\" data-src=\"https://herts-rider.imgix.net/articles/{$item['id']}/images/page-header.jpg?auto=format,enhance&fit=crop&sat=-100\">
                         <a class=\"tile-link\" href=\"../{$item['id']}\">
                             <h3>{$item['title']}</h3>
                             <p>{$item['blurb']}</p>
