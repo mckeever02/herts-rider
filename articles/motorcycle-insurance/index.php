@@ -1,5 +1,5 @@
 <!-- Set the Page ID -->
-<?php $page_id = 20; ?>
+<?php $page_id = 6; ?>
 
 <?php include ("../../includes/variables.php"); ?>
 <?php include ("$path/includes/doctype.php"); ?>
@@ -42,7 +42,7 @@
         <section class="container">
           <div class="row">
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/right-kit.jpg" alt="Wear the right kit"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:115%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/right-kit.jpg" alt="Wear the right kit"></div>
             </div><!-- one-half column -->
 
             <div class="one-half column">

@@ -147,7 +147,7 @@
 
             <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
                <div class="u-text-center list-number-box">
-                <span class="circle-container">1</span>
+                <span class="circle-container">4</span>
                   <h3>Check your blind spots </h3>
                  <p>Those rearward safety checks aren’t just designed for the test – they’re a potentially life-saving habit, which is why they’re known as Lifesavers.</p>
                </div><!-- /u-text-center -->
@@ -155,7 +155,7 @@
 
             <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
                <div class="u-text-center list-number-box">
-                <span class="circle-container">2</span>
+                <span class="circle-container">5</span>
                 <h3>Give yourself space</h3>
                  <p>Keeping your distance increases your range of vision and gives you space to stop in an emergency. Give parked cars at the side of the road plenty of clearance. Allow for car doors opening or pedestrians appearing from between parked cars. Position your bike accordingly and reduce speed as the space around you is reduced.</p>
                </div><!-- /u-text-center -->
@@ -163,7 +163,7 @@
 
             <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
                <div class="u-text-center list-number-box">
-                <span class="circle-container">3</span>
+                <span class="circle-container">6</span>
                 <h3>Danger zones</h3>
                  <p>According to an in-depth study of motorcycle crashes, the most common accidents involve failing to negotiate bends on rural A-roads, collisions at junctions, collisions while overtaking and loss of control. </p>
                </div><!-- /u-text-center -->
@@ -221,7 +221,7 @@
 
             <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
                <div class="u-text-center list-number-box">
-                <span class="circle-container">1</span>
+                <span class="circle-container">4</span>
                   <h3>Choose your gear</h3>
                  <p>The correct gear gives you control and allows you to use your throttle to react to a situation, so continually monitor your choice of gear.</p>
                </div><!-- /u-text-center -->
@@ -229,7 +229,7 @@
 
             <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
                <div class="u-text-center list-number-box">
-                <span class="circle-container">2</span>
+                <span class="circle-container">5</span>
                 <h3>Stopping distance </h3>
                  <p>Can you stop in the distance you can see will remain clear, and on your own side of the road, if you need to?</p>
                </div><!-- /u-text-center -->

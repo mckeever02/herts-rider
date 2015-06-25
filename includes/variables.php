@@ -112,11 +112,6 @@
         'id'    => 'protect-yourself-when-buying',
         'title' => 'Protect yourself when buying',
         'blurb'  => 'Don’t take chances when purchasing protective kit...',
-        'type'  => 'articles'),
-    '20' => array(
-        'id'    => 'motorcycle-insurance',
-        'title' => 'Motorcycle insurance',
-        'blurb' => 'We’ve always got something better than insurance to spend our money on, but to stay on the right side of the law, it’s an essential purchase',
         'type'  => 'articles')
     // '19' => array(
     //     'id'    => 'tso-prepare-to-pass',
