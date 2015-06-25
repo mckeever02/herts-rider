@@ -19,9 +19,9 @@
         'blurb' => 'FirstCar Provisional Edition Contents Page',
         'type'  => 'articles'),
     '1' => array(
-        'id'    => 'the-learning-journey',
-        'title' => 'The learning journey',
-        'blurb' => 'Wondering what you need to do and when? Then wonder no more.',
+        'id'    => 'foreword',
+        'title' => 'Foreword by Charlie Boorman ',
+        'blurb' => 'blurb needed',
         'type'  => 'articles'),
     '2' => array(
         'id'    => 'marmalade-start-your-engines',
@@ -29,9 +29,9 @@
         'url'   => 'http://www.wearemarmalade.co.uk/learner-driver-insurance?guid=1C23A77A719E4F72990E763035391DE9',
         'type'  => 'ads'),
     '3' => array(
-        'id'    => 'the-cost-of-learning-to-drive',
-        'title' => 'The cost of learning to drive',
-        'blurb'  => 'Learning to drive is an investment; this is how big an investment it really is.',
+        'id'    => 'about',
+        'title' => 'About',
+        'blurb' => 'blurb needed',
         'type'  => 'articles'),
     '4' => array(
         'id'    => 'marmalade-time-to-upgrade-the-wheels',

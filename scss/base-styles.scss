@@ -93,6 +93,7 @@ Page Header has a Dark and Light Theme that affects logo, text and menu colour *
             color: white;
             &.logo {
                 background: url(../images/logo-white.svg) no-repeat;
+                background-size: contain;
             }
         }
         .drawer-hamburger-icon,
@@ -111,6 +112,7 @@ Page Header has a Dark and Light Theme that affects logo, text and menu colour *
             color: $black-pearl;
             &.logo {
                 background: url(../images/logo.svg) no-repeat;
+                background-size: contain;
             }
         }
         .drawer-hamburger-icon,
@@ -144,6 +146,10 @@ h1.logo {
     width: 250px;
     margin: 3rem;
     position: absolute;
+    @media (min-width: $desktop-breakpoint) {
+      width: 300px;
+      background-size: 120%;
+    }
 }
 
 .article-intro {
