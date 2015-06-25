@@ -104,7 +104,7 @@
           <div class="row">
 
             <div class="full column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/stay-seen.jpg" alt="Stay seen"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/expect-the-unexpected.jpg" alt="Expect the unexpected"></div>
             </div><!-- /full-column column -->
           </div>
 
@@ -179,7 +179,7 @@
           <div class="row">
 
             <div class="full column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/stay-seen.jpg" alt="Stay seen"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/round-the-bend.jpg" alt="Going round thte bend"></div>
             </div><!-- /full-column column -->
           </div>
 
