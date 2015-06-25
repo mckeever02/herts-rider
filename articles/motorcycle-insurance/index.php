@@ -1,5 +1,5 @@
 <!-- Set the Page ID -->
-<?php $page_id = 9; ?>
+<?php $page_id = 20; ?>
 
 <?php include ("../../includes/variables.php"); ?>
 <?php include ("$path/includes/doctype.php"); ?>
@@ -20,8 +20,8 @@
         <?php include ("$path/includes/menu.php"); ?>
 
         <div class="article-intro offset-by-six columns">
-            <h1>Motorcycle insurance</h1>
-            <p>We’ve always got something better than insurance to spend our money on, but to stay on the right side of the law, it’s an essential purchase</p>
+            <h1><? echo $page[''.$page_id.'']['title'];?></h1>
+            <p><? echo $page[''.$page_id.'']['blurb'];?></p>
         </div>
 
         <?php include ("$path/includes/prev-next.php"); ?>
