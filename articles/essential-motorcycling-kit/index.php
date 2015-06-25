@@ -43,7 +43,7 @@
           <div class="row">
 
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/helmet.jpg" alt="Helmet"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/helmet.jpg" alt="Helmet"></div>
             </div><!-- /one-half column -->
 
             <div class="one-half column">
@@ -121,29 +121,6 @@
           <div class="row">
 
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/helmet.jpg" alt="Helmet"></div>
-            </div><!-- /one-half column -->
-
-            <div class="one-half column">
-              <h2>Helmets</h2>
-              <p>A helmet is your most important piece of safety equipment, so don’t skimp. Helmets sold in the UK must satisfy either British Standard 6658: 1985 or ECE Regulation 22.05 standards. Look for a label inside the helmet or on the shell to confirm this.</p>
-
-              <p>Making sure that it fits correctly and won’t move around or come off when the chinstrap is done up is essential to offer the maximum protection in a crash. For extra peace of mind visit <a href="direct.gov.uk">direct.gov.uk</a> and check out the Safety Helmet Assessment and Rating Programme (SHARP). This independent body tests helmets, rates their performance and has a detailed guide on getting the right fit. Any helmet listed as having the full five stars would be a good choice.</p>
-            </div><!-- one-half column -->
-          </div><!-- /row -->
-          <div class="row">
-            <blockquote>
-              <span class="small-text footnote">Top tip</span>
-              <p>Never buy a second-hand helmet. The external appearance can disguise damage to the protective material inside the helmet, drastically lowering its level of protection in a crash.</p>
-            </blockquote>
-          </div><!-- /row -->
-      </section>
-
-      <section class="container">
-
-          <div class="row">
-
-            <div class="one-half column">
               <h2>Gloves</h2>
               <p>Your hands are one of the first things to touch the ground if you come off your bike, so they must be protected. Fingers and wrists are fragile, so it doesn’t take much for them to sustain long-term damage. </p>
 
@@ -156,7 +133,7 @@
 
 
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/gloves.jpg" alt="Gloves"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/gloves.jpg" alt="Gloves"></div>
             </div><!-- /one-half column -->
           </div><!-- /row -->
       </section>
@@ -237,7 +214,7 @@
             </div><!-- one-half column -->
 
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/jacket.jpg" alt="Jacket"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:120%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/jacket.jpg" alt="Jacket"></div>
             </div><!-- /one-half column -->
 
           </div><!-- /row -->
@@ -303,7 +280,7 @@
           <div class="row">
 
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/boots.jpg" alt="Boots"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/boots.jpg" alt="Boots"></div>
             </div><!-- /one-half column -->
 
             <div class="one-half column">
@@ -380,7 +357,7 @@
             </div><!-- one-half column -->
 
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/trousers.jpg" alt="trousers"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:125%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/trousers.jpg" alt="trousers"></div>
             </div><!-- /one-half column -->
 
           </div><!-- /row -->

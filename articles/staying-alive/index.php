@@ -185,7 +185,7 @@
 
           <div class="row">
             <div class="longform-text-container">
-              <p>DLosing control while going round a bend is one the biggest causes of motorcycle crashes. Remember that left-hand bends present a bigger danger, because losing control here generally means sliding into oncoming traffic. Here’s how to tackle bends successfully:</p>
+              <p>Losing control while going round a bend is one the biggest causes of motorcycle crashes. Remember that left-hand bends present a bigger danger, because losing control here generally means sliding into oncoming traffic. Here’s how to tackle bends successfully:</p>
 
             </div><!-- /text-container -->
           </div><!-- /row -->
