@@ -43,92 +43,57 @@
 
         <section class="container">
           <div class="row">
-            <div class="one-half column">
+            <div class="four columns">
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/helmet.jpg" alt="Kabuto Kamui helmet"></div>
               <h2>Kabuto Kamui helmet</h2>
               <h3>Worth £199.99</h3>
-            </div><!-- /one-half column -->
-
-            <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/helmet.jpg" alt="Kabuto Kamui helmet"></div>
-            </div><!-- /one-half column -->
-          </div><!-- /row -->
-
-          <div class="row">
-            <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/boots.jpg" alt="Falco Boots Oxegen"></div>
-            </div><!-- /one-half column -->
-
-            <div class="one-half column">
+            </div>
+            <div class="four columns">
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/boots.jpg" alt="Falco Boots Oxegen"></div>
               <h2>Falco Boots Oxegen</h2>
               <h3>Worth £129.99</h3>
-            </div><!-- /one-half column -->
-          </div><!-- /row -->
-
-          <div class="row">
-            <div class="one-half column">
+            </div>
+            <div class="four columns">
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/jacket.jpg" alt="ARMR Ashido 2 jacket"></div>
               <h2>ARMR Ashido 2 jacket</h2>
               <h3>Worth £99.99</h3>
-            </div><!-- /one-half column -->
-
-            <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/boots.jpg" alt="ARMR Ashido 2 jacket"></div>
-            </div><!-- /one-half column -->
-          </div><!-- /row -->
-
+            </div>
+          </row>
+        </section>
+        <section class="container">
           <div class="row">
-            <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/roadskin-jeans.jpg" alt="Roadskin Paranoid jeans"></div>
-            </div><!-- /one-half column -->
-
-            <div class="one-half column">
+            <div class="four columns">
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/roadskin-jeans.jpg" alt="Roadskin Paranoid jeans"></div>
               <h2>Roadskin Paranoid jeans</h2>
               <h3>Worth £119.99</h3>
-            </div><!-- /one-half column -->
-          </div><!-- /row -->
-
-          <div class="row">
-            <div class="one-half column">
+            </div>
+            <div class="four columns">
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/chain-lock.jpg" alt="Lampa Kiton chain lock"></div>
               <h2>Lampa Kiton chain lock</h2>
               <h3>Worth £39.99</h3>
-            </div><!-- /one-half column -->
-
-            <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/chain-lock.jpg" alt="Lampa Kiton chain lock"></div>
-            </div><!-- /one-half column -->
-          </div><!-- /row -->
-
-          <div class="row">
-            <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/roadskin-jeans.jpg" alt="Lampa Optima bike cover"></div>
-            </div><!-- /one-half column -->
-
-            <div class="one-half column">
-              <h2>Lampa Optima bike cover</h2>
-              <h3>Worth £39.99</h3>
-            </div><!-- /one-half column -->
-          </div><!-- /row -->
-
-          <div class="row">
-            <div class="one-half column">
+            </div>
+            <div class="four columns">
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/gloves.jpg" alt="ARMR S550 gloves"></div>
               <h2>ARMR S550 gloves</h2>
               <h3>Worth £49.99</h3>
-            </div><!-- /one-half column -->
-
-            <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/gloves.jpg" alt="ARMR S550 gloves"></div>
-            </div><!-- /one-half column -->
-          </div><!-- /row -->
-
+            </div>
+          </div><!--  /row -->
+        </section>
+        <section class="container">
           <div class="row">
-            <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/indo-trousers.jpg" alt="ARMR Indo trousers"></div>
-            </div><!-- /one-half column -->
-
-            <div class="one-half column">
+            <div class="four columns">
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/bike-cover.jpg" alt="Lampa Optima bike cover"></div>
+              <h2>Lampa Optima bike cover</h2>
+              <h3>Worth £39.99</h3>
+            </div>
+            <div class="four columns">
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/indo-trousers.jpg" alt="ARMR Indo trousers"></div>
               <h2>ARMR Indo trousers</h2>
               <h3>Worth £79.99</h3>
-            </div><!-- /one-half column -->
+            </div>
           </div><!-- /row -->
+        </section>
+
 
           <div class="u-center-table">
             <a href="" class="button button-primary button-large animated pulse infinite">Enter for your chance to win</a>
