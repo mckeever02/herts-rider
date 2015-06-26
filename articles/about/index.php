@@ -34,7 +34,7 @@
           <div class="longform-text-container">
             <p class="introduction">Welcome to the summer edition of Hertfordshire Rider, produced to make sure you've got the most informative, interesting and topical content on motorcycling in and around Hertfordshire at your fingertips.</p>
 
-            <p>Whether you’re a seasoned rider with thousands of miles under your belt or you're just thinking about getting on a bike for the first time, we're sure you'll find the features as enlightening as they are absorbing.</p>
+            <p class="u-cf">Whether you’re a seasoned rider with thousands of miles under your belt or you're just thinking about getting on a bike for the first time, we're sure you'll find the features as enlightening as they are absorbing.</p>
 
             <p>If you’re not already involved with a club make sure you check out our <a href="../motorcycle-clubs-directory/">local clubs directory</a>. Biking should be a hugely social activity and by getting involved with a local group you can share your knowledge and benefit from the experience of others too.</p>
 

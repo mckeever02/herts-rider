@@ -37,210 +37,135 @@
           </div><!-- /longform-text-container -->
         </section>
 
-        <section class="container">
+        <section class="container lined">
+          <div class="u-text-center">
+            <svg class="icon icon-article icon-section" x="0px" y="0px" width="165px" height="165px" viewBox="0 0 200 200">
+              <circle fill="#FFFFFF" cx="100.027" cy="100.025" r="90.974"/>
+              <g>
+                <defs>
+                  <rect id="SVGID_1_" width="200" height="200"/>
+                </defs>
+                <clipPath id="SVGID_2_">
+                  <use xlink:href="#SVGID_1_"  overflow="visible"/>
+                </clipPath>
+                <path clip-path="url(#SVGID_2_)" d="M100,192.75c-51.143,0-92.75-41.607-92.75-92.75C7.25,48.857,48.857,7.25,100,7.25
+                  c51.143,0,92.75,41.607,92.75,92.75C192.75,151.143,151.143,192.75,100,192.75 M100,11.25c-48.937,0-88.75,39.813-88.75,88.75
+                  c0,48.937,39.813,88.75,88.75,88.75c48.937,0,88.75-39.813,88.75-88.75C188.75,51.063,148.937,11.25,100,11.25"/>
+                <rect x="30" y="156.002" clip-path="url(#SVGID_2_)" width="140" height="4"/>
+                <path clip-path="url(#SVGID_2_)" d="M117.97,98.194l-11.727-36.778c0-3.21-2.627-5.813-5.868-5.813h-48.5v-5.327
+                  c0-0.653-0.53-1.184-1.184-1.184h-4.736c-0.654,0-1.184,0.531-1.184,1.184v5.41c-2.843,0.404-5.036,2.802-5.036,5.73L28.008,98.194
+                  h-0.01v0.817c0,1.308,1.06,2.368,2.368,2.368h85.247c1.308,0,2.367-1.06,2.367-2.368v-0.817H117.97z"/>
+                <path clip-path="url(#SVGID_2_)" d="M33.523,156.835h78.932v-55.646H33.523V156.835z M57.718,146.08H43.51v-13.912h14.208V146.08z
+                   M57.718,122.399H43.51v-13.912h14.208V122.399z M80.093,155.732H65.885v-23.564h14.208V155.732z M102.823,146.08H88.615v-13.912
+                  h14.208V146.08z M102.823,122.399H88.615v-13.912h14.208V122.399z"/>
+                <path clip-path="url(#SVGID_2_)" d="M159.174,143.966c0.089-0.087,0.174-0.172,0.257-0.255c1.085-1.085,1.549-2.204,1.38-3.327
+                  c-0.176-1.167-1.028-2.185-2.464-2.943c-1.836-0.97-7.486-3.893-7.543-3.923c-0.35-0.181-0.772-0.141-1.082,0.103
+                  c-0.31,0.244-0.448,0.645-0.355,1.026l0.827,3.413l-6.72-1.466c-0.286-0.062-0.583,0.002-0.817,0.178l-3.854,2.891l-4.246-0.9
+                  l-3.711-3.569c-0.218-0.209-0.519-0.309-0.817-0.272l-9.947,1.206c-0.433,0.052-0.782,0.378-0.864,0.807s0.12,0.862,0.504,1.071
+                  l12.108,6.636l-1.158,0.933c-1.098-1.024-2.568-1.652-4.186-1.652c-3.388,0-6.144,2.756-6.144,6.144s2.756,6.144,6.144,6.144
+                  c3.274,0,5.958-2.574,6.134-5.806h3.456l0.688,1.588c0.158,0.367,0.521,0.605,0.922,0.605h11.604c0.243,0,0.479-0.088,0.661-0.248
+                  c0.101-0.087,1.049-0.916,2.345-2.065c0.116,3.286,2.824,5.926,6.14,5.926c3.388,0,6.144-2.756,6.144-6.144
+                  C164.576,146.927,162.214,144.333,159.174,143.966 M126.484,152.188c-1.172,0-2.125-0.953-2.125-2.125s0.953-2.125,2.125-2.125
+                  s2.125,0.953,2.125,2.125S127.656,152.188,126.484,152.188 M158.433,152.188c-1.172,0-2.125-0.953-2.125-2.125
+                  s0.953-2.125,2.125-2.125s2.125,0.953,2.125,2.125S159.604,152.188,158.433,152.188"/>
+              </g>
+            </svg>
+            <h2 class="color">Practical test</h2>
+          </div><!-- /u-text-center -->
+
+          <div class="longform-text-container">
+            <p class="u-text-center"><strong>You must hold a valid motorcycle theory test certificate before you can take your practical tests. The theory test takes just 30 minutes to do.</strong></p>
+          </div><!-- /longform-text-container -->
+        </section>
+
+                <section class="container lined">
+          <div class="u-text-center">
+            <svg class="icon icon-article icon-section" x="0px" y="0px" width="165px" height="165px" viewBox="0 0 200 200">
+              <circle fill="#FFFFFF" cx="100.027" cy="100.025" r="90.974"/>
+              <g>
+                <defs>
+                  <rect id="SVGID_1_" width="200" height="200"/>
+                </defs>
+                <clipPath id="SVGID_2_">
+                  <use xlink:href="#SVGID_1_"  overflow="visible"/>
+                </clipPath>
+                <path clip-path="url(#SVGID_2_)" d="M100,192.75c-51.143,0-92.75-41.607-92.75-92.75C7.25,48.857,48.857,7.25,100,7.25
+                  c51.143,0,92.75,41.607,92.75,92.75C192.75,151.143,151.143,192.75,100,192.75 M100,11.25c-48.937,0-88.75,39.813-88.75,88.75
+                  c0,48.937,39.813,88.75,88.75,88.75c48.937,0,88.75-39.813,88.75-88.75C188.75,51.063,148.937,11.25,100,11.25"/>
+                <rect x="30" y="156.002" clip-path="url(#SVGID_2_)" width="140" height="4"/>
+                <path clip-path="url(#SVGID_2_)" d="M117.97,98.194l-11.727-36.778c0-3.21-2.627-5.813-5.868-5.813h-48.5v-5.327
+                  c0-0.653-0.53-1.184-1.184-1.184h-4.736c-0.654,0-1.184,0.531-1.184,1.184v5.41c-2.843,0.404-5.036,2.802-5.036,5.73L28.008,98.194
+                  h-0.01v0.817c0,1.308,1.06,2.368,2.368,2.368h85.247c1.308,0,2.367-1.06,2.367-2.368v-0.817H117.97z"/>
+                <path clip-path="url(#SVGID_2_)" d="M33.523,156.835h78.932v-55.646H33.523V156.835z M57.718,146.08H43.51v-13.912h14.208V146.08z
+                   M57.718,122.399H43.51v-13.912h14.208V122.399z M80.093,155.732H65.885v-23.564h14.208V155.732z M102.823,146.08H88.615v-13.912
+                  h14.208V146.08z M102.823,122.399H88.615v-13.912h14.208V122.399z"/>
+                <path clip-path="url(#SVGID_2_)" d="M159.174,143.966c0.089-0.087,0.174-0.172,0.257-0.255c1.085-1.085,1.549-2.204,1.38-3.327
+                  c-0.176-1.167-1.028-2.185-2.464-2.943c-1.836-0.97-7.486-3.893-7.543-3.923c-0.35-0.181-0.772-0.141-1.082,0.103
+                  c-0.31,0.244-0.448,0.645-0.355,1.026l0.827,3.413l-6.72-1.466c-0.286-0.062-0.583,0.002-0.817,0.178l-3.854,2.891l-4.246-0.9
+                  l-3.711-3.569c-0.218-0.209-0.519-0.309-0.817-0.272l-9.947,1.206c-0.433,0.052-0.782,0.378-0.864,0.807s0.12,0.862,0.504,1.071
+                  l12.108,6.636l-1.158,0.933c-1.098-1.024-2.568-1.652-4.186-1.652c-3.388,0-6.144,2.756-6.144,6.144s2.756,6.144,6.144,6.144
+                  c3.274,0,5.958-2.574,6.134-5.806h3.456l0.688,1.588c0.158,0.367,0.521,0.605,0.922,0.605h11.604c0.243,0,0.479-0.088,0.661-0.248
+                  c0.101-0.087,1.049-0.916,2.345-2.065c0.116,3.286,2.824,5.926,6.14,5.926c3.388,0,6.144-2.756,6.144-6.144
+                  C164.576,146.927,162.214,144.333,159.174,143.966 M126.484,152.188c-1.172,0-2.125-0.953-2.125-2.125s0.953-2.125,2.125-2.125
+                  s2.125,0.953,2.125,2.125S127.656,152.188,126.484,152.188 M158.433,152.188c-1.172,0-2.125-0.953-2.125-2.125
+                  s0.953-2.125,2.125-2.125s2.125,0.953,2.125,2.125S159.604,152.188,158.433,152.188"/>
+              </g>
+            </svg>
+            <h2 class="color">Theory test</h2>
+          </div><!-- /u-text-center -->
+
+          <div class="longform-text-container">
+            <p class="u-text-center"><strong>You must hold a valid motorcycle theory test certificate before you take your practical tests.</strong></p>
+          </div><!-- /longform-text-container -->
+
           <div class="row">
             <div class="one-third column">
-              <h3>5 Counties Motorcycle Club</h3>
-              <ul>
-                <li>Based in Stevenage</li>
-                <li>Regular ride-outs and social events</li>
-                <li>Meets at various pubs on Monday nights from 7.30pm</li>
-              </ul>
+              <div class="u-text-center">
+                <h3>Age 16</h3>
+                <p class="subheading">AM: moped licence</p>
+                <p>You can now ride a 50cc moped restricted to 28mph. No need for L-plates, no passengers allowed, you can’t use the motorway.</p>
 
-              <ul class="plain-list">
-                <li><strong>Contact:</strong> Clinton &amp; Colleen Spinas</li>
-                <li><strong>Telephone:</strong> <a href="tel:07507493705">07507 493705</a></li>
+                <p><strong>Your options now:</strong></p>
+              </div>
+
+              <ul>
+                <li>Keep riding a moped (limited to 50cc).</li>
+                <li>At 17 years or over, take a motorcycle test so you can graduate to a larger, more powerful machine.</li>
               </ul>
-            </div>
+            </div><!-- /one-thid column -->
 
             <div class="one-third column">
-              <h3>AJS &amp; Matchless Owners Club Ltd (Hertfordshire Section) </h3>
-              <ul>
-                <li>Group of British bike enthusiasts</li>
-                <li>Meets at the Goat, Hertford Heath on 1st Thursday of the month</li>
-                <li>Organised runs throughout year</li>
-                <li>Sell parts to non-members &mdash; details on website</li>
-              </ul>
+              <div class="u-text-center">
+                <h3>Age 17-18</h3>
+                <p class="subheading">A1 licence</p>
+                <p>You can now ride a 125cc machine. There’s no need to have L-plates fitted, no passengers allowed. You can now use the motorway.</p>
 
-              <ul class="plain-list">
-                <li><strong>Web:</strong> <a href="http://jampot.com">jampot.com</a></li>
-                <li><strong>Contact:</strong> Rob Harknett</li>
-                <li><strong>Telephone:</strong> <a href="tel:01279792329">01279 792329</a></li>
-                <li><strong>Email:</strong> <a href="mailto:prewar@jampot.com">prewar@jampot.com</a></li>
+                <p><strong>Your options now:</strong></p>
+              </div>
+
+              <ul>
+                <li>Keep riding a 125cc motorcycle.</li>
+                <li>At 19 years or over, you can take your category A2 test and ride a bike of up to 35kW (46.6bhp).</li>
               </ul>
-            </div>
+            </div><!-- /one-thid column -->
 
             <div class="one-third column">
-              <h3>British Owners’ Club </h3>
-              <ul>
-                <li>Restoration and preservation of British motorcycles</li>
-                <li>Regular meetings and shows</li>
-                <li>Meets every Wednesday from 7.30pm at The Woodbine Inn, Honey Lane, Waltham Abbey</li>
-              </ul>
+              <div class="u-text-center">
+                <h3>Age 19</h3>
+                <p class="subheading">A2 licence</p>
+                <p>You can now ride any bike up to 35kW (46.6 bhp). No L-plates need to be fitted, no passengers allowed. You can now use the motorway.</p>
 
-              <ul class="plain-list">
-                <li><strong>Web:</strong> <a href="http://www.britishownersclubessex.co.uk">britishownersclubessex.co.uk</a></li>
-                <li><strong>Contact:</strong> Rob Woodford</li>
-                <li><strong>Telephone:</strong> <a href="tel:07974451158">07974 451158</a></li>
-                <li><strong>Email:</strong> <a href="mailto:rob.woodford@honeywell.com">prob.woodford@honeywell.com</a></li>
+                <p><strong>Your options now:</strong></p>
+              </div>
+
+              <ul>
+                <li>Keep riding a motorcycle of up to 35kw (46.6bhp).</li>
+                <li>After two years, or on reaching 24 years of age, you can take a Category A motorcycle test to ride any machine you like. </li>
               </ul>
-            </div>
+            </div><!-- /one-thid column -->
           </div><!-- /row -->
-      </section>
+        </section>
 
-      <section class="container">
-          <div class="row">
-            <div class="one-third column">
-              <h3>The Busy Bee Motorcycle Club</h3>
-              <ul>
-                <li>Informal club with regular ride-outs</li>
-                <li>Meets at Broadlakes Lodge Social Club, London Colney every Thursday evening</li>
-                <li>Meets at various pubs on Monday nights from 7.30pm</li>
-              </ul>
-
-              <ul class="plain-list">
-                <li><strong>Contact:</strong> Laurie Nelville</li>
-                <li><strong>Telephone:</strong> <a href="tel:01442257781">01442 257781</a></li>
-              </ul>
-            </div>
-
-            <div class="one-third column">
-              <h3>Eana MCC</h3>
-              <ul>
-                <li>Informal group of local motorcyclists with ride-outs, rallies and social meetings</li>
-                <li>Meets at The King &amp; Tinker, Enfield every Thursday from 8.30pm</li>
-              </ul>
-
-              <ul class="plain-list">
-                <li><strong>Web:</strong> <a href="http://www.eanamcc.com">eanamcc.com</a></li>
-                <li><strong>Contact:</strong> Becky or James</li>
-                <li><strong>Telephone:</strong> <a href="tel:07788477141">07788 477 141</a> or <a href="tel:07710171166">07710 171 166</a></li>
-                <li><strong>Email:</strong> <a href="mailto:eana_mcc@yahoo.co.uk">eana_mcc@yahoo.co.uk</a></li>
-              </ul>
-            </div>
-
-            <div class="one-third column">
-              <h3>Herts &amp; Beds Advanced Motorcyclists</h3>
-              <ul>
-                <li>Get a skill for life by joining the Herts &amp; Beds Advanced Motorcyclists (lAM)</li>
-                <li>Pass your advanced motorcycle test, socialise, better your riding. monthly ride-outs. talks etc</li>
-              </ul>
-
-              <ul class="plain-list">
-                <li><strong>Web:</strong> <a href="http://hbam.org.uk">hbam.org.uk</a></li>
-                <li><strong>Contact:</strong> Rob Woodford</li>
-                <li><strong>Telephone:</strong> <a href="tel:08004588425 ">0800 458 8425 </a></li>
-              </ul>
-            </div>
-          </div><!-- /row -->
-      </section>
-
-      <section class="container">
-          <div class="row">
-            <div class="one-third column">
-              <h3>Laser Motorcycle Club </h3>
-              <ul>
-                <li>Bikers of all abilities are welcome from novice through to advanced and beyond, on any make or age of motorcycle</li>
-                <li>Meets 1st and 3rd Thursday of the month at The Green Dragon, London Colney</li>
-                <li>Ride-outs 3rd Sunday of the month</li>
-              </ul>
-
-              <ul class="plain-list">
-                <li><strong>Web:</strong> <a href="http://www.lasermc.co.uk">lasermc.co.uk</a></li>
-                <li><strong>Email:</strong> <a href="mailto:eana_mcc@yahoo.co.uk">lasermc@lasermc.co.uk</a></li>
-              </ul>
-            </div>
-
-            <div class="one-third column">
-              <h3>North Herts Scooter Collective</h3>
-              <ul>
-                <li>Contact for information on the clubs and meetings</li>
-              </ul>
-
-              <ul class="plain-list">
-                <li><strong>Contact:</strong>Julie Bell</li>
-                <li><strong>Telephone:</strong> <a href="tel:07843423262">07843 423 262</a></li>
-                <li><strong>Email:</strong> <a href="mailto:julie@northhertssc.co.uk">julie@northhertssc.co.uk</a></li>
-              </ul>
-            </div>
-
-            <div class="one-third column">
-              <h3>Redliners MCC </h3>
-              <ul>
-                <li>Informal group of local motorcyclists with regular ride-outs and social meetings</li>
-                <li>Meets at The Swan, Pimlico. Contact below for information on meeting</li>
-              </ul>
-
-              <ul class="plain-list">
-                <li><strong>Contact:</strong>Tanya</li>
-                <li><strong>Telephone:</strong> <a href="tel:07865079639 ">07865 079 639</a></li>
-              </ul>
-            </div>
-          </div><!-- /row -->
-      </section>
-
-      <section class="container">
-          <div class="row">
-            <div class="one-third column">
-              <h3>Royston &amp; District Motorcycle Club</h3>
-              <ul>
-                <li>Mixed group of local motorcyclists</li>
-                <li>Ride-cuts, social meetings and charity fundraising events</li>
-                <li>Meets 1st and 3rd Wednesdays of the month at Eternit Sports &amp; Social Club. Nr Royston</li>
-              </ul>
-
-              <ul class="plain-list">
-                <li><strong>Contact:</strong>Peter Howes</li>
-                <li><strong>Telephone:</strong> <a href="tel:01763246865">01763 246 865</a></li>
-                <li><strong>Email:</strong> <a href="mailto:peter.howes@btltinternet.com">peter.howes@btltinternet.com</a></li>
-              </ul>
-            </div>
-
-            <div class="one-third column">
-              <h3>Stevenage &amp; District Motorcycle Club</h3>
-              <ul>
-                <li>For all ages with regular ride-outs and social meetings</li>
-                <li>Based at the Robin Hood, Walkern</li>
-                <li>Meets at various pubs every Monday night throughout the year</li>
-              </ul>
-
-              <ul class="plain-list">
-                <li><strong>Contact:</strong>Mick Taylor</li>
-                <li><strong>Telephone:</strong> <a href="tel:01438354130 ">01438 354130 </a></li>
-              </ul>
-            </div>
-
-            <div class="one-third column">
-              <h3>Vintage Motorcycle Club, Chiltern Section</h3>
-              <ul>
-                <li>Talks, runs and other events mainly for older machinery</li>
-                <li>Meets 1st Wednesday of the month at the White Hill Centre, Chesham</li>
-              </ul>
-
-              <ul class="plain-list">
-                <li><strong>Contact:</strong>Mike Vangucci</li>
-                <li><strong>Telephone:</strong> <a href="tel:01494786706">01494 786 706</a></li>
-              </ul>
-            </div>
-          </div><!-- /row -->
-      </section>
-
-      <section class="container">
-        <div class="row">
-          <div class="one-third column">
-            <h3>Vintage Motorcycle Club, East Herts Section</h3>
-            <ul>
-              <li>Talks, runs and other events mainly for older machinery</li>
-              <li>Meets 3rd Tuesday of the month at Broadlakes Lodge Social Club, London Colney</li>
-            </ul>
-
-            <ul class="plain-list">
-              <li><strong>Contact:</strong>Dave Francis</li>
-              <li><strong>Telephone:</strong> <a href="tel:01992632372">01992 632372</a></li>
-            </ul>
-          </div>
-        </div><!-- /row -->
-      </section>
 
 
         <?php include ("$path/includes/article-social-share.php"); ?>

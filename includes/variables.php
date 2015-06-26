@@ -21,7 +21,6 @@
     '1' => array(
         'id'    => 'about',
         'title' => 'Welcome to Hertfordshire Rider',
-        'blurb' => 'blurb needed',
         'type'  => 'articles'),
     '2' => array(
         'id'    => 'metropolis-motorcycles',
