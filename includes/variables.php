@@ -44,7 +44,7 @@
         'type'  => 'articles'),
     '6' => array(
         'id'    => 'top-10-hazards',
-        'title' => 'Top 10 hazards',
+        'title' => 'The top 10 motorcycle hazards',
         'blurb' => 'There are loads of potential problems to deal with when you’re on your bike. These are 10 of the most common Tarmac terrors. Remember, forewarned is forearmed...',
         'type'  => 'articles'),
     '7' => array(
@@ -113,176 +113,55 @@
     $learning_journey_steps = array(
     '1' => array(
         'step'      => '1',
-        'title'     => 'Try an under-17 driving session or join an under-17 driving club',
-        'content'   => 'Why wait until you’re 17 before you first get behind the wheel? By starting before you’re able to apply for your provisional licence, you’ll feel more relaxed about the learning process as you won’t be in a rush to apply for your test.',
-        'url'       => 'https://firstcar.co.uk/learning/under-17-driving'),
+        'title'     => 'Potholes',
+        'content'   => 'A real menace to bikers, so look well ahead and adjust your speed when riding down poorly surfaced roads; take avoiding action if you see any craters. Puddles can hide large potholes, so be wary when riding through them.'),
 
     '2' => array(
         'step'      => '2',
-        'title'     => 'Apply for your provisional licence',
-        'content'   => 'This is it – the start of your road to independence. Make sure you apply through the official website and do it in good time so you have your licence by the time your 17th birthday hits.',
-        'url'       => 'https://firstcar.co.uk/learning/how-to-apply-for-a-provisional-driving-licence'),
+        'title'     => 'Oil or diesel spills ',
+        'content'   => 'Oil and diesel forms a slick layer on the tarmac which can be as slippery as ice. Hard to spot, it can catch you unaware. Keep an eye out for rainbow-coloured markings on the road and slow down. Often you can smell diesel spills too. If you lose grip mid-corner, roll off the throttle and avoid using the brakes, as the wheels can lock up.'),
 
     '3' => array(
         'step'      => '3',
-        'title'     => 'Find a driving instructor',
-        'content'   => 'If you don’t track down the right instructor, you won’t enjoy the learning process. It’ll also probably take longer to pass your test and it’ll then cost you more, so find someone who you get on with.',
-        'url'       => 'https://firstcar.co.uk/learning/driving-instruction'),
+        'title'     => 'Manholes and drain covers',
+        'content'   => 'Unless they’re raised or loose, you shouldn’t have an issue with riding over drains and manholes in the dry &mdash; but in the wet they can be very slippery. This isn’t such an issue if riding in a straight line, but hit one mid-corner and it can be a scary experience. In the wet try to alter your line through a corner to avoid drains or manholes where possible but, if it’s unavoidable, slow down and keep the bike as upright as possible.'),
 
     '4' => array(
         'step'      => '4',
-        'title'     => 'Start preparing for your theory test ',
-        'content'   => 'Before you can take your practical test you’ll need to get through your theory exam. And the only way to do that first time is to make sure you’re fully prepared for it.',
-        'url'       => 'https://firstcar.co.uk/learning/theory-test'),
+        'title'     => 'Mud',
+        'content'   => 'More of a problem on country lanes than major routes, mud on the road can be a danger, especially if you need to brake or turn. When riding on a country lane, look at the road surface when you see an entrance to a field, especially if it’s wet, and plan to slow or take avoiding action if necessary. This can also apply to the exits of building sites.'),
 
     '5' => array(
         'step'       => '5',
-        'title'     => 'Begin your driving lessons ',
-        'content'   => 'Once you’ve started preparing for your theory test you can start putting what you’ve learned into practice, by taking to the road for the first time, under the watchful eye of a decent driving instructor.',
-        'url'       => 'https://firstcar.co.uk/learning/make-driving-lessons'),
+        'title'     => 'Gravel',
+        'content'   => 'Bikes tend not to aquaplane as much as cars because the more rounded tyres can disperse water more efficiently. But riding through standing water can still be a hazard for a biker as it can obscure your view of the Tarmac beneath, hiding more dangerous hazards.'),
 
     '6' => array(
         'step'      => '6',
-        'title'     => 'Get in as much private practice as possible ',
-        'content'   => 'It’s essential that you invest in some professional tuition, but it’s worth supplementing this with some private practice in the family car. Or maybe even your own car if you’ve already bought something. Either way, getting in as much practice as you can, before you take your driving test, is key.',
-        'url'       => 'https://firstcar.co.uk/learning/learn-with-your-parents'),
+        'title'     => 'Standing water',
+        'content'   => 'It’s essential that you invest in some professional tuition, but it’s worth supplementing this with some private practice in the family car. Or maybe even your own car if you’ve already bought something. Either way, getting in as much practice as you can, before you take your driving test, is key.'),
 
     '7' => array(
         'step'      => '7',
-        'title'     => 'Apply for your theory test ',
-        'content'   => 'You obviously don’t want to take your theory test before you’re ready, but at some point it’s worth committing to a date, so you’ve got something to focus on. So get your application – via the official website only – and give yourself a date to aim for.',
-        'url'       => 'https://firstcar.co.uk/learning/book-your-theory-test'),
+        'title'     => 'Black ice',
+        'content'   => 'A thin layer of ice on the road can be one of the trickiest hazards to deal with. Often found in shaded areas, where the sun hasn’t thawed the Tarmac, it’s almost impossible to see as it takes on the colour of the underlying road. Approach any potential areas with caution and try to keep the bike upright through any bends and reduce your speed.'),
 
     '8' => array(
         'step'      => '8',
-        'title'     => 'Take your theory test',
-        'content'   => 'OK. Now things are getting serious. You’ve been learning like mad and it’s about time you started to see the benefits of your hard work. Get through this test and you’ve despatched a major milestone in your quest to drive independently.',
-        'url'       => 'https://firstcar.co.uk/learning/how-to-pass-your-theory-test'),
+        'title'     => 'Painted areas',
+        'content'   => 'Any part of the road that’s been painted could be a hazard, especially when wet. Road markings can become very slippery when wet, so avoid riding on them if you can.'),
 
     '9' => array(
         'step'      => '9',
-        'title'     => 'Continue your driving lessons ',
-        'content'   => 'With your test out of the way you need to focus on your next goal – taking your practical driving test. So get out there as much as possible and clock up as many hours behind the wheel as you can.',
-        'url'       => 'https://firstcar.co.uk/learning/driving-instruction'),
+        'title'     => 'Road repairs',
+        'content'   => 'Some road repairs may not be smooth and level and can upset the balance of your bike, while others may be flat, but if fixed with bitumen, can still have very slippery areas in the wet. Keep your eyes peeled and slow down in necessary.'),
 
     '10' => array(
         'step'      => '10',
-        'title'     => 'Apply for your practical test',
-        'content'   => 'Once your driving instructor has said you’re ready for your test, get your application in. Make sure you do it only via the official website thiough, or you’ll be paying extra charges unnecessarily.',
-        'url'       => 'https://firstcar.co.uk/learning/book-your-driving-test'),
-
-    '11' => array(
-        'step'      => '11',
-        'title'     => 'Take your practical test',
-        'content'   => 'This is it – crack this and you’ll be able to drive solo. Most people fail their driving test first time, so make sure you’re not one of them by preparing as fully as you can.',
-        'url'       => 'https://firstcar.co.uk/learning/book-your-driving-test'),
-
-    '12' => array(
-        'step'      => '12',
-        'title'     => 'Invest in some post-test training',
-        'content'   => 'Once you’ve got your full driving licence it’s natural to want to put all forms of driving tuition behind you. But at the very least you should be thinking about some motorway tuition and ideally you’ll undertake the Pass Plus course.',
-        'url'       => 'https://firstcar.co.uk/learning/post-test-training')
+        'title'     => 'Animals',
+        'content'   => 'Amimals running into the road can lead to serious accidents. Being so unpredictable, it can be hard to know how best to act if an animal runs out in front of you, as swerving may result in you losing control and having a bigger crash. Cutting speed in areas where animals or wildlife may be present, can give you valuable time to react. ')
     );
 
-    // Find the perfect instructor Steps
-    $perfect_instructor_steps = array(
-    '1' => array(
-        'step'      => '1',
-        'title'     => 'Go by personal recommendation',
-        'content'   => 'Talk to your mates and see what they think of theirs.'),
 
-    '2' => array(
-        'step'      => '2',
-        'title'     => "Don't just go for the cheapest option",
-        'content'   => 'It could cost you more in the long term.'),
-
-    '3' => array(
-        'step'      => '3',
-        'title'     => "Don't rely on a friend or family member to teach you",
-        'content'   => "Don't rely solely on a friend or family member to teach you; the test has changed massively since your dad got his licence, so he won't know how best to guide you."),
-
-    '4' => array(
-        'step'      => '4',
-        'title'     => 'Practising with a friend or relative',
-        'content'   => "If you practise with a friend or relative, stay below the level you've reached with your instructor, so don't tackle busy roads in your practice sessions until you've covered them with your tutor."),
-
-    '5' => array(
-        'step'       => '5',
-        'title'     => 'Same or Opposite Sex Instructors',
-        'content'   => "Don't assume you'll automatically get on better with a same-sex (or opposite-sex) tutor."),
-    );
-
-    // What type of learner are you steps
-    $make_the_most_of_your_lessons_steps = array(
-    '1' => array(
-        'step'      => '1',
-        'title'     => 'Be attentive',
-        'content'   => "When your instructor talks, listen, rather than switching off and hoping you'll get things right."),
-
-    '2' => array(
-        'step'      => '2',
-        'title'     => "Be strategic",
-        'content'   => "Book your lessons for when you're at your most alert, so if you're basically nocturnal, go for an early morning slot or as late in the day as possible."),
-
-    '3' => array(
-        'step'      => '3',
-        'title'     => "Be awake",
-        'content'   => "Get a decent night's sleep beforehand; partying until 4am won't help your powers of concentration."),
-
-    '4' => array(
-        'step'      => '4',
-        'title'     => 'Be refreshed',
-        'content'   => "Grab some food and drink before your lesson; being distracted by hunger or thirst won't help the learning process."),
-
-    '5' => array(
-        'step'       => '5',
-        'title'     => 'Be friendly',
-        'content'   => "Your instructor also has to be in good form and the two of you have to gel. A good instructor will be clear about what they want you to do - and why. "),
-    '6' => array(
-        'step'       => '6',
-        'title'     => 'Be assertive',
-        'content'   => "If you don't understand anything, don't be afraid to ask questions. Be assertive - but don't overdo it!"),
-    '7' => array(
-        'step'       => '7',
-        'title'     => 'Be ready',
-        'content'   => "Book 90-minute or two-hour sessions if you can - you should get a lot more out of them as you’ll have a better opportunity to get into the rhythm."),
-    );
-
-    // Peer pressure steps
-    $peer_pressure = array(
-    '1' => array(
-        'step'      => '1',
-        'title'     => 'Mobile phone',
-        'content'   => "Reading a text will take several seconds; at 60mph, you’re covering 88 feet each second.",
-        'url'       => 'http://micks-macbook.local:5757/firstcar/articles/peer-pressure/images/thumbnail.jpg'),
-
-    '2' => array(
-        'step'      => '2',
-        'title'     => "MP3 player",
-        'content'   => "Get the passengers to choose the music, or the driver can say what they want – but getting them to find the track on your MP3 player is just asking for trouble."),
-
-    '3' => array(
-        'step'      => '3',
-        'title'     => "Be awake",
-        'content'   => "Get a decent night's sleep beforehand; partying until 4am won't help your powers of concentration."),
-
-    '4' => array(
-        'step'      => '4',
-        'title'     => 'Be refreshed',
-        'content'   => "Grab some food and drink before your lesson; being distracted by hunger or thirst won't help the learning process."),
-
-    '5' => array(
-        'step'       => '5',
-        'title'     => 'Be friendly',
-        'content'   => "Your instructor also has to be in good form and the two of you have to gel. A good instructor will be clear about what they want you to do - and why. "),
-    '6' => array(
-        'step'       => '6',
-        'title'     => 'Be assertive',
-        'content'   => "If you don't understand anything, don't be afraid to ask questions. Be assertive - but don't overdo it!"),
-    '7' => array(
-        'step'       => '7',
-        'title'     => 'Be ready',
-        'content'   => "Book 90-minute or two-hour sessions if you can - you should get a lot more out of them as you’ll have a better opportunity to get into the rhythm."),
-    );
 ?>
 
