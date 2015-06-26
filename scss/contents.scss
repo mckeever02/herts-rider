@@ -17,12 +17,13 @@
 
             // Hide Contents Module
             &:nth-of-type(1) {
+                display: none;
+               width: 64.6666666666%;
+            }
+            &:nth-of-type(2) {
                width: 64.6666666666%;
             }
 
-             &:nth-of-type(2) {
-                display: none;
-            }
 
              &:nth-of-type(5) {
                 @extend .five.columns;

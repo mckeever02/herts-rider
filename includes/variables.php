@@ -21,6 +21,7 @@
     '1' => array(
         'id'    => 'about',
         'title' => 'Welcome to Hertfordshire Rider',
+        'blurb' => 'Charlie Boorman intro goes here',
         'type'  => 'articles'),
     '2' => array(
         'id'    => 'metropolis',
