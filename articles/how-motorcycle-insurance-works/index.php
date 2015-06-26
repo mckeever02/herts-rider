@@ -75,6 +75,8 @@
 
               <p>The cost of your premium in the future is in your  hands. Take advanced courses, don’t get points on your licence, consider a limited mileage policy, fit security and join a bike club. These things all help reduce your premium.</p>
 
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="https://herts-rider.imgix.net/ads/inline-ads/herts-bikes-square.jpg" alt="Herts Bikes"></div>
+
             </div><!-- /one-half column -->
 
             <div class="one-half column">
