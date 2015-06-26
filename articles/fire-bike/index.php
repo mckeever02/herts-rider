@@ -33,218 +33,69 @@
 
           <div class="longform-text-container">
 
-            <p class="introduction">Motorcyclists make up 1% of the total traffic on the UK’s roads, but account for over 20% of the total numbers killed or seriously injured. Or put another way, you’re over 20 times more likely to be involved in a crash on a motorcycle than in a car.</p>
+            <p class="introduction">To many, the Hertfordshire Fire &amp; Rescue service is there to help get stranded cats down from trees and advise on what smoke detector to fit in your kitchen. And on a busy day they might have to attend a fire too.</p>
 
-            <p>Unlike car drivers, who rely on the millions of pounds of research and development that manufacturers put into improving the safety of car occupants in the event of an accident, motorcycle riders don’t have that luxury. </p>
+            <p class="u-cf">But of course the reality isn’t like that, because while Fire &amp; Rescue does attend a wide array of emergencies, a large proportion of its time is spent dealing with &mdash; and trying to prevent &mdash; crashes on the roads.</p>
 
-            <p>On a bike, there are no side impact bars, crumple zones or driver airbags to save you when things go pear-shaped, so the best way to stay intact is to not get into a sticky situation in the first place. </p>
+            <p>Many of the people who make up the Fire &amp; Rescue team are keen drivers and motorcyclists, and over the years they’ve seen too many of their friends caught up in collisons, many of them fatal.</p>
 
-            <p>That’s why motorcyclists need even greater awareness on the road, of their own actions, their surroundings, the road surfaces, and the actions of others around them. But you can cope with it all; here’s how.</p>
+            <p>So when it comes to the school of hard knocks, few have had an education like an experienced firefighter. Keen to reduce the number of crashes, several of these firefighters now give up their time to take the Hertfordshire FireBike (a BMW K1300) to events around the county.</p>
 
           </div><!-- /longform-text-container -->
+
+          <div class="row">
+            <div class="one-half column">
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/fire-bike.jpg" alt="BMW K1300 FireBike"></div>
+              <blockquote>
+                <p>Firefighters now give up their time to take the Hertfordshire FireBike to events around the county.</p>
+              </blockquote>
+            </div>
+
+            <div class="one-half column">
+              <p>The FireBike scheme was set up in 2011, because of the high proportion of motorcyclists being killed or seriously injured each year. Despite making up just one per cent of road users, 20 per cent of the crashes on Hertfordshire’s roads involved a motorcyclist.</p>
+
+              <p>The FireBike has a whole array of duties to perform, including being the centre of attention at events around the county – events that promote road safety and the great work that the Fire &amp; Rescue service performs.</p>
+
+              <p>But the FireBike isn’t just a static exhibit; its key value is as a training tool. It earns its keep by acting as a training bike on Biker Down courses as well as assessed rides for bikers undertaking advanced rider training.</p>
+
+            </div><!-- /one-half column -->
+          </div><!-- /row -->
+
+            <div class="longform-text-container">
+              <p>Sign up to an advanced riding course through Hertfordshire IAM and you could experience the FireBike in action, or get along to the Longfield training centre.</p>
+            </div>
+
+
         </section>
 
-        <section class="container numbered">
+        <section class="container">
+          <div class="longform-text-container">
+            <h2>A view from the inside</h2>
 
-          <h1>Stay seen, stay safe</h1>
+            <p>I’ve been an avid motorcyclist for over 30 years, and in that time I’ve lost friends or known of friends who have had accidents on their motorcycles. So when the opportunity arose to join the FireBike team I signed up immediately.</p>
 
-          <div class="row">
+            <p>The FireBike project is an ideal opportunity to get involved with the motorcycling community, get trained to a higher standard and also to pass on my knowledge and experience to others with no other agenda than to improve their safety.</p>
 
-            <div class="full column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/stay-seen.jpg" alt="Stay seen"></div>
-            </div><!-- /full-column column -->
+            <p>To qualify me to ride the FireBike with blue lights on I had to complete three weeks of training. This covered every aspect of advanced riding and roadcraft at high speed, on all types of roads and in all weather conditions.</p>
           </div>
 
           <div class="row">
-            <div class="longform-text-container">
-              <p>Visibility isn’t just about how well you can see; it’s also about how easily other road users can see you. The Police Rider’s Handbook (Roadcraft) says that a third of drivers involved in a daylight collision with a motorcyclist claim not to have seen the motorcycle before the crash. At night that figure rises to half. </p>
-
-              <p>Part of the reason bikes can be hard to spot is that the head-on view of a rider and machine is relatively small compared with most road traffic, making it difficult to assess speed. If the road’s busy, a rider can all too easily get lost against a cluttered background with disastrous results. That’s why you need to make yourself as conspicuous as possible.</p>
-
-            </div><!-- /text-container -->
-          </div><!-- /row -->
-      </section>
-
-      <section class="container">
-        <h3 class="u-text-center">How to be seen</h3>
-
-        <div class="row">
-
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">1</span>
-                 <p>Wear reflective or brightly coloured clothing</p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
-
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">2</span>
-                 <p>Use your lights in daylight as well as at night. Keep it clean and avoid coloured tints – they cut the light level and are illegal.</p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
-
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">3</span>
-                 <p>Adopt a dominant road position. Don’t hug the gutter. You’ll be easier to see if you ride towards the centre of the lane, as this is where most car drivers are used to looking.</p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
-
-        </div><!-- /row -->
-
-      </section>
-
-      <section class="container numbered">
-
-          <h1>Expect the unexpected</h1>
-
-          <div class="row">
-
-            <div class="full column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/expect-the-unexpected.jpg" alt="Expect the unexpected"></div>
-            </div><!-- /full-column column -->
+            <div class="seven columns">
+              <blockquote>
+                <p>&ldquo;When the opportunity arose to join the FireBike team I signed up immediately.&rdquo;</p>
+              </blockquote>
+            </div>
           </div>
 
-          <div class="row">
-            <div class="longform-text-container">
-              <p>Defensive riding is all about staying one step ahead of the game and riding in a style and with a mindset that puts you in the safest position to deal with anything that the road &mdash; or other road users &mdash; can throw at you.</p>
+          <div class="longform-text-container">
 
-            </div><!-- /text-container -->
-          </div><!-- /row -->
+            <p>This initial training was just the start of things though, as I then had to undertake the IAM’s observers’ course so I could train riders to a level where they could pass their advanced rider’s qualification.</p>
 
-        <div class="row">
+            <p>This training took just over 12 months from start to finish, and since then I’ve trained five riders to enable them to pass their advanced rider’s test and given many assessed rides to members of the public with the intention of encouraging them to get further training. It’s making a genuine difference &mdash; and as a result it’s hugely rewarding.</p>
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">1</span>
-                  <h3>Look up</h3>
-                 <p>The further you look, the more you’ll see. Knowing everything that’s going on around you is key to avoiding dangerous situations. Move if you need a better view.</p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
+          </div><!-- /longform-text-container -->
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">2</span>
-                <h3>Anticipate problems</h3>
-                 <p>The more time you have to react to a hazard the more likely you are to deal with it safely. </p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
-
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">3</span>
-                <h3>Predict hazards</h3>
-                 <p>A stationary bus means pedestrians, a bouncing ball in the road means children at play, a bare, open road means crosswinds. Experience can help you predict hazards before they appear.</p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
-
-        </div><!-- /row -->
-
-        <div class="row">
-
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">4</span>
-                  <h3>Check your blind spots </h3>
-                 <p>Those rearward safety checks aren’t just designed for the test – they’re a potentially life-saving habit, which is why they’re known as Lifesavers.</p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
-
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">5</span>
-                <h3>Give yourself space</h3>
-                 <p>Keeping your distance increases your range of vision and gives you space to stop in an emergency. Give parked cars at the side of the road plenty of clearance. Allow for car doors opening or pedestrians appearing from between parked cars. Position your bike accordingly and reduce speed as the space around you is reduced.</p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
-
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">6</span>
-                <h3>Danger zones</h3>
-                 <p>According to an in-depth study of motorcycle crashes, the most common accidents involve failing to negotiate bends on rural A-roads, collisions at junctions, collisions while overtaking and loss of control. </p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
-
-        </div><!-- /row -->
-      </section>
-
-      <section class="container numbered">
-
-          <h1>Going round the bend</h1>
-
-          <div class="row">
-
-            <div class="full column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/round-the-bend.jpg" alt="Going round thte bend"></div>
-            </div><!-- /full-column column -->
-          </div>
-
-          <div class="row">
-            <div class="longform-text-container">
-              <p>Losing control while going round a bend is one the biggest causes of motorcycle crashes. Remember that left-hand bends present a bigger danger, because losing control here generally means sliding into oncoming traffic. Here’s how to tackle bends successfully:</p>
-
-            </div><!-- /text-container -->
-          </div><!-- /row -->
-
-        <div class="row">
-
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">1</span>
-                  <h3>Information</h3>
-                 <p>Consider all the available info in front and behind, and allow for changes in the road surface and the effect that weather conditions have on the road.</p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
-
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">2</span>
-                <h3>Your position </h3>
-                 <p>Position yourself to minimise risk and give yourself the best view of the bend and the road ahead. Be prepared to change position if the situation changes as you go round the bend.</p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
-
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">3</span>
-                <h3>Your speed</h3>
-                 <p>Are you going too fast for the corner or your skill? Adjust your speed before entering the corner, not whilst negotiating the bend.</p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
-        </div><!-- /row -->
-
-        <div class="row">
-
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">4</span>
-                  <h3>Choose your gear</h3>
-                 <p>The correct gear gives you control and allows you to use your throttle to react to a situation, so continually monitor your choice of gear.</p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
-
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">5</span>
-                <h3>Stopping distance </h3>
-                 <p>Can you stop in the distance you can see will remain clear, and on your own side of the road, if you need to?</p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
-
-        </div><!-- /row -->
-
-        <div class="row">
-          <blockquote>
-            <span class="small-text footnote">Top tip</span>
-            <p>Riding with friends can be fun, but it increases the risk of succumbing to peer pressure. When riding with others, trust your own judgement. There may be quicker riders &mdash; but that doesn’t make them better riders. Stick to your own limits and don’t be pressured into going faster than you feel is safe for the conditions.</p>
-          </blockquote>
-        </div><!-- /row -->
-
-
-      </section>
-
+        </section>
 
 
         <?php include ("$path/includes/article-social-share.php"); ?>

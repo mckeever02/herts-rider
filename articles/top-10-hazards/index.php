@@ -20,7 +20,6 @@
         <?php include ("$path/includes/menu.php"); ?>
 
         <div class="article-intro offset-by-six columns">
-            <p class="subheading">Your guide to</p>
             <h1><? echo $page[''.$page_id.'']['title'];?></h1>
             <p><? echo $page[''.$page_id.'']['blurb'];?></p>
         </div>
