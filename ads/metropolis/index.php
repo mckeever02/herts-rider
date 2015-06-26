@@ -1,9 +1,9 @@
 <!-- Set the Page ID -->
-<?php $page_id = 26; ?>
+<?php $page_id = 2; ?>
 
 <?php include ("../../includes/variables.php"); ?>
 <?php include ("$path/includes/doctype.php"); ?>
-  
+
   <meta name="author" content="FirstCar">
 
   <?php include ("$path/includes/head.php"); ?>
