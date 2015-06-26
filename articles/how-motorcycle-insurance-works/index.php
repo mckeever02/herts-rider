@@ -80,7 +80,7 @@
             </div><!-- /one-half column -->
 
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/scooter.jpg" alt="Man on scooter"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/scooter.jpg" alt="Man on scooter"></div>
               <blockquote><p>&ldquo;A 17-year-old can insure a 125cc bike for about £400 a year.&rdquo;</p></blockquote>
             </div><!-- one-half column -->
 
