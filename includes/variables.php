@@ -55,7 +55,7 @@
     '8' => array(
         'id'    => 'moores',
         'title' => 'Moores | New &amp; used motorcycles, mopeds and scooters',
-        'url'   => 'http://mooresmotorcycles.co.uk',
+        'url'   => 'http://www.mooresmotorcycles.co.uk/',
         'type'  => 'ads'),
     '9' => array(
         'id'    => 'how-to-maintain-your-motorbike',
