@@ -1,5 +1,5 @@
 <!-- Set the Page ID -->
-<?php $page_id = 15; ?>
+<?php $page_id = 14; ?>
 
 <?php include ("../../includes/variables.php"); ?>
 <?php include ("$path/includes/doctype.php"); ?>
@@ -20,8 +20,8 @@
         <?php include ("$path/includes/menu.php"); ?>
 
         <div class="article-intro offset-by-six columns">
-            <h1>Win over £750 worth of kit from <a href="http://www.sportsbikeshop.co.uk/"><img src="images/sportbikeshop-logo.png" alt="Sportsbikeshop.co.uk"></a></h1>
-
+            <h1><? echo $page[''.$page_id.'']['title'];?></h1>
+            <p class="blurb"><? echo $page[''.$page_id.'']['blurb'];?></p>
         </div>
 
         <?php include ("$path/includes/prev-next.php"); ?>

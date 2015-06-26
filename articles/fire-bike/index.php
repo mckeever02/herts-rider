@@ -1,5 +1,5 @@
 <!-- Set the Page ID -->
-<?php $page_id = 5; ?>
+<?php $page_id = 17; ?>
 
 <?php include ("../../includes/variables.php"); ?>
 <?php include ("$path/includes/doctype.php"); ?>
@@ -20,7 +20,6 @@
         <?php include ("$path/includes/menu.php"); ?>
 
         <div class="article-intro offset-by-six columns">
-            <p class="subheading">Your guide to</p>
             <h1><? echo $page[''.$page_id.'']['title'];?></h1>
             <p><? echo $page[''.$page_id.'']['blurb'];?></p>
         </div>

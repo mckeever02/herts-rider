@@ -4,20 +4,21 @@
 
 // Article Titles (Interpolation)
 
-$page-1: the-learning-journey;
-$page-2: the-cost-of-learning-to-drive;
-$page-3: motorcycle-security;
-$page-4: essential-motorcycling-kit;
-$page-5: staying-alive;
-$page-6: motorcycle-insurance;
-$page-7: motorcycle-maintenance;
+$page-1: about;
+$page-2: motorcycle-security;
+$page-3: how-to-buy-the-best-motorcycle-clothing;
+$page-4: staying-alive;
+$page-5: top-10-hazards;
+$page-6: how-motorcycle-insurance-works;
+$page-7: how-to-maintain-your-motorbike;
 $page-8: motorcycle-clubs-directory;
 $page-9: routes-to-riding;
 $page-10: how-to-buy-a-motorbike;
 $page-11: competition;
 $page-12: highway-code-quiz;
-$page-13: protect-yourself-when-buying;
-
+$page-13: motorcycle-clothing;
+$page-14: fire-bike;
+$page-15: biker-down;
 // Article Styling
 
 ##{$page-1} {
@@ -70,4 +71,12 @@ $page-13: protect-yourself-when-buying;
 
 ##{$page-13} {
     @include article-style($alizarin-crimson, $page-13);
+}
+
+##{$page-14} {
+    @include article-style($alizarin-crimson, $page-14);
+}
+
+##{$page-15} {
+    @include article-style($alizarin-crimson, $page-15);
 }

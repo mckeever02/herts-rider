@@ -20,21 +20,14 @@
         <?php include ("$path/includes/menu.php"); ?>
 
         <div class="article-intro offset-by-six columns">
-            <h1>Motorcycle club's directory</h1>
-            <p>Needs blurb</p>
+            <h1><? echo $page[''.$page_id.'']['title'];?></h1>
+            <p><? echo $page[''.$page_id.'']['blurb'];?></p>
         </div>
 
         <?php include ("$path/includes/prev-next.php"); ?>
     </header>
 
     <article class="standard-article">
-
-        <section class="container wow fadeInUp">
-
-          <div class="longform-text-container">
-            <p class="introduction">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda accusantium tempora odio est accusamus necessitatibus, vitae animi qui harum, itaque illum fuga molestiae laborum quas numquam nihil voluptates quibusdam iste?</p>
-          </div><!-- /longform-text-container -->
-        </section>
 
         <section class="container">
           <div class="row">
