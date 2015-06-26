@@ -20,7 +20,7 @@
         'type'  => 'articles'),
     '1' => array(
         'id'    => 'about',
-        'title' => 'About',
+        'title' => 'Welcome to Hertfordshire Rider',
         'blurb' => 'blurb needed',
         'type'  => 'articles'),
     '2' => array(

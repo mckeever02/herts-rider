@@ -36,11 +36,11 @@
 
             <p>Whether you’re a seasoned rider with thousands of miles under your belt or you're just thinking about getting on a bike for the first time, we're sure you'll find the features as enlightening as they are absorbing.</p>
 
-            <p>If you’re not already involved with a club make sure you check out our local clubs directory [link]. Biking should be a hugely social activity and by getting involved with a local group you can share your knowledge and benefit from the experience of others too.</p>
+            <p>If you’re not already involved with a club make sure you check out our <a href="../motorcycle-clubs-directory/">local clubs directory</a>. Biking should be a hugely social activity and by getting involved with a local group you can share your knowledge and benefit from the experience of others too.</p>
 
-            <p>Now that Hertfordshire Rider has gone digital it's even easier to access and share; you can view it on your computer, phone or tablet. If you haven’t done so already, subscribe for free by clicking the button at the top of the homepage and letting us know your email address and we'll notify you when new issues come out. Don't forget to share the magazine with your friends using email or social media; just point them to <a href="hertfordshirerider.co.uk">hertfordshirerider.co.uk</a></p>
+            <p>Now that Hertfordshire Rider has gone digital it's even easier to access and share; you can view it on your computer, phone or tablet. If you haven’t done so already, subscribe for free by clicking the button at the top of the homepage and letting us know your email address and we'll notify you when new issues come out. Don't forget to share the magazine with your friends using email or social media; just point them to <a href="http://hertfordshirerider.co.uk">hertfordshirerider.co.uk</a></p>
 
-            <p>Because Hertfordshire Rider is produced for you, tell us what you'd like to see in future editions by dropping us a line at any time on <a href="info@firstcar.co.uk">info@firstcar.co.uk</a> or call the office on <a href="tel:08451308853">08451 308 853</a>.</p>
+            <p>Because Hertfordshire Rider is produced for you, tell us what you'd like to see in future editions by dropping us a line at any time on <a href="mailto:info@firstcar.co.uk">info@firstcar.co.uk</a> or call the office on <a href="tel:08451308853">08451 308 853</a>.</p>
 
           </div><!-- /longform-text-container -->
         </section>
