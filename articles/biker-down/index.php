@@ -33,219 +33,97 @@
 
           <div class="longform-text-container">
 
-            <p class="introduction">Motorcyclists make up 1% of the total traffic on the UK’s roads, but account for over 20% of the total numbers killed or seriously injured. Or put another way, you’re over 20 times more likely to be involved in a crash on a motorcycle than in a car.</p>
+            <p class="introduction">Hopefully you’ll never be the first on the scene of a road crash, but if you were, would you know what to do? What if you were out riding with your mates and one of them was involved in a collision &mdash; but you didn’t know how to save their life?</p>
 
-            <p>Unlike car drivers, who rely on the millions of pounds of research and development that manufacturers put into improving the safety of car occupants in the event of an accident, motorcycle riders don’t have that luxury. </p>
+            <p>It’s easy to think that this won’t happen to you, but sadly it’s a scenario that’s far from unusual. That’s why the Biker Down programme was created &mdash; to help bikers help each other, and also to prevent crashes happening in the first place.</p>
 
-            <p>On a bike, there are no side impact bars, crumple zones or driver airbags to save you when things go pear-shaped, so the best way to stay intact is to not get into a sticky situation in the first place. </p>
+            <p>Bearing in mind doing the Biker Down course can save your life or the lives of your friends, it’s pretty good value &mdash; because it’s free. Even better, it’s not as though you have to make a huge time commitment because this three-module course takes just three hours to complete. The three topics covered are:</p>
 
-            <p>That’s why motorcyclists need even greater awareness on the road, of their own actions, their surroundings, the road surfaces, and the actions of others around them. But you can cope with it all; here’s how.</p>
 
           </div><!-- /longform-text-container -->
         </section>
 
         <section class="container numbered">
 
-          <h1>Stay seen, stay safe</h1>
+          <h1>What to do when first on a crash scene</h1>
+          <div class="longform-text-container">
+            <p>A Fire Bike team member guides you through how to deal with a crash scene involving a motorcyclist, including how you can ensure your own safety. You’ll find out what information you need to gather, to help the emergency services as well as any legal obligations.</p>
+          </div>
+        </section>
 
-          <div class="row">
+        <section class="container numbered">
 
-            <div class="full column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/stay-seen.jpg" alt="Stay seen"></div>
-            </div><!-- /full-column column -->
+          <h1>Basic lifesaving first aid</h1>
+
+          <div class="longform-text-container">
+
+          <p>Delivered by Herts Fire &amp; Rescue Service instructors, this module covers:</p>
+
+          <ul class="medium-list">
+            <li>Trauma and mechanism of injury</li>
+            <li>Snatch rescues, why when and how</li>
+            <li>Basic  life support</li>
+            <li>How to give CPR</li>
+            <li>Managing spinal injuries</li>
+            <li>When and how to safely remove a crash helmet</li>
+          </ul>
+
           </div>
 
-          <div class="row">
-            <div class="longform-text-container">
-              <p>Visibility isn’t just about how well you can see; it’s also about how easily other road users can see you. The Police Rider’s Handbook (Roadcraft) says that a third of drivers involved in a daylight collision with a motorcyclist claim not to have seen the motorcycle before the crash. At night that figure rises to half. </p>
+        </section>
 
-              <p>Part of the reason bikes can be hard to spot is that the head-on view of a rider and machine is relatively small compared with most road traffic, making it difficult to assess speed. If the road’s busy, a rider can all too easily get lost against a cluttered background with disastrous results. That’s why you need to make yourself as conspicuous as possible.</p>
+        <section class="container numbered">
 
-            </div><!-- /text-container -->
-          </div><!-- /row -->
-      </section>
+          <h1>How to be more visible and prevent collisions at junctions</h1>
 
-      <section class="container">
-        <h3 class="u-text-center">How to be seen</h3>
+          <div class="longform-text-container">
 
-        <div class="row">
+          <p>Not being seen by other road users is one of the main reasons why motorcyclists are so often involved in collisions. Here you can find out how you can make yourself more visible without having to resort to covering yourself from head to foot in luminous yellow. Designed by advanced instructor Kevin Williams of Survival Skills Motorcycle Training, this module will prove to be an eye opener &mdash; guaranteed.</p>
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">1</span>
-                 <p>Wear reflective or brightly coloured clothing</p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
-
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">2</span>
-                 <p>Use your lights in daylight as well as at night. Keep it clean and avoid coloured tints – they cut the light level and are illegal.</p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
-
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">3</span>
-                 <p>Adopt a dominant road position. Don’t hug the gutter. You’ll be easier to see if you ride towards the centre of the lane, as this is where most car drivers are used to looking.</p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
-
-        </div><!-- /row -->
-
-      </section>
-
-      <section class="container numbered">
-
-          <h1>Expect the unexpected</h1>
-
-          <div class="row">
-
-            <div class="full column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/expect-the-unexpected.jpg" alt="Expect the unexpected"></div>
-            </div><!-- /full-column column -->
           </div>
 
-          <div class="row">
-            <div class="longform-text-container">
-              <p>Defensive riding is all about staying one step ahead of the game and riding in a style and with a mindset that puts you in the safest position to deal with anything that the road &mdash; or other road users &mdash; can throw at you.</p>
+        </section>
 
-            </div><!-- /text-container -->
-          </div><!-- /row -->
+        <section class="container">
+          <div class="longform-text-container">
 
-        <div class="row">
+            <h2>Get involved</h2>
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">1</span>
-                  <h3>Look up</h3>
-                 <p>The further you look, the more you’ll see. Knowing everything that’s going on around you is key to avoiding dangerous situations. Move if you need a better view.</p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
+            <p>You can take part in the Biker Down course if you’re part of a large biking community, a club or an organisation – or as an individual. If you’re booking on behalf of a club you’ll need to accurately predict how many people can guarantee their attendance and we’ll dedicate an event to that one group.
+            </p>
+            <p>If you want to take part as an individual just email us (details below) and you’ll be contacted as soon as an event becomes available. Once a booking is agreed please ensure you can honour it as the spaces on the courses are much sought after and non-attendance means someone else will miss out.
+            </p>
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">2</span>
-                <h3>Anticipate problems</h3>
-                 <p>The more time you have to react to a hazard the more likely you are to deal with it safely. </p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
+            <p><strong>Those who have taken the Biker Down course say:</strong></p>
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">3</span>
-                <h3>Predict hazards</h3>
-                 <p>A stationary bus means pedestrians, a bouncing ball in the road means children at play, a bare, open road means crosswinds. Experience can help you predict hazards before they appear.</p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
-
-        </div><!-- /row -->
-
-        <div class="row">
-
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">4</span>
-                  <h3>Check your blind spots </h3>
-                 <p>Those rearward safety checks aren’t just designed for the test – they’re a potentially life-saving habit, which is why they’re known as Lifesavers.</p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
-
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">5</span>
-                <h3>Give yourself space</h3>
-                 <p>Keeping your distance increases your range of vision and gives you space to stop in an emergency. Give parked cars at the side of the road plenty of clearance. Allow for car doors opening or pedestrians appearing from between parked cars. Position your bike accordingly and reduce speed as the space around you is reduced.</p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
-
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">6</span>
-                <h3>Danger zones</h3>
-                 <p>According to an in-depth study of motorcycle crashes, the most common accidents involve failing to negotiate bends on rural A-roads, collisions at junctions, collisions while overtaking and loss of control. </p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
-
-        </div><!-- /row -->
-      </section>
-
-      <section class="container numbered">
-
-          <h1>Going round the bend</h1>
-
-          <div class="row">
-
-            <div class="full column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/round-the-bend.jpg" alt="Going round thte bend"></div>
-            </div><!-- /full-column column -->
+            <ul class="medium-list">
+              <li>Quality instruction and presentation from all instructors. Learnt new skills and knowledge from the start of the course and throughout. Fantastic idea, thank you very much.</li>
+              <li>Length of each element just long enough to maintain interest. Instructors particularly good at their specialist subjects and put it across in a good friendly manner. Will recommend to all my motorcycle friends.</li>
+              <li>Excellent. Instructive and thought provoking. Great to have quality input delivered by engaging people. An excellent introduction to biker first response. Presenter’s knowledge was first class with an added sense of humour.</li>
+              <li>A great course, really informative and interesting with a great group of instructors and presenters. I will be recommending it to everyone I know who rides.</li>
+            </ul>
           </div>
 
-          <div class="row">
-            <div class="longform-text-container">
-              <p>Losing control while going round a bend is one the biggest causes of motorcycle crashes. Remember that left-hand bends present a bigger danger, because losing control here generally means sliding into oncoming traffic. Here’s how to tackle bends successfully:</p>
-
-            </div><!-- /text-container -->
-          </div><!-- /row -->
-
-        <div class="row">
-
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">1</span>
-                  <h3>Information</h3>
-                 <p>Consider all the available info in front and behind, and allow for changes in the road surface and the effect that weather conditions have on the road.</p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
-
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">2</span>
-                <h3>Your position </h3>
-                 <p>Position yourself to minimise risk and give yourself the best view of the bend and the road ahead. Be prepared to change position if the situation changes as you go round the bend.</p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
-
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">3</span>
-                <h3>Your speed</h3>
-                 <p>Are you going too fast for the corner or your skill? Adjust your speed before entering the corner, not whilst negotiating the bend.</p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
-        </div><!-- /row -->
-
-        <div class="row">
-
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">4</span>
-                  <h3>Choose your gear</h3>
-                 <p>The correct gear gives you control and allows you to use your throttle to react to a situation, so continually monitor your choice of gear.</p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
-
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
-               <div class="u-text-center list-number-box">
-                <span class="circle-container">5</span>
-                <h3>Stopping distance </h3>
-                 <p>Can you stop in the distance you can see will remain clear, and on your own side of the road, if you need to?</p>
-               </div><!-- /u-text-center -->
-            </div><!-- /one-third -->
-
-        </div><!-- /row -->
-
-        <div class="row">
           <blockquote>
-            <span class="small-text footnote">Top tip</span>
-            <p>Riding with friends can be fun, but it increases the risk of succumbing to peer pressure. When riding with others, trust your own judgement. There may be quicker riders &mdash; but that doesn’t make them better riders. Stick to your own limits and don’t be pressured into going faster than you feel is safe for the conditions.</p>
+            <p>Find out more on the <a href="https://www.facebook.com/search/results/?init=quick&q=Biker%20Down%20Herts%20&tas=0.6477912096306682">Biker Down Herts Facebook page</a> Or email <a href="mailto:bikerdown@hertfordshire.gov.uk">bikerdown@hertfordshire.gov.uk</a></p>
           </blockquote>
-        </div><!-- /row -->
+        </section>
+
+        <section class="container">
+          <div class="longform-text-container">
+            <h2>And there’s more...</h2>
+            <p>If you’re new to biking you’ll hopefully want to build on your existing skills. And if you’ve already enjoyed several years in the saddle, it could be time for a refresher course &mdash; especially as it’s free.</p>
+
+            <p>As part of the Biker Down programme you can have an assessed ride with a qualified advanced motorcyclist who will give you impartial, expert feedback on what you’re doing well and where you could develop your skills.</p>
+
+            <p>Each assessed ride lasts around 90 minutes and covers about 20 miles. While the ride is not a training package, it will highlight any safety issues so you know if it’s worth booking yourself onto a training course with a third party.</p>
+
+            <p>Before booking onto a Biker Down course make it clear that you’d also like an assessed ride afterwards. The ride is free but if you’re given an IAM observer you may wish to make a contribution towards their petrol costs.</p>
+
+          </div><!-- /longform-text-container -->
 
 
-      </section>
-
-
+        </section>
 
         <?php include ("$path/includes/article-social-share.php"); ?>
 
