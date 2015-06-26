@@ -4,7 +4,7 @@
 <?php include ("../../includes/variables.php"); ?>
 <?php include ("$path/includes/doctype.php"); ?>
 
-  <meta name="author" content="FirstCar">
+  <meta name="author" content="Herts Rider">
 
   <?php include ("$path/includes/head.php"); ?>
 
@@ -23,11 +23,6 @@
 
 
       <ul class="contents">
-           <li class="intro article-tile imgix-fluid-bg" data-src="https://herts-rider.imgix.net/articles/contents/images/page-header.jpg?auto=format,enhance">
-               <h2>Welcome to Herts Rider</h2>
-               <p class="opening">FirstCar Provisional tells you everything you need to know about finding the right instructor, learning with your parents and getting through your theory test.</p>
-               <p>It’s your complete guide to the initial stages of learning to drive &mdash; as well as buying your first car.</p>
-           </li>
             <?php foreach($page as $item) {
                 echo "
                     <li class=\"article-tile imgix-fluid-bg {$item['id']} {$item['type']}\" data-src=\"https://herts-rider.imgix.net/articles/{$item['id']}/images/page-header.jpg?auto=format,enhance&fit=crop\">

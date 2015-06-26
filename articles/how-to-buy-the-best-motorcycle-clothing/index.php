@@ -5,7 +5,7 @@
 <?php include ("../../includes/variables.php"); ?>
 <?php include ("$path/includes/doctype.php"); ?>
 
-  <meta name="author" content="FirstCar">
+  <meta name="author" content="Herts Rider">
 
   <?php include ("$path/includes/head.php"); ?>
 

@@ -16,7 +16,7 @@
     '0' => array(
         'id'    => 'contents',
         'title' => 'Contents',
-        'blurb' => 'FirstCar Provisional Edition Contents Page',
+        'blurb' => 'Herts Rider Contents Page',
         'type'  => 'articles'),
     '1' => array(
         'id'    => 'about',
