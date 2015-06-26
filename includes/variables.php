@@ -23,9 +23,9 @@
         'title' => 'Welcome to Hertfordshire Rider',
         'type'  => 'articles'),
     '2' => array(
-        'id'    => 'metropolis-motorcycles',
+        'id'    => 'metropolis',
         'title' => 'Metropolis motorcycles',
-        'url'   => '',
+        'url'   => 'http://www.metropolismotorcycles.com/barnet/',
         'type'  => 'ads'),
     '3' => array(
         'id'    => 'motorcycle-security',
@@ -54,8 +54,8 @@
         'type'  => 'articles'),
     '8' => array(
         'id'    => 'moores',
-        'title' => 'Moores',
-        'url'   => '',
+        'title' => 'Moores | New &amp; used motorcycles, mopeds and scooters',
+        'url'   => 'http://mooresmotorcycles.co.uk',
         'type'  => 'ads'),
     '9' => array(
         'id'    => 'how-to-maintain-your-motorbike',
@@ -69,8 +69,8 @@
         'type'  => 'articles'),
     '11' => array(
         'id'    => 'garmin',
-        'title' => 'Garmin',
-        'url'   => '',
+        'title' => 'Garmin | Your adventure is ready for the big screen',
+        'url'   => 'http://garmin.com/zumo',
         'type'  => 'ads'),
     '12' => array(
         'id'    => 'routes-to-riding',
