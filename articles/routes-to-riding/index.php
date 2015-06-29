@@ -70,7 +70,7 @@
                   s0.953-2.125,2.125-2.125s2.125,0.953,2.125,2.125S159.604,152.188,158.433,152.188"/>
               </g>
             </svg>
-            <h2 class="color">Practical test</h2>
+            <h2 class="color">Theory test</h2>
           </div><!-- /u-text-center -->
 
           <div class="longform-text-container">
@@ -111,7 +111,7 @@
                   s0.953-2.125,2.125-2.125s2.125,0.953,2.125,2.125S159.604,152.188,158.433,152.188"/>
               </g>
             </svg>
-            <h2 class="color">Theory test</h2>
+            <h2 class="color">Practical test</h2>
           </div><!-- /u-text-center -->
 
           <div class="longform-text-container">
@@ -151,7 +151,7 @@
 
             <div class="one-third column">
               <div class="u-text-center">
-                <h3>Age 19</h3>
+                <h3>Age 19+</h3>
                 <p class="subheading">A2 licence</p>
                 <p>You can now ride any bike up to 35kW (46.6 bhp). No L-plates need to be fitted, no passengers allowed. You can now use the motorway.</p>
 

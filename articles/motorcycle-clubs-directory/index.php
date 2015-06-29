@@ -63,7 +63,7 @@
             </div>
 
             <div class="one-third column">
-              <h3>British Owners’ Club </h3>
+              <h3>British Owners’ Club</h3>
               <ul>
                 <li>Restoration and preservation of British motorcycles</li>
                 <li>Regular meetings and shows</li>
@@ -78,9 +78,7 @@
               </ul>
             </div>
           </div><!-- /row -->
-      </section>
 
-      <section class="container">
           <div class="row">
             <div class="one-third column">
               <h3>The Busy Bee Motorcycle Club</h3>
@@ -125,9 +123,7 @@
               </ul>
             </div>
           </div><!-- /row -->
-      </section>
 
-      <section class="container">
           <div class="row">
             <div class="one-third column">
               <h3>Laser Motorcycle Club </h3>
@@ -169,9 +165,7 @@
               </ul>
             </div>
           </div><!-- /row -->
-      </section>
 
-      <section class="container">
           <div class="row">
             <div class="one-third column">
               <h3>Royston &amp; District Motorcycle Club</h3>
@@ -215,9 +209,7 @@
               </ul>
             </div>
           </div><!-- /row -->
-      </section>
 
-      <section class="container">
         <div class="row">
           <div class="one-third column">
             <h3>Vintage Motorcycle Club, East Herts Section</h3>

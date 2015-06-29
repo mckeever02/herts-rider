@@ -112,10 +112,10 @@
 
 
           <div class="u-center-table">
-            <a href="" class="button button-primary button-large animated pulse infinite">Enter for your chance to win</a>
+            <h2>Enter below for your chance to win</h2>
+
+            <script>(function(t,e,c,s){var n,o,a;t.SMCX=t.SMCX||[],e.getElementById(s)||(n=e.getElementsByTagName(c),o=n[n.length-1],a=e.createElement(c),a.type="text/javascript",a.async=!0,a.id=s,a.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/SqaxiL9F5IL_2BaxSjltdpts7xBcz_2F81ztj34ctkSWg8M_2B39zZv0yh6FLfPUGKb_2B8u.js"].join(""),o.parentNode.insertBefore(a,o))})(window,document,"script","smcx-sdk");</script><a style="font: 12px Helvetica, sans-serif; color: #999; text-decoration: none;" href=https://www.surveymonkey.com/mp/customer-satisfaction-surveys/> Create your own user feedback survey </a>
           </div><!-- /u-text-center -->
-
-
 
         </section>
 

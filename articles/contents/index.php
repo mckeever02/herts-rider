@@ -31,7 +31,7 @@
                             <h3>{$item['title']}</h3>
                             <p>{$item['blurb']}</p>
                         </a>
-                        <a href=\"../{$item['id']}\" class=\"button button-small button-icon\">View the Article</a>
+                        <a href=\"../{$item['id']}\" class=\"button button-small button-icon\">{$item['button']}</a>
                     </li>
                     ";
                 } ?>
