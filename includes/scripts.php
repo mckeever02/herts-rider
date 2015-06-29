@@ -80,6 +80,11 @@
     wow.init();
 </script>
 
+<!-- Email Validation -->
+
+<script type="text/javascript" src="js/jquery.validationEngine.js"></script><!-- FORM VALIDATION ENGINE --> 
+<script type="text/javascript" src="js/validation.js"></script>
+
 <!-- Google Analytics -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
