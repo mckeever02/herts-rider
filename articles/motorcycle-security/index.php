@@ -87,7 +87,7 @@
                  </div>
               </div>
 
-              <div class="one-half column wow fadeInLeft" data-wow-delay="1s">
+              <div class="one-half column wow fadeInLeft" data-wow-delay="0.7s">
                   <div class="u-text-center list-number-box">
                      <span class="circle-container">2</span>
                      <h3>Chain it up</h3>
@@ -97,14 +97,14 @@
           </div><!-- /row -->
 
           <div class="row">
-              <div class="one-half column wow fadeInLeft" data-wow-delay="1s">
+              <div class="one-half column wow fadeInLeft" data-wow-delay="0.9s">
                   <div class="u-text-center list-number-box">
                      <span class="circle-container">3</span>
                      <h3>Immobilise it </h3>
                      <p>An alarm and immobiliser are often required by insurers. They cut the ignition or fuel – sometimes both – making them hard to defeat, and make an excellent deterrent. Look for systems with Thatcham approval as they’re thoroughly tested.</p>
                   </div>
               </div>
-              <div class="one-half column wow fadeInLeft" data-wow-delay="1s">
+              <div class="one-half column wow fadeInLeft" data-wow-delay="1.1s">
                   <div class="u-text-center list-number-box">
                      <span class="circle-container">4</span>
                      <h3>Garage security </h3>
@@ -160,7 +160,7 @@
                </div>
             </div>
 
-            <div class="one-half column wow fadeInLeft" data-wow-delay="1s">
+            <div class="one-half column wow fadeInLeft" data-wow-delay="0.7s">
                 <div class="u-text-center list-number-box">
                    <span class="circle-container">2</span>
                    <h3>Lock it up</h3>
@@ -170,14 +170,14 @@
           </div><!-- /row -->
 
           <div class="row">
-            <div class="one-half column wow fadeInLeft" data-wow-delay="1s">
+            <div class="one-half column wow fadeInLeft" data-wow-delay="0.9s">
                 <div class="u-text-center list-number-box">
                    <span class="circle-container">3</span>
                    <h3>Secure your lid</h3>
                    <p>If you can’t take your helmet with you when you leave your bike, and you don’t have suitable storage on your bike, buy a lockable helmet bag. You just pass a chain or cable through the bag and then through the helmet’s chin bar.</p>
                 </div>
             </div>
-            <div class="one-half column wow fadeInLeft" data-wow-delay="1s">
+            <div class="one-half column wow fadeInLeft" data-wow-delay="1.1s">
                 <div class="u-text-center list-number-box">
                    <span class="circle-container">4</span>
                    <h3>Fit a tracker</h3>
@@ -187,7 +187,7 @@
           </div><!-- /row -->
 
           <div class="row">
-            <div class="one-half column wow fadeInLeft" data-wow-delay="1s">
+            <div class="one-half column wow fadeInLeft" data-wow-delay="1.3s">
                 <div class="u-text-center list-number-box">
                    <span class="circle-container">6</span>
                    <h3>Datatag</h3>

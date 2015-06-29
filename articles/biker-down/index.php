@@ -43,7 +43,7 @@
           </div><!-- /longform-text-container -->
         </section>
 
-        <section class="container numbered">
+        <section class="container numbered wow fadeInUp">
 
           <h1>What to do when first on a crash scene</h1>
           <div class="row">
@@ -56,7 +56,7 @@
           </div>
         </section>
 
-        <section class="container numbered">
+        <section class="container numbered wow fadeIn">
 
           <h1>Basic lifesaving first aid</h1>
 
@@ -82,7 +82,7 @@
 
         </section>
 
-        <section class="container numbered">
+        <section class="container numbered wow fadeIn">
 
           <h1>How to be more visible and prevent collisions at junctions</h1>
 

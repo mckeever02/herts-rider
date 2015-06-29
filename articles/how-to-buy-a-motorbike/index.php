@@ -86,7 +86,7 @@
           </div><!-- /u-text-center -->
 
             <div class="row">
-              <div class="one-half column list-number-box">
+              <div class="one-half wow fadeInLeft column list-number-box" data-wow-delay="0.5s">
                 <div class="u-text-center">
                   <span class="circle-container small">1</span>
                   <h4 class="color">Franchised dealer</h4>
@@ -94,7 +94,7 @@
                 </div><!-- /u-text-center -->
               </div><!-- /one-half column -->
 
-              <div class="one-half column list-number-box">
+              <div class="one-half column list-number-box wow fadeInLeft" data-wow-delay="0.7s">
                 <div class="u-text-center">
                   <span class="circle-container small">2</span>
                   <h4 class="color">Independent dealer</h4>
@@ -175,21 +175,21 @@
 
           <div class="row">
 
-            <div class="one-third column list-number-box">
+            <div class="one-third column list-number-box wow fadeInLeft" data-wow-delay="0.5s">
               <div class="u-text-center">
                 <span class="circle-container small">1</span>
               <p>Bring both parts of your driving licence and ID if you want a test ride. Major retailers will have demonstrators, but other dealers may have a used model you can test. Try other bikes that fit your criteria too.</p>
               </div><!-- /u-text-center -->
             </div><!-- /one-third column -->
 
-            <div class="one-third column list-number-box">
+            <div class="one-third column list-number-box wow fadeInLeft" data-wow-delay="0.7s">
               <div class="u-text-center">
                 <span class="circle-container small">2</span>
               <p>Haggling to get the price down is part of the process, so make a lower offer. Check you’re negotiating the On The Road (OTR) price, which includes all those little extra charges that can add up. Ask about what extras they can give you – luggage, a new helmet, clothing or security products. You could walk away with a bundle if the salesman is desperate for a sale.</p>
               </div><!-- /u-text-center -->
             </div><!-- /one-third column -->
 
-            <div class="one-third column list-number-box">
+            <div class="one-third column list-number-box wow fadeInLeft" data-wow-delay="0.9s">
               <div class="u-text-center">
                 <span class="circle-container small">3</span>
               <p>Bring both parts of your driving licence and ID if you want a test ride. Major retailers will have demonstrators, but other dealers may have a used model you can test. Try other bikes that fit your criteria too.</p>
@@ -266,7 +266,7 @@
         <section class="container">
 
           <div class="row">
-            <div class="one-half column list-number-box">
+            <div class="one-half column list-number-box wow fadeInLeft" data-wow-delay="0.5s">
               <div class="u-text-center">
                 <span class="circle-container small">1</span>
                 <h4 class="color">Arm yourself with info</h4>
@@ -274,7 +274,7 @@
               </div><!-- /u-text-center -->
             </div><!-- /one-half column -->
 
-            <div class="one-half column list-number-box">
+            <div class="one-half column list-number-box wow fadeInLeft" data-wow-delay="0.7s">
               <div class="u-text-center">
                 <span class="circle-container small">2</span>
                 <h4 class="color">Two’s company</h4>
@@ -285,7 +285,7 @@
           </div><!-- /row -->
 
            <div class="row">
-            <div class="one-half column list-number-box">
+            <div class="one-half column list-number-box wow fadeInLeft" data-wow-delay="0.9s">
               <div class="u-text-center">
                 <span class="circle-container small">3</span>
                 <h4 class="color">Use your eyes</h4>
@@ -293,7 +293,7 @@
               </div><!-- /u-text-center -->
             </div><!-- /one-half column -->
 
-            <div class="one-half column list-number-box">
+            <div class="one-half column list-number-box wow fadeInLeft" data-wow-delay="1.1s">
               <div class="u-text-center">
                 <span class="circle-container small">4</span>
                 <h4 class="color">Fire her up</h4>

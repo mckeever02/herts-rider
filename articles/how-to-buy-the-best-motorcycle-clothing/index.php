@@ -38,7 +38,7 @@
           </div><!-- /longform-text-container -->
         </section>
 
-        <section class="container">
+        <section class="container wow fadeInUp">
 
           <div class="row">
 
@@ -73,14 +73,14 @@
                </div><!-- /u-text-center -->
             </div><!-- /one-third -->
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-third column wow fadeInLeft" data-wow-delay="0.7s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">2</span>
                  <p>There should be no tight spots or pressure points. Wear the helmet for several minutes in the store before you make a purchase, as you won’t be able to take it back afterwards.</p>
                </div><!-- /u-text-center -->
             </div><!-- /one-third -->
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-third column wow fadeInLeft" data-wow-delay="0.9s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">3</span>
                  <p>A noisy helmet can make you tired and damage your hearing. Noise can be influenced by the fit, the number of vents and scoops, your riding position and the style of bike you ride.</p>
@@ -91,14 +91,14 @@
 
         <div class="row">
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-third column wow fadeInLeft" data-wow-delay="1.1s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">4</span>
                  <p>Wear a visor or goggles with an ECE, CE or BSI approval mark. In daylight a tint of up to 50% is okay; a clear visor must be used after dark.</p>
                </div><!-- /u-text-center -->
             </div><!-- /one-third -->
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-third column wow fadeInLeft" data-wow-delay="1.3s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">5</span>
                  <p>Choose light, bright colours as these help other road users to see you coming.</p>
@@ -150,14 +150,14 @@
                </div><!-- /u-text-center -->
             </div><!-- /one-third -->
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-third column wow fadeInLeft" data-wow-delay="0.7s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">2</span>
                  <p>Good quality stitching is important. Make sure your gloves carry stitching across the palms and there’s good layering on the upper glove.</p>
                </div><!-- /u-text-center -->
             </div><!-- /one-third -->
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-third column wow fadeInLeft" data-wow-delay="0.9s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">3</span>
                  <p>Gloves shouldn’t be so bulky they prevent you moving your hands and fingers. Try them in the showroom to check you can operate the controls properly.</p>
@@ -168,21 +168,21 @@
 
         <div class="row">
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-third column wow fadeInLeft" data-wow-delay="1.1s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">4</span>
                  <p>Check for straps, around the wrist. If a pair of gloves can be pulled off easily without undoing a fixing or strap, they’ll probably come off just as easily in a crash.</p>
                </div><!-- /u-text-center -->
             </div><!-- /one-third -->
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-third column wow fadeInLeft" data-wow-delay="1.3s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">5</span>
                  <p>Winter gloves, particularly, should have cuffs that extend over the end of your sleeves, to prevent wind and rain getting up your arms.</p>
                </div><!-- /u-text-center -->
             </div><!-- /one-third -->
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-third column wow fadeInLeft" data-wow-delay="1.5s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">6</span>
                  <p>Ensure seams don’t chafe against your hand, palm or between the fingers. Any discomfort could affect your concentration levels on a long journey.</p>
@@ -240,7 +240,7 @@
                </div><!-- /u-text-center -->
             </div><!-- /one-half -->
 
-            <div class="one-half column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-half column wow fadeInLeft" data-wow-delay="0.7s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">2</span>
                  <p>Stitching should be double or triple and should be sealed as well, either with a leather overlap or a plastic coating.</p>
@@ -251,14 +251,14 @@
 
         <div class="row">
 
-            <div class="one-half column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-half column wow fadeInLeft" data-wow-delay="0.9s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">3</span>
                  <p>• ntegrated body armour is common and should enhance protection at the elbows, back and shoulders. It should also carry a CE approval label.</p>
                </div><!-- /u-text-center -->
             </div><!-- /one-half -->
 
-            <div class="one-half column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-half column wow fadeInLeft" data-wow-delay="1.1s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">4</span>
                  <p>Zips shouldn’t lie directly against the skin, as this will transmit heat from friction if you have a slide and a serious burn could result.</p>
@@ -307,7 +307,7 @@
                </div><!-- /u-text-center -->
             </div><!-- /one-half -->
 
-            <div class="one-half column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-half column wow fadeInLeft" data-wow-delay="0.7s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">2</span>
                  <p>Boots will get softer and more comfortable with use, but if a boot is too rigid it may lead to discomfort. Test their flexibility by manipulating them physically in the store, as well as trying them on.</p>
@@ -318,14 +318,14 @@
 
         <div class="row">
 
-            <div class="one-half column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-half column wow fadeInLeft" data-wow-delay="1.1s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">3</span>
                  <p>Where boots are zipped up, ensure there is a large enough flap under the zip and one over it. This ensures the zip won’t let in water or rub directly on the ankle.</p>
                </div><!-- /u-text-center -->
             </div><!-- /one-half -->
 
-            <div class="one-half column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-half column wow fadeInLeft" data-wow-delay="1.3s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">4</span>
                  <p>Try to make sure the leather is colour-fast, otherwise you will find socks and feet are dyed the colour of your boots in wet weather.</p>

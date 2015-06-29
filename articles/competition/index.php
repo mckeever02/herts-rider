@@ -41,7 +41,7 @@
 
         </section>
 
-        <section class="container">
+        <section class="container wow fadeInUp">
           <div class="row">
             <div class="four columns">
               <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/helmet.jpg" alt="Kabuto Kamui helmet"></div>

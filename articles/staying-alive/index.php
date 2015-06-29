@@ -45,7 +45,7 @@
           </div><!-- /longform-text-container -->
         </section>
 
-        <section class="container numbered">
+        <section class="container numbered wow fadeInUp">
 
           <h1>Stay seen, stay safe</h1>
 
@@ -78,14 +78,14 @@
                </div><!-- /u-text-center -->
             </div><!-- /one-third -->
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-third column wow fadeInLeft" data-wow-delay="0.7s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">2</span>
                  <p>Use your lights in daylight as well as at night. Keep it clean and avoid coloured tints – they cut the light level and are illegal.</p>
                </div><!-- /u-text-center -->
             </div><!-- /one-third -->
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-third column wow fadeInLeft" data-wow-delay="0.9s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">3</span>
                  <p>Adopt a dominant road position. Don’t hug the gutter. You’ll be easier to see if you ride towards the centre of the lane, as this is where most car drivers are used to looking.</p>
@@ -124,7 +124,7 @@
                </div><!-- /u-text-center -->
             </div><!-- /one-third -->
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-third column wow fadeInLeft" data-wow-delay="0.7s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">2</span>
                 <h3>Anticipate problems</h3>
@@ -132,7 +132,7 @@
                </div><!-- /u-text-center -->
             </div><!-- /one-third -->
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-third column wow fadeInLeft" data-wow-delay="0.9s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">3</span>
                 <h3>Predict hazards</h3>
@@ -144,7 +144,7 @@
 
         <div class="row">
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-third column wow fadeInLeft" data-wow-delay="1.1s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">4</span>
                   <h3>Check your blind spots </h3>
@@ -152,7 +152,7 @@
                </div><!-- /u-text-center -->
             </div><!-- /one-third -->
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-third column wow fadeInLeft" data-wow-delay="1.3s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">5</span>
                 <h3>Give yourself space</h3>
@@ -160,7 +160,7 @@
                </div><!-- /u-text-center -->
             </div><!-- /one-third -->
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-third column wow fadeInLeft" data-wow-delay="1.5s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">6</span>
                 <h3>Danger zones</h3>
@@ -199,7 +199,7 @@
                </div><!-- /u-text-center -->
             </div><!-- /one-third -->
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-third column wow fadeInLeft" data-wow-delay="0.7s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">2</span>
                 <h3>Your position </h3>
@@ -207,7 +207,7 @@
                </div><!-- /u-text-center -->
             </div><!-- /one-third -->
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-third column wow fadeInLeft" data-wow-delay="0.9s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">3</span>
                 <h3>Your speed</h3>
@@ -218,7 +218,7 @@
 
         <div class="row">
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-third column wow fadeInLeft" data-wow-delay="1.1s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">4</span>
                   <h3>Choose your gear</h3>
@@ -226,7 +226,7 @@
                </div><!-- /u-text-center -->
             </div><!-- /one-third -->
 
-            <div class="one-third column wow fadeInLeft" data-wow-delay="0.5s">
+            <div class="one-third column wow fadeInLeft" data-wow-delay="1.3s">
                <div class="u-text-center list-number-box">
                 <span class="circle-container">5</span>
                 <h3>Stopping distance </h3>

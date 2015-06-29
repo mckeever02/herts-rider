@@ -37,7 +37,7 @@
           </div><!-- /longform-text-container -->
         </section>
 
-        <section class="container lined">
+        <section class="container lined wow fadeInUp">
           <div class="u-text-center">
             <svg class="icon icon-article icon-section" x="0px" y="0px" width="165px" height="165px" viewBox="0 0 200 200">
               <circle fill="#FFFFFF" cx="100.027" cy="100.025" r="90.974"/>
@@ -72,7 +72,7 @@
           </div><!-- /longform-text-container -->
         </section>
 
-                <section class="container lined">
+        <section class="container lined wow fadeInUp">
           <div class="u-text-center">
             <svg class="icon icon-article icon-section" x="0px" y="0px" width="165px" height="165px" viewBox="0 0 200 200">
               <circle fill="#FFFFFF" cx="100.027" cy="100.025" r="90.974"/>

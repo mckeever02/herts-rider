@@ -39,7 +39,7 @@
           </div><!-- /longform-text-container -->
         </section>
 
-        <section class="container">
+        <section class="container wow fadeInUp">
           <div class="row">
             <div class="one-half column">
               <div class="imgix-fluid-bg imgix-image" style="padding-bottom:115%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/right-kit.jpg" alt="Wear the right kit"></div>

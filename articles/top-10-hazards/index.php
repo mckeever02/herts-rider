@@ -29,7 +29,7 @@
 
     <article class="standard-article">
 
-        <section class="container wow fadeInUp">
+        <section class="container">
 
           <div class="longform-text-container">
 
@@ -38,7 +38,7 @@
           </div><!-- /longform-text-container -->
         </section>
 
-        <section class="container step-timeline">
+        <section class="container step-timeline wow fadeInUp">
 
            <!-- Step -->
            <?php foreach($top10_hazards_steps as $item) {
