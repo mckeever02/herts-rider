@@ -93,6 +93,7 @@
         'id'    => 'competition',
         'title' => 'Win over £750-worth of kit from sportsbikeshop.co.uk',
         'blurb'  => 'Win the kit you need to stay safe on your bike, thanks to sportsbikeshop.co.uk',
+        'type'  => 'articles',
         'button' => 'View article'),
     '14' => array(
         'id'    => 'motorcycle-clothing',
