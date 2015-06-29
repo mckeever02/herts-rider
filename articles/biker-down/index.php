@@ -62,7 +62,7 @@
 
           <div class="row">
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/firstaid-course.jpg" alt="Lifesaving first aid course"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/firstaid-course.jpg" alt="Lifesaving first aid course"></div>
             </div><!-- /one-half column -->
 
             <div class="one-half column">
