@@ -46,8 +46,13 @@
         <section class="container numbered">
 
           <h1>What to do when first on a crash scene</h1>
-          <div class="longform-text-container">
-            <p>A Fire Bike team member guides you through how to deal with a crash scene involving a motorcyclist, including how you can ensure your own safety. You’ll find out what information you need to gather, to help the emergency services as well as any legal obligations.</p>
+          <div class="row">
+            <div class="one-half column">
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/crash-scene.jpg" alt="Crash scene example"></div>
+            </div>
+            <div class="one-half column">
+              <p>A Fire Bike team member guides you through how to deal with a crash scene involving a motorcyclist, including how you can ensure your own safety. You’ll find out what information you need to gather, to help the emergency services as well as any legal obligations.</p>
+            </div>
           </div>
         </section>
 
@@ -55,20 +60,25 @@
 
           <h1>Basic lifesaving first aid</h1>
 
-          <div class="longform-text-container">
+          <div class="row">
+            <div class="one-half column">
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/lifesaving-firstaid.jpg" alt="Lifesaving first aid course"></div>
+            </div><!-- /one-half column -->
 
-          <p>Delivered by Herts Fire &amp; Rescue Service instructors, this module covers:</p>
+            <div class="one-half column">
+              <p>Delivered by Herts Fire &amp; Rescue Service instructors, this module covers:</p>
 
-          <ul class="medium-list">
-            <li>Trauma and mechanism of injury</li>
-            <li>Snatch rescues, why when and how</li>
-            <li>Basic  life support</li>
-            <li>How to give CPR</li>
-            <li>Managing spinal injuries</li>
-            <li>When and how to safely remove a crash helmet</li>
-          </ul>
+              <ul class="medium-list">
+                <li>Trauma and mechanism of injury</li>
+                <li>Snatch rescues, why when and how</li>
+                <li>Basic  life support</li>
+                <li>How to give CPR</li>
+                <li>Managing spinal injuries</li>
+                <li>When and how to safely remove a crash helmet</li>
+              </ul>
+            </div><!-- /one-half column -->
 
-          </div>
+          </div><!-- /row -->
 
         </section>
 
@@ -119,6 +129,8 @@
             <p>Each assessed ride lasts around 90 minutes and covers about 20 miles. While the ride is not a training package, it will highlight any safety issues so you know if it’s worth booking yourself onto a training course with a third party.</p>
 
             <p>Before booking onto a Biker Down course make it clear that you’d also like an assessed ride afterwards. The ride is free but if you’re given an IAM observer you may wish to make a contribution towards their petrol costs.</p>
+
+            <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/fire-service.jpg" alt="Fire service"></div>
 
           </div><!-- /longform-text-container -->
 
