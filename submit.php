@@ -2,7 +2,7 @@
 
 /* config start */
 
-$emailAddress = 'tim@littlethunder.com';
+$emailAddress = 'tim@littlethunder.co';
 
 /* config end */
 
