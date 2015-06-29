@@ -41,7 +41,7 @@
         <section class="container step-timeline">
 
            <!-- Step -->
-           <?php foreach($learning_journey_steps as $item) {
+           <?php foreach($top10_hazards_steps as $item) {
             echo
             "<div class=\"step-timeline-block\">
                 <div class=\"step-timeline-step\">

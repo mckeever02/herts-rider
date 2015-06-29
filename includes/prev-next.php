@@ -28,5 +28,4 @@
               <img class="article-preview-thumbnail" src="../../<? echo $page[''.$next.'']['type'];?>/<? echo $page[''.$next.'']['id'];?>/images/thumbnail.jpg" alt="<? echo  $page[''.$next.'']['title'];?>">
             </div>
           </a>
-
         </nav>

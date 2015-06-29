@@ -133,7 +133,7 @@
 
 
     // Learning Journey Steps
-    $learning_journey_steps = array(
+    $top10_hazards_steps = array(
     '1' => array(
         'step'      => '1',
         'title'     => 'Potholes',
