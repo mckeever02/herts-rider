@@ -62,7 +62,7 @@
 
           <div class="row">
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/lifesaving-firstaid.jpg" alt="Lifesaving first aid course"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/firstaid-course.jpg" alt="Lifesaving first aid course"></div>
             </div><!-- /one-half column -->
 
             <div class="one-half column">
@@ -130,7 +130,7 @@
 
             <p>Before booking onto a Biker Down course make it clear that you’d also like an assessed ride afterwards. The ride is free but if you’re given an IAM observer you may wish to make a contribution towards their petrol costs.</p>
 
-            <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/fire-service.jpg" alt="Fire service"></div>
+            <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/fire-service.jpg" alt="Fire service"></div>
 
           </div><!-- /longform-text-container -->
 
