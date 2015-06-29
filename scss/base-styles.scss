@@ -143,12 +143,13 @@ Page Header has a Dark and Light Theme that affects logo, text and menu colour *
 h1.logo {
     display: block;
     text-indent: -9999px;
-    width: 250px;
-    margin: 2rem;
+    width: 200px;
+    margin: 2.5rem 1rem;
     position: absolute;
     @media (min-width: $desktop-breakpoint) {
       width: 300px;
       background-size: 120%;
+      margin: 2rem;
     }
 }
 
@@ -184,9 +185,12 @@ h1.logo {
     overflow: hidden;
 
   h3 {
-      font-size: 1.6em;
+      font-size: 1.4em;
       text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
       width: 80%;
+      @media (min-width: $tablet-breakpoint) {
+        font-size: 1.6em;
+      }
       @media (min-width: $desktop-breakpoint) {
           font-size: 2em;
       }

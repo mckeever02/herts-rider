@@ -13,8 +13,11 @@ a {
   height: 100%;
   min-height: 250px;
   display: block;
-  padding: 60px 10%;
+  padding: 10%;
   position: relative;
+  @media (min-width: $phablet-breakpoint) {
+      padding: 60px 10%;
+  }
 }
 
 

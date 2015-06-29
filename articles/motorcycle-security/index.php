@@ -189,13 +189,6 @@
           <div class="row">
             <div class="one-half column wow fadeInLeft" data-wow-delay="1s">
                 <div class="u-text-center list-number-box">
-                   <span class="circle-container">5</span>
-                   <h3>Fit a tracker</h3>
-                   <p>One of these security systems will track your bike if it’s stolen. Prices start at around £249, plus an annual fee of around £125.</p>
-                </div>
-            </div>
-            <div class="one-half column wow fadeInLeft" data-wow-delay="1s">
-                <div class="u-text-center list-number-box">
                    <span class="circle-container">6</span>
                    <h3>Datatag</h3>
                    <p>Microdots, markings or tiny transponders contain owner details that thieves can’t remove. Prices start at around £90, with no annual fees.</p>
@@ -203,15 +196,13 @@
             </div>
           </div><!-- /row -->
 
-        </section>
-
-        <section class="container">
           <div class="row">
             <blockquote>
               <span class="small-text footnote">Top tip</span>
               <p>When securing your bike, try to keep locks and chains off the floor, as it makes it harder for a thief to smash them with a sledgehammer.</p>
             </blockquote>
           </div><!-- /row -->
+
         </section>
 
 
