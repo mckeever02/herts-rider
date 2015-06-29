@@ -111,3 +111,10 @@ label > .label-body {
         font-weight: bold;
     }
 }
+
+div.sent {
+    @extend #form-container;
+    + div {
+        display: none;
+    }
+}

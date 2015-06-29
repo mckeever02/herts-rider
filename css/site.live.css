@@ -3794,14 +3794,14 @@ label > .label-body {
   margin-left: .5rem;
   font-weight: normal; }
 
-#form-container {
+#form-container, div.sent {
   background: #f9f9f9;
   border: 1px solid #ececec;
   width: 100%;
   margin: 10px;
   padding: 20px 5% 5px; }
   @media (max-width: 550px) {
-    #form-container {
+    #form-container, div.sent {
       padding: 15px 10px 0; } }
 
 #contact-form {
@@ -3833,6 +3833,9 @@ label > .label-body {
   #contact-form .error {
     color: #e71d36;
     font-weight: bold; }
+
+div.sent + div {
+  display: none; }
 
 /*------------------------------------*\
     #LISTS
