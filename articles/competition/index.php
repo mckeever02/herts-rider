@@ -113,8 +113,9 @@
 
           <div class="u-center-table">
             <h2 class="u-text-center">Enter for your chance to win</h2>
+            <a href="https://www.surveymonkey.com/r/QZ5CFJM" class="button button-icon" style="display:block;" target="_blank">Click Here to Enter</a>
 
-            <script>(function(t,e,c,s){var n,o,a;t.SMCX=t.SMCX||[],e.getElementById(s)||(n=e.getElementsByTagName(c),o=n[n.length-1],a=e.createElement(c),a.type="text/javascript",a.async=!0,a.id=s,a.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/SqaxiL9F5IL_2BaxSjltdpts7xBcz_2F81ztj34ctkSWg8M_2B39zZv0yh6FLfPUGKb_2B8u.js"].join(""),o.parentNode.insertBefore(a,o))})(window,document,"script","smcx-sdk");</script>
+<!--            <script>(function(t,e,c,s){var n,o,a;t.SMCX=t.SMCX||[],e.getElementById(s)||(n=e.getElementsByTagName(c),o=n[n.length-1],a=e.createElement(c),a.type="text/javascript",a.async=!0,a.id=s,a.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/SqaxiL9F5IL_2BaxSjltdpts7xBcz_2F81ztj34ctkSWg8M_2B39zZv0yh6FLfPUGKb_2B8u.js"].join(""),o.parentNode.insertBefore(a,o))})(window,document,"script","smcx-sdk");</script>-->
           </div><!-- /u-text-center -->
 
         </section>
@@ -125,7 +126,7 @@
             <ul>
               <li>This competition is run by FirstCar Limited and SportsBikeShop Limited.</li>
               <li>Entries must be recieved by midnight on 1 June 2016 after which the winner will be randomly selected</li>
-              <li>For full terms and conditions see <a href="http://firstbikemagazine.co.uk">www.firstbikemagazine.co.uk</a></li>
+              <li>For full terms and conditions see <a href="http://firstbikemagazine.co.uk" target="_blank">www.firstbikemagazine.co.uk</a></li>
             </ul>
           </div>
 

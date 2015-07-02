@@ -55,7 +55,7 @@
               </ul>
 
               <ul class="plain-list">
-                <li><strong>Web:</strong> <a href="http://jampot.com">jampot.com</a></li>
+                <li><strong>Web:</strong> <a href="http://jampot.com" target="_blank">jampot.com</a></li>
                 <li><strong>Contact:</strong> Rob Harknett</li>
                 <li><strong>Telephone:</strong> <a href="tel:01279792329">01279 792329</a></li>
                 <li><strong>Email:</strong> <a href="mailto:prewar@jampot.com">prewar@jampot.com</a></li>
@@ -71,7 +71,7 @@
               </ul>
 
               <ul class="plain-list">
-                <li><strong>Web:</strong> <a href="http://www.britishownersclubessex.co.uk">britishownersclubessex.co.uk</a></li>
+                <li><strong>Web:</strong> <a href="http://www.britishownersclubessex.co.uk" target="_blank">britishownersclubessex.co.uk</a></li>
                 <li><strong>Contact:</strong> Rob Woodford</li>
                 <li><strong>Telephone:</strong> <a href="tel:07974451158">07974 451158</a></li>
                 <li><strong>Email:</strong> <a href="mailto:rob.woodford@honeywell.com">prob.woodford@honeywell.com</a></li>
@@ -102,7 +102,7 @@
               </ul>
 
               <ul class="plain-list">
-                <li><strong>Web:</strong> <a href="http://www.eanamcc.com">eanamcc.com</a></li>
+                <li><strong>Web:</strong> <a href="http://www.eanamcc.com" target="_blank">eanamcc.com</a></li>
                 <li><strong>Contact:</strong> Becky or James</li>
                 <li><strong>Telephone:</strong> <a href="tel:07788477141">07788 477 141</a> or <a href="tel:07710171166">07710 171 166</a></li>
                 <li><strong>Email:</strong> <a href="mailto:eana_mcc@yahoo.co.uk">eana_mcc@yahoo.co.uk</a></li>
@@ -117,7 +117,7 @@
               </ul>
 
               <ul class="plain-list">
-                <li><strong>Web:</strong> <a href="http://hbam.org.uk">hbam.org.uk</a></li>
+                <li><strong>Web:</strong> <a href="http://hbam.org.uk" target="_blank">hbam.org.uk</a></li>
                 <li><strong>Contact:</strong> Rob Woodford</li>
                 <li><strong>Telephone:</strong> <a href="tel:08004588425 ">0800 458 8425 </a></li>
               </ul>
@@ -134,7 +134,7 @@
               </ul>
 
               <ul class="plain-list">
-                <li><strong>Web:</strong> <a href="http://www.lasermc.co.uk">lasermc.co.uk</a></li>
+                <li><strong>Web:</strong> <a href="http://www.lasermc.co.uk" target="_blank">lasermc.co.uk</a></li>
                 <li><strong>Email:</strong> <a href="mailto:eana_mcc@yahoo.co.uk">lasermc@lasermc.co.uk</a></li>
               </ul>
             </div>
