@@ -61,7 +61,7 @@ var quizJSON = {
             "incorrect": "<p><span>Incorrect</span>If you’re travelling in a one-way street and wish to turn right you should take up a position in the <strong>right-hand lane</strong>. This will enable other road users not wishing to turn to proceed to the left. Indicate your intention and take up your position in good time." // no comma here
         },
         { // Question 5
-            "q": "You’re approaching an unmarked crossroads. How should you deal with this type of junction? <img src='images/Q5.jpg'>",
+            "q": "You’re approaching an unmarked crossroads. How should you deal with this type of junction? <img src='images/question-5.jpg'>",
             "a": [
                 {"option": "Accelerate and keep to the middle",                        "correct": false},
                 {"option": "Slow down and keep to the right",                          "correct": true},
@@ -94,7 +94,7 @@ var quizJSON = {
             "incorrect": "<p><span>Incorrect</span>Correct answer: <strong>A steady amber light</strong>. The steady amber light will be followed by twin flashing red lights that mean you must stop. An alarm will also sound to alert you to the fact that a train is approaching.</p>" // no comma here
         },
         { // Question 8
-            "q": "What does this sign mean?<img src='images/Q8.jpg'>",
+            "q": "What does this sign mean?<img src='images/question-8.jpg'>",
             "a": [
                 {"option": "No overtaking",                          "correct": false},
                 {"option": "No motor vehicles",                      "correct": true},
@@ -118,7 +118,7 @@ var quizJSON = {
             "incorrect": "<p><span>Incorrect</span>Correct answers: <strong>Make sure the engines are switched off</strong> &amp; <strong>Call the emergency services promptly</strong>. At a crash scene you can help in practical ways, even if you aren’t trained in first aid. Make sure you don’t put yourself or anyone else in danger. The safest way to warn other traffic is by switching on your hazard warning lights</p>" // no comma here
         },
         { // Question 10
-            "q": "What does this sign mean?<img src='images/Q10.jpg'>",
+            "q": "What does this sign mean?<img src='images/question-10.jpg'>",
             "a": [
                 {"option": "Roundabout",                    "correct": false},
                 {"option": "Crossroads",                    "correct": false},
