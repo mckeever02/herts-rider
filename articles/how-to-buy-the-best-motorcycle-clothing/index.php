@@ -345,7 +345,7 @@
         </div><!-- /row -->
         
         <div class="row">
-            <a href="http://www.carolenash.com/new-ni-rates?gclid=CjwKEAjwwtOsBRDdjZTbvYvTlzcSJADOY0DRggYLAtlUHSys9x8JOIcac-ORulfyIadfHG9en-0grRoCZqPw_wcB"><div class="imgix-fluid-bg imgix-image" style="padding-bottom:40%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/carole-nash-banner.jpg" alt="Carole Nash"></div></a>
+            <a href="http://www.carolenash.com/new-ni-rates?gclid=CjwKEAjwwtOsBRDdjZTbvYvTlzcSJADOY0DRggYLAtlUHSys9x8JOIcac-ORulfyIadfHG9en-0grRoCZqPw_wcB"><div class="imgix-fluid-bg imgix-image" style="padding-bottom:33%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/carole-nash-banner.jpg" alt="Carole Nash"></div></a>
 
         </div>
       </section>
