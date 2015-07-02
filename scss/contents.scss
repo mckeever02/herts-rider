@@ -96,6 +96,16 @@
             #contact-form  input[type=text]{
                 color: $black-pearl!important;
             }
+            
+            .sent {
+                background-color: transparent;
+                margin: 0;
+                padding: 0;
+                border: none;
+                + form {
+                    display: none!important;
+                }
+            }
 
             &:before {
                 background: $black-pearl;
