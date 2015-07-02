@@ -68,8 +68,8 @@
         'button' => 'View article'),
     '9' => array(
         'id'    => 'bmf',
-        'title' => 'TODO: BMF ADVERT',
-        'url'   => '',
+        'title' => 'BMF | Pursue, promote and protect the rights of motorcyclists',
+        'url'   => 'http://www.bmf.co.uk/',
         'type'  => 'ads'),
     '10' => array(
         'id'    => 'motorcycle-security',
