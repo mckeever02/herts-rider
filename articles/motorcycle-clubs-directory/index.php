@@ -225,7 +225,7 @@
           </div>
           <div class="one-half column">
               <a href="http://www.bmf.co.uk/" target="_blank">
-                  <div class="imgix-fluid-bg imgix-image" style="padding-bottom:33%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/bmf-inline-ad.jpg" alt="British Motorcyclists Federation"></div>
+                  <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/bmf-inline-ad.jpg" alt="British Motorcyclists Federation"></div>
               </a>
           </div>
         </div><!-- /row -->
