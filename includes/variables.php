@@ -22,7 +22,8 @@
     '1' => array(
         'id'    => 'about',
         'title' => 'Welcome to Hertfordshire Rider',
-        'blurb' => 'I’ve been riding bikes for pretty much as long as I can remember and I still love it today!',
+        'blurb' => 'Foreword by Alex Lowes - World Superbike racer and British Champion
+',
         'type'  => 'articles',
         'button' => 'Find out more'),
     '2' => array(

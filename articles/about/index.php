@@ -33,22 +33,23 @@
 
             <div class="row">
                 <div class="one-half column">
-                <p class="introduction">I’ve been riding bikes for pretty much as long as I can remember and I still love it today! I started with motocross when I was six and then I took to the track from the age of 12. Now I’m 24, a BSB Champion and riding in the World Superbike Championship with Voltcom Crescent Suzuki.</p>
+                <p class="introduction large-text">I’ve been riding bikes for pretty much as long as I can remember and I still love it today!</p>
+                <p> I started with motocross when I was six and then I took to the track from the age of 12. Now I’m 24, a BSB Champion and riding in the World Superbike Championship with Voltcom Crescent Suzuki.</p>
                 </div>
                 <div class="one-half column">
-                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/alex-lowes.jpg" alt="Alex Lowes"></div>
+                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:64%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/alex-lowes.jpg" alt="Alex Lowes"></div>
                 </div><!-- /one-half column -->
             </div>
             
             <div class="row">
-                 <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/alex-bike.jpg" alt="Alex Lowes"></div>
+                 <div class="imgix-fluid-bg imgix-image" style="padding-bottom:40%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/alex-bike.jpg" alt="Alex Lowes"></div>
                 
             </div>
             
             <div class="longform-text-container">
-            
-                <p>Whatever you do on two wheels, you need to do things right. Hertfordshire Rider tells you everything you need to know whether it’s about how to sharpen up your riding skills, what the top new products are that you can buy, where to go for the best insurance deals or how to maintain or secure your bike. It’s all in here!
-</p>
+                <blockquote>
+                    <p>Whatever you do on two wheels, you need to do things right. Hertfordshire Rider tells you everything you need to know whether it’s about how to sharpen up your riding skills, what the top new products are that you can buy, where to go for the best insurance deals or how to maintain or secure your bike. It’s all in here!</p>
+                </blockquote>
             </div>
             
             <div class="row">
@@ -60,6 +61,7 @@
                     <p>I’m a racer, but whether you ride on track or on the road it is all about safety. It’s about the kit you wear when you ride – you want to be safe in case of a spill. It’s about the maintenance of your bike – it needs to be in tip-top condition when you’re out on the open road enjoying it. It’s also about the way you ride – like any racer, road-riding is about technique and experience, so the more you ride and the more experience and training you receive the better and safer rider you will be. You’ll find lots of information on all these subjects in Hertfordshire Rider.
 </p>
             <p>Finally, I really believe that all the best experiences in motorcycling are shared, so hook up with a mate for a ride, or join your local bike group or training centre when you go looking for the best roads in Hertfordshire. Biking is to be enjoyed, savoured and shared – so get out there! </p>
+              <p class="large-text">&dash; Alex Lowes, World Superbike racer and British Champion </p>
                </div>
                 
             </div>
