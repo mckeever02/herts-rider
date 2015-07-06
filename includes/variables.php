@@ -22,7 +22,7 @@
     '1' => array(
         'id'    => 'about',
         'title' => 'Welcome to Hertfordshire Rider',
-        'blurb' => 'Charlie Boorman intro goes here',
+        'blurb' => 'I’ve been riding bikes for pretty much as long as I can remember and I still love it today!',
         'type'  => 'articles',
         'button' => 'Find out more'),
     '2' => array(

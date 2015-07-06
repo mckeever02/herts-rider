@@ -26,7 +26,8 @@
             <li class="intro article-tile imgix-fluid-bg" data-src="https://herts-rider.imgix.net/articles/about/images/page-header.jpg?auto=format,enhance&fit=crop">
                 <a class="tile-link" href="../about">
                     <h2>Welcome to Hertfordshire Rider</h2>
-                    <p class="opening">Charlie Boorman intro goes here.</p>
+                    <p class="opening">Whatever you do on two wheels, you need to do things right.</p>
+                    <p>Hertfordshire Rider tells you everything you need to know whether it’s about how to sharpen up your riding skills, what the top new products are that you can buy, where to go for the best insurance deals or how to maintain or secure your bike. It’s all in here! </p>
                 </a>
                 <a href="../about" class="button button-small button-icon">Find out more</a>
             </li>
