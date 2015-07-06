@@ -118,11 +118,21 @@
                 content: "";
                 opacity: 0.65;
             }
-
+            
+            @media (min-width: $tablet-breakpoint) and (max-width: 1000px) {    
+                
+                p {
+                    width: 100%;
+                }
+            }
             @media (max-width: $tablet-breakpoint) {
                 width: 98% !important;
                 clear: both;
                 padding-bottom: 30px;
+                
+                .tile-link {
+                    padding-bottom: 100px;
+                }
 
                 h2 {
                     font-size: 3.5rem;
