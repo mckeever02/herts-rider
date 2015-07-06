@@ -41,18 +41,18 @@
                 </div><!-- /one-half column -->
             </div>
             
-            <div class="row">
+            <div class="row wow fadeIn">
                  <div class="imgix-fluid-bg imgix-image" style="padding-bottom:40%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/alex-bike.jpg" alt="Alex Lowes"></div>
                 
             </div>
             
-            <div class="longform-text-container">
+            <div class="longform-text-container wow slideInLeft">
                 <blockquote>
                     <p>Whatever you do on two wheels, you need to do things right. Hertfordshire Rider tells you everything you need to know whether it’s about how to sharpen up your riding skills, what the top new products are that you can buy, where to go for the best insurance deals or how to maintain or secure your bike. It’s all in here!</p>
                 </blockquote>
             </div>
             
-            <div class="row">
+            <div class="row wow fadeInUp">
                <div class="one-half column">
                     <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/alex-bike-2.jpg" alt="Alex Lowes"></div>
                 
@@ -72,7 +72,7 @@
           </div><!-- /longform-text-container -->
         </section>
         
-        <section class="container lined">
+        <section class="container lined wow fadeInUp">
             <div class="longform-text-container">
                 <h1>We've gone Digital</h1>
                 <p>Now that Hertfordshire Rider has gone digital it's even easier to access and share; you can view it on your computer, phone or tablet. If you haven’t done so already, subscribe for free by clicking the button at the top of the homepage and letting us know your email address and we'll notify you when new issues come out. Don't forget to share the magazine with your friends using email or social media; just point them to <a href="http://hertfordshirerider.co.uk" target="_blank">hertfordshirerider.co.uk</a></p>
