@@ -127,6 +127,14 @@
                     width: 100%;
                 }
             }
+            
+            @media (min-width: $tablet-breakpoint) and (max-width: $desktop-breakpoint) {
+                input {
+                    border-radius: 5px;
+                    width: 100%;
+                }
+                
+            }
             @media (max-width: $tablet-breakpoint) {
                 width: 98% !important;
                 clear: both;
