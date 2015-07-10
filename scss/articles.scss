@@ -19,6 +19,9 @@ $page-12: highway-code-quiz;
 $page-13: motorcycle-clothing;
 $page-14: fire-bike;
 $page-15: biker-down;
+$page-16: tracer-review;
+$page-17: ten-of-the-best;
+
 // Article Styling
 
 ##{$page-1} {
@@ -79,4 +82,12 @@ $page-15: biker-down;
 
 ##{$page-15} {
     @include article-style($alizarin-crimson, $page-15);
+}
+
+##{$page-16} {
+    @include article-style($alizarin-crimson, $page-16);
+}
+
+##{$page-17} {
+    @include article-style($alizarin-crimson, $page-17);
 }

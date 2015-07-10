@@ -130,7 +130,20 @@
         'title' => 'How to buy a motorbike',
         'blurb' => 'Buying a motorbike can be as daunting as it is exciting. Here’s how to make sure you don’t regret your decisions',
         'type'  => 'articles',
-        'button' => 'View article'),    );
+        'button' => 'View article'),
+    '20' => array(
+        'id'    => 'how-to-buy-a-motorbike',
+        'title' => 'How to buy a motorbike',
+        'blurb' => 'Buying a motorbike can be as daunting as it is exciting. Here’s how to make sure you don’t regret your decisions',
+        'type'  => 'articles',
+        'button' => 'View article'), 
+    '21' => array(
+        'id'    => 'ten-of-the-best',
+        'title' => 'Ten of the Best',
+        'blurb' => 'Ever lost your keys and wished for a way to find them? Ever fancied a flip-up lid that goes all the way back? Ever wanted leathers that are tailor-made for your body? Read on for some of the best and most alternative products in motorcycling',
+        'type'  => 'articles',
+        'button' => 'View article')
+    );
 
 
     // Learning Journey Steps
