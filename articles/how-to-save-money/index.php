@@ -40,20 +40,20 @@
 
         <section class="container">
          
-         <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/tracer.jpg" alt="Tracer"></div>
+         <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/tracer.JPG" alt="Tracer"></div>
           <div class="longform-text-container">
            
            <p>I'm picking up a demo bike from 5 Ways in Hull. It's my favourite colour: grey with delicious blue forks, only slightly marred by the difference in shade between them and every other blue highlight on the bike. Still, this is the most attractive colour scheme of the three available. The others are a mediocre red, and an evil-looking all black, which shows off the twin red brake lights in all their demonic glory.</p>
 
 <p>A few tasty Yamaha accessories adorn the 5 Ways demonstrator: luggage rack, radiator cover and engine protectors all round. Gareth from 5 Ways switches on the bike and proudly indicates the average fuel economy displayed on the Tracer's large rectangular dash. It reads a very respectable 51.9mpg, managed by all the test riders to sit upon the bike during its 478-mile life so far. I don't promise him either number will be recognisable when I bring the Tracer back later this afternoon.</p>
 
- <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/tracer-2.jpg" alt="Tracer"></div>
+ <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/tracer-2.JPG" alt="Tracer"></div>
 
 <p>Roundabouts are dissected thanks to the Tracers' high and wide bars, and I get cracking on a series of dual carriageways and A-roads. The seat height can be altered between 845mm and 860mm, higher in its lowest position than the Tracer's brother the MT-09, but doing so involves a mini adventure. Thankfully riders will only need to undertake it once. Sitting high, feet are placed on pegs comfortably situated low and forwards. It is a zen riding position, but for slow speed turns a long reach is needed to fully turn the front wheel.</p>
 
 <p>Turning onto more minor roads, I wind up the Tracer and leap from corner to corner, rejoicing in the bike's charging progress and argumentative exhaust note. Engine and frame come loaned from the original MT-09 and there is little reason to change such a fantastic pairing of taut chassis and bounding motor. In fact, the engine is so brimming with torque that twisting the throttle in first gear will see the traction control kicking in as the triple tries to lift the front wheel. There's a noticeable cut-out while accelerating where the bike hiccups to keep its leading tyre on the tarmac. Switch the TCS off, though, and the Tracer's front lifts in a smooth and controlled manner. Yes sir, very satisfying. Second and third gears are equally stimulating and keep doling out torque and power from 4,000rpm all the way to the respectable red line.</p>
 
- <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/tracer-3.jpg" alt="Tracer"></div>
+ <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/tracer-3.JPG" alt="Tracer"></div>
 
 <p>Stock front suspension gives a little in corners, but keep the throttle action smooth and the Tracer stays composed while it carves a path to the apex. Steering remains pin-sharp whatever is thrown at it. Simply put, this bike is absolute fun on smaller roads like these.</p>
 
@@ -62,7 +62,7 @@
 <p>I finger through the three riding modes as I head back to 5 Ways to drop off the Tracer, 18 litre fuel tank now brimming full. Shut the throttle and I can change modes on the fly. I'm happy with Standard on this A-road, with its smooth, high-speed corners and long views. The A-mode, obviously short for Agressive, provides near-digital throttle response and full power, great for releasing adrenaline on B-roads. B-mode restricts the bike to 95bhp and smooths off throttle response, bringing you power in a manageable way. Switch the Tracer into B on smaller roads and ask it to leap to your every command and you might be disappointed, but it is useful – and also needed – for town riding and motorway sections. Here, I become thankful for the relaxed response as it reduces snatchy throttle response at junctions.</p>
     </div>
        
-        <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/tracer-4.jpg" alt="Tracer"></div>
+        <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/tracer-4.JPG" alt="Tracer"></div>
         </section>
         
 
