@@ -132,9 +132,9 @@
         'type'  => 'articles',
         'button' => 'View article'),
     '20' => array(
-        'id'    => 'how-to-buy-a-motorbike',
-        'title' => 'How to buy a motorbike',
-        'blurb' => 'Buying a motorbike can be as daunting as it is exciting. Here’s how to make sure you don’t regret your decisions',
+        'id'    => 'how-to-save-money',
+        'title' => 'How To Save £3,750',
+        'blurb' => 'Thinking of buying an £11,900 R1200GS? Take a moment to jump on an £8,149 Yamaha Tracer instead. You might just save yourself four grand',
         'type'  => 'articles',
         'button' => 'View article'), 
     '21' => array(
