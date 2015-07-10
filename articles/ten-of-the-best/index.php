@@ -97,7 +97,7 @@
           <h1>Shark Evoline ST Series 3 – £270</h1>
           <div class="row">
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/5.jpg" alt="Shark Evoline ST Series 3"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:85%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/5.jpg" alt="Shark Evoline ST Series 3"></div>
             </div><!-- /one-half column -->
             <div class="one-half column">
             <p>Want a full-face, flip up and open face helmet in one? You can flip the chin guard of the Evoline right back behind your head, allowing you to ride at speed without the sail effect produced by most flip-up helmets' chin guards. European Standard ECE 22.05/P tests helmets that have a protective lower face covering, and ECE 22.05/J is the code for no lower face protection. Very few flip-up helmets have passed both the P and J standards, but the Evoline has both. When trying it on, make sure it fits snugly around the ears – this is the secret to finding a quiet helmet.</p>
@@ -167,7 +167,7 @@
           <h1>TCX X-Blend Waterproof Boots – £150</h1>
           <div class="row">
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/10.jpg" alt="TCX X-Blend Waterproof Boots"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:90%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/10.jpg" alt="TCX X-Blend Waterproof Boots"></div>
             </div><!-- /one-half column -->
             <div class="one-half column">
             <p>The X-Blend says “vintage” as well as any other boot on the market, and it might fit the bill if you're looking for something casual to wear for urban riding. The rubber sole might not give you as much feel for the gear lever as a race boot, but it won't be missed if you're focussing on casual trips on a retro or café racer. Forget Velcro, laces are back in – black ones for the black boot, and brown for the tan leather option. Reports from recent wearers support TCX's claim that the boots are 100% waterproof, all the way to the top of the high collar.</p>
