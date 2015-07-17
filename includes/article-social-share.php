@@ -41,5 +41,10 @@
         </g>
       </svg>
     </a>
+    
+    <div class="u-center">
+        <a href="#primary-menu" class="small-text">Back to top</a>
+    </div>
+
 
 </section>
