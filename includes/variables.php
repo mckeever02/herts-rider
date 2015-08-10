@@ -92,7 +92,7 @@
         'button' => 'View article'),
     '13' => array(
         'id'    => 'competition',
-        'title' => 'Win over £750-worth of kit from sportsbikeshop.co.uk',
+        'title' => 'Win £750-worth of biking kit',
         'blurb'  => 'Win the kit you need to stay safe on your bike, thanks to sportsbikeshop.co.uk',
         'type'  => 'articles',
         'button' => 'View article'),
