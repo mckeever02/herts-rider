@@ -74,8 +74,10 @@
         
         <section class="container lined wow fadeInUp">
             <div class="longform-text-container">
-                <h1>We've gone Digital</h1>
-                <p>Now that Hertfordshire Rider has gone digital it's even easier to access and share; you can view it on your computer, phone or tablet. If you haven’t done so already, subscribe for free by clicking the button at the top of the homepage and letting us know your email address and we'll notify you when new issues come out. Don't forget to share the magazine with your friends using email or social media; just point them to <a href="http://hertfordshirerider.co.uk" target="_blank">hertfordshirerider.co.uk</a></p>
+                <h1>About Hertfordshire Rider</h1>
+                <p>This digital magazine is funded by Hertfordshire Council’s as a free source of information and advice for motorcyclists in around the county. Formerly titled Hertfordshire Biker and printed biannually, the magazine has evolved into a full digital publication with interactive content.</p>
+ 
+<p>We hope you’ll find it much easier to access and share articles, which you can now view on your computer, phone or tablet. If you haven’t done so already, subscribe for free by clicking the button at the top of the homepage and letting us know your email address and we'll notify you when new issues come out. Don't forget to share the magazine with your friends using email or social media; just point them to <a href="http://hertfordshirerider.co.uk" target="_blank">hertfordshirerider.co.uk</a></p>
 
             <p>Because Hertfordshire Rider is produced for you, tell us what you'd like to see in future editions by dropping us a line at any time on <a href="mailto:info@firstcar.co.uk">info@firstcar.co.uk</a> or call the office on <a href="tel:08451308853">08451 308 853</a>.</p>
                 
