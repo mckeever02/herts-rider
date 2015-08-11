@@ -56,6 +56,10 @@
             } ?>
 
         </section>
+        
+        <section class="container">
+          <div class="imgix-fluid-bg imgix-image" style="padding-bottom:30%;" data-src="https://herts-rider.imgix.net/ads/inline-ads/herts-bikes-banner.jpg" alt="Herts Bikes"></div>
+        </section>
 
 
         <?php include ("$path/includes/article-social-share.php"); ?>

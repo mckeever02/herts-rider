@@ -61,7 +61,8 @@
         </section>
 
         <section class="container">
-          <div class="imgix-fluid-bg imgix-image" style="padding-bottom:30%;" data-src="https://herts-rider.imgix.net/ads/inline-ads/herts-bikes-banner.jpg" alt="Herts Bikes"></div>
+          <a href="http://www.carolenash.com/rider-cover" target="_blank"><div class="imgix-fluid-bg imgix-image" style="padding-bottom:33%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/carole-nash-banner.jpg" alt="Carole Nash"></div>
+          </a>
         </section>
 
         <section class="container">
@@ -75,7 +76,7 @@
 
               <p>The cost of your premium in the future is in your  hands. Take advanced courses, don’t get points on your licence, consider a limited mileage policy, fit security and join a bike club. These things all help reduce your premium.</p>
 
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/ads/inline-ads/herts-bikes-square.jpg" alt="Herts Bikes"></div>
+              <a href="http://www.carolenash.com/rider-cover" target="_blank"><div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/carole-nash-square.jpg" alt="Carole Nash"></div></a>
 
             </div><!-- /one-half column -->
 
