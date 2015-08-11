@@ -129,8 +129,6 @@
               <p>Gloves should have a reinforced palm area to give increased abrasion resistance if you fall. Some also have hard plastic, metal or carbonfibre knuckle guards for added protection.</p>
 
               <p>Your hands are vulnerable in a crash and you can easily lose a finger if your hand gets trapped under you, so always wear specialist motorcycling gloves &mdash; a strong protective layer is essential.</p>
-              
-              <a href="http://www.carolenash.com/rider-cover" target="_blank"><div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/carole-nash-square.jpg" alt="Carole Nash"></div></a>
 
             </div><!-- one-half column -->
 
@@ -344,10 +342,6 @@
           </blockquote>
         </div><!-- /row -->
         
-        <div class="row">
-            <a href="http://www.carolenash.com/rider-cover" target="_blank"><div class="imgix-fluid-bg imgix-image" style="padding-bottom:33%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/carole-nash-banner.jpg" alt="Carole Nash"></div></a>
-
-        </div>
       </section>
 
       <section class="container">
