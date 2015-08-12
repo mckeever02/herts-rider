@@ -32,7 +32,7 @@
         <section class="container wow fadeInUp">
 
           <div class="longform-text-container">
-            <p class="introduction">Win the kit you need to stay safe on your bike, thanks to <a href="sportsbikeshop.co.uk">sportsbikeshop.co.uk</a>. You need the right kit when you’re on your motorbike, and thanks to SportsBikeShop you’ve got the chance to win over £750-worth of the best biking clobber.</p>
+            <p class="introduction">Win the kit you need to stay safe on your bike, thanks to <a href="http://sportsbikeshop.co.uk">sportsbikeshop.co.uk</a>. You need the right kit when you’re on your motorbike, and thanks to SportsBikeShop you’ve got the chance to win over £750-worth of the best biking clobber.</p>
 
             <p>You don’t just need safety kit such as a helmet, jacket, boots, gloves and trousers, you also need security and protection. That’s why SportsBikeShop has included a chain lock worth £40 and a bike cover to keep your pride and joy sheltered from the elements. Just look at this lot...</p>
 
