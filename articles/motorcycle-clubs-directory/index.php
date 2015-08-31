@@ -186,11 +186,12 @@
               <h3>Stevenage &amp; District Motorcycle Club</h3>
               <ul>
                 <li>For all ages with regular ride-outs and social meetings</li>
-                <li>Based at the Robin Hood, Walkern</li>
+                <li>Based at the Hen &amp; Chickens in Baldock</li>
                 <li>Meets at various pubs every Monday night throughout the year</li>
               </ul>
 
               <ul class="plain-list">
+                <li><strong>Web:</strong> <a href="http://www.stevenageanddmcc.co.uk/" target="_blank">stevenageanddmcc.co.uk</a></li>
                 <li><strong>Contact:</strong>Mick Taylor</li>
                 <li><strong>Telephone:</strong> <a href="tel:01438354130 ">01438 354130 </a></li>
               </ul>
