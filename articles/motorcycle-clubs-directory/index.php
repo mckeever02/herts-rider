@@ -224,12 +224,41 @@
               <li><strong>Telephone:</strong> <a href="tel:01992632372">01992 632372</a></li>
             </ul>
           </div>
-          <div class="one-half column">
+          
+
+          <div class="one-third column">
+            <h3>Redbourn Motorcycle Group (RMG)</h3>
+            <ul>
+              <li>A very informal group based in Redbourn near St Albans</li>
+              <li>Regular ride outs in UK and to Europe</li>
+              <li>Meets on Thursday evenings at The Cricketers on Redbourn Common</li>
+            </ul>
+
+            <ul class="plain-list">
+              <li><strong>Contact: </strong>Will Walters</li>
+              <li><strong>Telephone:</strong> <a href="tel:01582626562">01582 626562</a> or <a href="tel:07767263046">07767 263046</a></li>
+              <li><strong>Email:</strong> <a href="mailto:enquiries@redbournbikers.co.uk">enquiries@redbournbikers.co.uk</a></li>
+            </ul>
+          </div>
+          
+          <div class="one-third column">
               <a href="http://www.bmf.co.uk/" target="_blank">
                   <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<? echo $page[''.$page_id.'']['id'];?>/images/bmf-inline-ad.jpg" alt="British Motorcyclists Federation"></div>
               </a>
           </div>
+          
         </div><!-- /row -->
+        
+        <div class="row">
+        <!-- AD -->
+<!--
+          <div class="one-half offset-by-three column">
+              <a href="http://www.bmf.co.uk/" target="_blank">
+                  <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="https://herts-rider.imgix.net/articles/<?// echo $page[''.$page_id.'']['id'];?>/images/bmf-inline-ad.jpg" alt="British Motorcyclists Federation"></div>
+              </a>
+          </div>
+-->
+        </div>
       </section>
 
 
