@@ -40,7 +40,7 @@
         'button' => 'View article'),
     '4' => array(
         'id'    => 'motorcycle-clubs-directory',
-        'title' => 'Motorcycle club\'s directory',
+        'title' => 'Motorcycle clubs directory',
         'blurb' => 'Fed up of riding alone? Feel like Billy No-Mates? Then join one of these groups of like-minded bikers',
         'type'  => 'articles',
         'button' => 'View article'),
