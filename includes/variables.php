@@ -283,7 +283,7 @@
     '10' => array(
         'step'      => '10',
         'title'     => 'Animals',
-        'content'   => 'Amimals running into the road can lead to serious accidents. Being so unpredictable, it can be hard to know how best to act if an animal runs out in front of you, as swerving may result in you losing control and having a bigger crash. Cutting speed in areas where animals or wildlife may be present, can give you valuable time to react. ')
+        'content'   => 'Animals running into the road can lead to serious accidents. Being so unpredictable, it can be hard to know how best to act if an animal runs out in front of you, as swerving may result in you losing control and having a bigger crash. Cutting speed in areas where animals or wildlife may be present, can give you valuable time to react. ')
     );
 
 
