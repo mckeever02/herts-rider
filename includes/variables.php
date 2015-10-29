@@ -258,12 +258,12 @@
     '5' => array(
         'step'       => '5',
         'title'     => 'Gravel',
-        'content'   => 'Bikes tend not to aquaplane as much as cars because the more rounded tyres can disperse water more efficiently. But riding through standing water can still be a hazard for a biker as it can obscure your view of the Tarmac beneath, hiding more dangerous hazards.'),
+        'content'   => 'Loose stones on the road surface can reduce grip, so look for signs that indicate a road with a loose surface and slow accordingly. Gravel can also build up on the outside of roundabouts, so try not to ride in this outer edge.'),
 
     '6' => array(
         'step'      => '6',
         'title'     => 'Standing water',
-        'content'   => 'It’s essential that you invest in some professional tuition, but it’s worth supplementing this with some private practice in the family car. Or maybe even your own car if you’ve already bought something. Either way, getting in as much practice as you can, before you take your driving test, is key.'),
+        'content'   => 'Bikes tend not to aquaplane as much as cars because the more rounded tyres can disperse water more efficiently. But riding through standing water can still be a hazard for a biker as it can obscure your view of the Tarmac beneath, hiding more dangerous hazards.'),
 
     '7' => array(
         'step'      => '7',
@@ -278,7 +278,7 @@
     '9' => array(
         'step'      => '9',
         'title'     => 'Road repairs',
-        'content'   => 'Some road repairs may not be smooth and level and can upset the balance of your bike, while others may be flat, but if fixed with bitumen, can still have very slippery areas in the wet. Keep your eyes peeled and slow down in necessary.'),
+        'content'   => 'Some road repairs may not be smooth and level and can upset the balance of your bike, while others may be flat, but if fixed with bitumen, can still have very slippery areas in the wet. Keep your eyes peeled and slow down if necessary.'),
 
     '10' => array(
         'step'      => '10',
