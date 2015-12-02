@@ -3,6 +3,9 @@
     $path = "../..";
     $img_path = "../../images/articles";
 
+    $imgix_path = "https://herts-rider.imgix.net/articles/";
+
+
     //Previous and Next Articles
 
     $add = "+";
@@ -113,7 +116,7 @@
         'blurb' => 'Firefighters don’t just clear up after crashes &mdash; they also help to prevent them from happening in the first place',
         'type'  => 'articles',
         'button' => 'View article'),
-    
+
     '17' => array(
         'id'    => 'how-to-maintain-your-motorbike',
         'title' => 'How to maintain your motorbike',
@@ -137,11 +140,94 @@
         'title' => 'How To Save £3,750',
         'blurb' => 'Thinking of buying an £11,900 R1200GS? Take a moment to jump on an £8,149 Yamaha Tracer instead. You might just save yourself four grand',
         'type'  => 'articles',
-        'button' => 'View article'), 
+        'button' => 'View article'),
     '21' => array(
         'id'    => 'ten-of-the-best',
         'title' => 'Ten of the Best',
         'blurb' => 'Ever lost your keys and wished for a way to find them? Ever fancied a flip-up lid that goes all the way back? Ever wanted leathers that are tailor-made for your body? Read on for some of the best and most alternative products in motorcycling',
+        'type'  => 'articles',
+        'button' => 'View article')
+    );
+
+    // Page Array
+    $page_issue2 = array(
+    '0' => array(
+        'id'    => 'contents',
+        'title' => 'Contents',
+        'blurb' => 'Herts Rider Contents Page',
+        'type'  => 'articles',
+        'button' => 'Find out more'),
+    '1' => array(
+        'id'    => 'about',
+        'title' => 'Welcome to Hertfordshire Rider',
+        'blurb' => 'Foreword by Alex Lowes - World Superbike racer and British Champion
+',
+        'type'  => 'articles',
+        'button' => 'Find out more'),
+    '2' => array(
+        'id'    => 'metropolis',
+        'title' => 'Metropolis motorcycles',
+        'url'   => 'http://www.metropolismotorcycles.com/barnet/',
+        'type'  => 'ads',
+        'button' => 'View article'),
+    '3' => array(
+        'id'    => 'winter-riding',
+        'title' => 'Winter Riding',
+        'blurb' => 'Modern kit, clothing and bikes give British bikers the chance to really extend our biking year – if we want to',
+        'type'  => 'articles',
+        'button' => 'View article'),
+    '4' => array(
+        'id'    => 'hertforshire-to-china',
+        'title' => 'The big ride: Hertfordshire to China',
+        'blurb' => 'Nick Gorringe is a 43-year old man with an understanding wife and a bike-mad son. He’s a lucky man because in 2014 he decided to take some time out after selling his business; his plan was to do something seriously adventurous. With a background in sailing and yachting Nick is no stranger to adventure, but with limited motorcycling experience (limited to day trips in the UK), a major global expedition was always going to be a major eye opener. But that didn’t stop him taking the plunge...',
+        'type'  => 'articles',
+        'button' => 'View article'),
+    '5' => array(
+        'id'    => 'art-of-motorcycle-riding',
+        'title' => 'Zen and the art of motorcycle riding',
+        'blurb' => 'Whether you’re a new rider or a grizzly seasoned dispatcher, one key quality all riders need is self-awareness. I don’t mean you need to take an existential journey into the meaning of existence and your place within it, but you do need to have some idea of how you react to difference circumstances and situations.',
+        'type'  => 'articles',
+        'button' => 'View article'),
+    '6' => array(
+        'id'    => 'road-to-hell',
+        'title' => 'Road to hell?',
+        'blurb' => 'When Rob Box decided to commute by bike he was under pressure to prove himself. Or so he thought...',
+        'type'  => 'articles',
+        'button' => 'View article'),
+    '7' => array(
+        'id'    => 'top-10-hazards',
+        'title' => 'The top 10 motorcycle hazards',
+        'blurb' => 'There are loads of potential problems to deal with when you’re on your bike. These are 10 of the most common Tarmac terrors. Remember, forewarned is forearmed...',
+        'type'  => 'articles',
+        'button' => 'View article'),
+    '8' => array(
+        'id'    => 'highway-code-quiz',
+        'title' => 'Highway Code quiz',
+        'blurb'  => 'When was the last time you picked up a copy of the Highway Code? Test your knowledge now',
+        'type'  => 'articles',
+        'button' => 'View article'),
+    '9' => array(
+        'id'    => 'theory-test-quiz',
+        'title' => 'Theory test quiz',
+        'blurb' => 'Blurb needed',
+        'type'  => 'articles',
+        'button' => 'View article'),
+    '10' => array(
+        'id'    => 'maintenance-tips-and-hints',
+        'title' => 'Top five maintenance tips and hints',
+        'blurb' => 'Modern bikes are harder to work on than ever, as their makers want you to pay a franchised dealer to carry out even the most simple tasks. But there’s still plenty you can do...',
+        'type'  => 'articles',
+        'button' => 'View article'),
+    '11' => array(
+        'id'    => 'the-big-softy',
+        'title' => 'The big softy…',
+        'blurb' => 'The Yamaha XJR1300 has seen some big changes after 20 years or so…',
+        'type'  => 'articles',
+        'button' => 'View article'),
+    '12' => array(
+        'id'    => 'How-to-buy-the-right-kit',
+        'title' => 'How to buy the right kit',
+        'blurb' => 'Making sure you’re well protected is at least as important as picking the right bike, but modern biking kit isn’t as bulky or as expensive as it was. There’s suitable kit available for every budget – you really don’t have to break the bank to be protected against incidents and the elements.',
         'type'  => 'articles',
         'button' => 'View article')
     );
@@ -202,4 +288,3 @@
 
 
 ?>
-
