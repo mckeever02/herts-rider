@@ -16,26 +16,31 @@
             margin: 1%;
 
             // Hide Contents Module
+            &:nth-of-type(3),
+            &:nth-of-type(4) {
+                display: none;
+            }
             &:nth-of-type(1) {
                width: 64.6666666666%;
             }
 
-             &:nth-of-type(2) {
-                display: none;
-            }
 
-             &:nth-of-type(5) {
+             &:nth-of-type(6),
+             &:nth-of-type(21){
                 @extend .five.columns;
             }
 
-            &:nth-of-type(7) {
+            &:nth-of-type(7),
+            &:nth-of-type(22){
                 @extend .seven.columns;
             }
 
             &:nth-of-type(12),
-            &:nth-of-type(13),
-             &:nth-of-type(24),
-            &:nth-of-type(26){
+            &:nth-of-type(14),
+            &:nth-of-type(19),
+            &:nth-of-type(20),
+            &:nth-of-type(23),
+            &:nth-of-type(24){
                 @extend .six.columns;
             }
 
@@ -52,12 +57,12 @@
             .button-small {
 //            display: none;
             }
+
         }
 
         // Custom Intro Module
         li.intro {
             color: white;
-            padding: 60px 3% 0px;
             position: relative;
 
             h2, p, .intro-image {
@@ -88,7 +93,20 @@
                 @media (max-width: 820px) {
                     width: 100%;
                 }
-
+            }
+            
+            #contact-form  input[type=text]{
+                color: $black-pearl!important;
+            }
+            
+            .sent {
+                background-color: transparent;
+                margin: 0;
+                padding: 0;
+                border: none;
+                + form {
+                    display: none!important;
+                }
             }
 
             &:before {
@@ -102,11 +120,31 @@
                 content: "";
                 opacity: 0.65;
             }
-
+            
+            @media (min-width: $tablet-breakpoint) and (max-width: 1400px) {    
+                h2 {
+                    font-size: 4rem;
+                }
+                p {
+                    width: 100%;
+                }
+            }
+            
+            @media (min-width: $tablet-breakpoint) and (max-width: $desktop-breakpoint) {
+                input {
+                    border-radius: 5px;
+                    width: 100%;
+                }
+                
+            }
             @media (max-width: $tablet-breakpoint) {
                 width: 98% !important;
                 clear: both;
                 padding-bottom: 30px;
+                
+                .tile-link {
+                    padding-bottom: 100px;
+                }
 
                 h2 {
                     font-size: 3.5rem;

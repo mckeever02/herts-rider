@@ -56,6 +56,7 @@ img {
   margin: .5em 1%;
   display: block;
   float: left;
+  background: #e2e2e2;
 }
 
 article.standard-article section {
@@ -92,6 +93,7 @@ Page Header has a Dark and Light Theme that affects logo, text and menu colour *
             color: white;
             &.logo {
                 background: url(../images/logo-white.svg) no-repeat;
+                background-size: contain;
             }
         }
         .drawer-hamburger-icon,
@@ -110,6 +112,7 @@ Page Header has a Dark and Light Theme that affects logo, text and menu colour *
             color: $black-pearl;
             &.logo {
                 background: url(../images/logo.svg) no-repeat;
+                background-size: contain;
             }
         }
         .drawer-hamburger-icon,
@@ -140,9 +143,14 @@ Page Header has a Dark and Light Theme that affects logo, text and menu colour *
 h1.logo {
     display: block;
     text-indent: -9999px;
-    width: 150px;
-    margin: 3rem;
+    width: 200px;
+    margin: 2.5rem 1rem;
     position: absolute;
+    @media (min-width: $desktop-breakpoint) {
+      width: 300px;
+      background-size: 120%;
+      margin: 2rem;
+    }
 }
 
 .article-intro {
@@ -177,9 +185,12 @@ h1.logo {
     overflow: hidden;
 
   h3 {
-      font-size: 1.6em;
+      font-size: 1.4em;
       text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
       width: 80%;
+      @media (min-width: $tablet-breakpoint) {
+        font-size: 1.6em;
+      }
       @media (min-width: $desktop-breakpoint) {
           font-size: 2em;
       }
@@ -461,5 +472,3 @@ h1.logo {
 .social-share {
   text-align: center;
 }
-
-.made-by-little-thunder-co {}

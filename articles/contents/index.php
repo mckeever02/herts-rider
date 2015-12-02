@@ -4,7 +4,7 @@
 <?php include ("../../includes/variables.php"); ?>
 <?php include ("$path/includes/doctype.php"); ?>
 
-  <meta name="author" content="FirstCar">
+  <meta name="author" content="Herts Rider">
 
   <?php include ("$path/includes/head.php"); ?>
 
@@ -22,24 +22,43 @@
 
 
 
-      <ul class="contents">
-           <li class="intro article-tile imgix-fluid-bg" data-src="https://firstcar.imgix.net/articles/contents/images/page-header.jpg?auto=format,enhance&sat=-100">
-               <h2>Welcome to Herts Rider</h2>
-               <p class="opening">FirstCar Provisional tells you everything you need to know about finding the right instructor, learning with your parents and getting through your theory test.</p>
-               <p>It’s your complete guide to the initial stages of learning to drive &mdash; as well as buying your first car.</p>
-           </li>
+        <ul class="contents">
+            <li class="intro article-tile imgix-fluid-bg" data-src="https://herts-rider.imgix.net/articles/about/images/page-header.jpg?auto=format,enhance&fit=crop">
+                <a class="tile-link" href="../about">
+                    <h2>Welcome to Hertfordshire Rider</h2>
+                    <p class="opening">Whatever you do on two wheels, you need to do things right.</p>
+                    <p>Hertfordshire Rider tells you everything you need to know whether it’s about how to sharpen up your riding skills, what the top new products are that you can buy, where to go for the best insurance deals or how to maintain or secure your bike. It’s all in here! </p>
+                </a>
+                <a href="../about" class="button button-small button-icon">Find out more</a>
+            </li>
+            
+            <li class="intro article-tile imgix-fluid-bg" data-src="https://herts-rider.imgix.net/articles/contents/images/page-header.jpg?auto=format,enhance&fit=crop">
+               <a class="tile-link">
+                <h3>Subscribe to our Newsletter</h3>
+                <p>Keep up-to-date with Herts Rider by signing up to our Newsletter.</p>
+                
+                <?=$success?>
+                <form id="contact-form" name="contact-form" method="post" action="../../submit.php#form-container">
+                    <input type="text" placeholder="Enter your email" class="validate[required,custom[email]]" name="email" id="email" value="<?=(isset($_SESSION['post']['email']) ? $_SESSION['post']['email'] : '');?>" />
+                    <input type="submit" name="button" value="Subscribe" />
+                    <?=$str?>
+                </form>
+           
+                </a>
+            </li>
+
             <?php foreach($page as $item) {
-                echo "
-                    <li class=\"article-tile imgix-fluid-bg {$item['id']} {$item['type']}\" data-src=\"https://firstcar.imgix.net/articles/{$item['id']}/images/page-header.jpg?auto=format,enhance&fit=crop&sat=-100\">
-                        <a class=\"tile-link\" href=\"../{$item['id']}\">
-                            <h3>{$item['title']}</h3>
-                            <p>{$item['blurb']}</p>
-                        </a>
-                        <a href=\"../{$item['id']}\" class=\"button button-small button-icon\">View the Article</a>
-                    </li>
-                    ";
-                } ?>
-          </ul>
+            echo "
+                <li class=\"article-tile imgix-fluid-bg {$item['id']} {$item['type']}\" data-src=\"https://herts-rider.imgix.net/articles/{$item['id']}/images/page-header.jpg?auto=format,enhance&fit=crop\">
+                    <a class=\"tile-link\" href=\"../{$item['id']}\">
+                        <h3>{$item['title']}</h3>
+                        <p>{$item['blurb']}</p>
+                    </a>
+                    <a href=\"../{$item['id']}\" class=\"button button-small button-icon\">{$item['button']}</a>
+                </li>
+                ";
+            } ?>
+        </ul>
 
 
 

@@ -1,4 +1,4 @@
-    <div class="drawer-header">
+    <div id="primary-menu" class="drawer-header">
         <button type="button" class="drawer-toggle drawer-hamburger">
           <span class="sr-only">toggle navigation</span>
           <span class="drawer-hamburger-icon"></span>
