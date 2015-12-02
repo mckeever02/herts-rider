@@ -10,18 +10,18 @@
 
 </head>
 
-<body id="<? echo $page[''.$page_id.'']['id'];?>" class="drawer drawer-right">
+<body id="<? echo $page_issue2[''.$page_id.'']['id'];?>" class="drawer drawer-right">
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-    <header class="page-header dark imgix-fluid-bg dark-overlay" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/page-header.jpg?auto=format,enhance&fit=crop" role="banner">
+    <header class="page-header dark imgix-fluid-bg dark-overlay" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/page-header.jpg?auto=format,enhance&fit=crop" role="banner">
         <?php include ("$path/includes/logo.php"); ?>
         <?php include ("$path/includes/menu.php"); ?>
 
         <div class="article-intro offset-by-six columns">
-            <h1><? echo $page[''.$page_id.'']['title'];?></h1>
-            <p><? echo $page[''.$page_id.'']['blurb'];?></p>
+            <h1><? echo $page_issue2[''.$page_id.'']['title'];?></h1>
+            <p><? echo $page_issue2[''.$page_id.'']['blurb'];?></p>
         </div>
 
         <?php include ("$path/includes/prev-next.php"); ?>
@@ -48,7 +48,7 @@
           <h1>What to do when first on a crash scene</h1>
           <div class="row">
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/crash-scene.jpg" alt="Crash scene example"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/crash-scene.jpg" alt="Crash scene example"></div>
             </div>
             <div class="one-half column">
               <p>A Fire Bike team member guides you through how to deal with a crash scene involving a motorcyclist, including how you can ensure your own safety. You’ll find out what information you need to gather, to help the emergency services as well as any legal obligations.</p>
@@ -62,7 +62,7 @@
 
           <div class="row">
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/firstaid-course.jpg" alt="Lifesaving first aid course"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/firstaid-course.jpg" alt="Lifesaving first aid course"></div>
             </div><!-- /one-half column -->
 
             <div class="one-half column">
@@ -130,7 +130,7 @@
 
             <p>Before booking onto a Biker Down course make it clear that you’d also like an assessed ride afterwards. The ride is free but if you’re given an IAM observer you may wish to make a contribution towards their petrol costs.</p>
 
-            <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/fire-service.jpg" alt="Fire service"></div>
+            <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/fire-service.jpg" alt="Fire service"></div>
 
           </div><!-- /longform-text-container -->
 

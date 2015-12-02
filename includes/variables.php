@@ -179,7 +179,7 @@
         'button' => 'View article'),
     '4' => array(
         'id'    => 'hertforshire-to-china',
-        'title' => 'The big ride: Hertfordshire to China',
+        'title' => 'Hertfordshire to China',
         'blurb' => 'Nick Gorringe is a 43-year old man with an understanding wife and a bike-mad son. He’s a lucky man because in 2014 he decided to take some time out after selling his business; his plan was to do something seriously adventurous. With a background in sailing and yachting Nick is no stranger to adventure, but with limited motorcycling experience (limited to day trips in the UK), a major global expedition was always going to be a major eye opener. But that didn’t stop him taking the plunge...',
         'type'  => 'articles',
         'button' => 'View article'),

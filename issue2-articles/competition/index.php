@@ -10,18 +10,18 @@
 
 </head>
 
-<body id="<? echo $page[''.$page_id.'']['id'];?>" class="drawer drawer-right">
+<body id="<? echo $page_issue2[''.$page_id.'']['id'];?>" class="drawer drawer-right">
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-    <header class="page-header dark imgix-fluid-bg dark-overlay" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/page-header.jpg?auto=format,enhance&fit=crop" role="banner">
+    <header class="page-header dark imgix-fluid-bg dark-overlay" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/page-header.jpg?auto=format,enhance&fit=crop" role="banner">
         <?php include ("$path/includes/logo.php"); ?>
         <?php include ("$path/includes/menu.php"); ?>
 
         <div class="article-intro offset-by-six columns">
-            <h1><? echo $page[''.$page_id.'']['title'];?></h1>
-            <p class="blurb"><? echo $page[''.$page_id.'']['blurb'];?></p>
+            <h1><? echo $page_issue2[''.$page_id.'']['title'];?></h1>
+            <p class="blurb"><? echo $page_issue2[''.$page_id.'']['blurb'];?></p>
         </div>
 
         <?php include ("$path/includes/prev-next.php"); ?>
@@ -44,21 +44,21 @@
         <section class="container wow fadeInUp">
           <div class="row">
             <div class="four columns">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/helmet.jpg" alt="Kabuto Kamui helmet"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/helmet.jpg" alt="Kabuto Kamui helmet"></div>
               <div class="u-text-center">
                 <h2>Kabuto Kamui helmet</h2>
                 <h3>Worth £199.99</h3>
               </div>
             </div>
             <div class="four columns">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/jacket.jpg" alt="ARMR Ashido 2 jacket"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/jacket.jpg" alt="ARMR Ashido 2 jacket"></div>
               <div class="u-text-center">
                 <h2>ARMR Ashido 2 jacket</h2>
                 <h3>Worth £99.99</h3>
               </div>
             </div>
             <div class="four columns">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/bike-cover.jpg" alt="Lampa Optima bike cover"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/bike-cover.jpg" alt="Lampa Optima bike cover"></div>
               <div class="u-text-center">
                 <h2>Lampa Optima bike cover</h2>
                 <h3>Worth £39.99</h3>
@@ -69,21 +69,21 @@
         <section class="container">
           <div class="row">
             <div class="four columns">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/chain-lock.jpg" alt="Lampa Kiton chain lock"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/chain-lock.jpg" alt="Lampa Kiton chain lock"></div>
               <div class="u-text-center">
                 <h2>Lampa Kiton chain lock</h2>
                 <h3>Worth £39.99</h3>
               </div>
             </div>
             <div class="four columns">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/gloves.jpg" alt="ARMR S550 gloves"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/gloves.jpg" alt="ARMR S550 gloves"></div>
               <div class="u-text-center">
                 <h2>ARMR S550 gloves</h2>
                 <h3>Worth £49.99</h3>
               </div>
             </div>
             <div class="four columns">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/boots.jpg" alt="Falco Boots Oxegen"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/boots.jpg" alt="Falco Boots Oxegen"></div>
               <div class="u-text-center">
                 <h2>Falco Boots Oxegen</h2>
                 <h3>Worth £129.99</h3>
@@ -94,14 +94,14 @@
         <section class="container">
           <div class="row">
             <div class="four columns">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/roadskin-jeans.jpg" alt="Roadskin Paranoid jeans"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/roadskin-jeans.jpg" alt="Roadskin Paranoid jeans"></div>
               <div class="u-text-center">
                 <h2>Roadskin Paranoid jeans</h2>
                 <h3>Worth £119.99</h3>
               </div>
             </div>
             <div class="four columns">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/indo-trousers.jpg" alt="ARMR Indo trousers"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/indo-trousers.jpg" alt="ARMR Indo trousers"></div>
               <div class="u-text-center">
                 <h2>ARMR Indo trousers</h2>
                 <h3>Worth £79.99</h3>

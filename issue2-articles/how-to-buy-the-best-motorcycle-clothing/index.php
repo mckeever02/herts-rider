@@ -11,19 +11,19 @@
 
 </head>
 
-<body id="<? echo $page[''.$page_id.'']['id'];?>" class="drawer drawer-right">
+<body id="<? echo $page_issue2[''.$page_id.'']['id'];?>" class="drawer drawer-right">
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-    <header class="page-header dark imgix-fluid-bg dark-overlay" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/page-header.jpg?auto=format,enhance&fit=crop&crop=faces" role="banner">
+    <header class="page-header dark imgix-fluid-bg dark-overlay" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/page-header.jpg?auto=format,enhance&fit=crop&crop=faces" role="banner">
         <?php include ("$path/includes/logo.php"); ?>
         <?php include ("$path/includes/menu.php"); ?>
 
         <div class="article-intro offset-by-six columns">
             <p class="subheading">Your guide to</p>
-            <h1><? echo $page[''.$page_id.'']['title'];?></h1>
-            <p><? echo $page[''.$page_id.'']['blurb'];?></p>
+            <h1><? echo $page_issue2[''.$page_id.'']['title'];?></h1>
+            <p><? echo $page_issue2[''.$page_id.'']['blurb'];?></p>
         </div>
 
         <?php include ("$path/includes/prev-next.php"); ?>
@@ -43,7 +43,7 @@
           <div class="row">
 
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/helmet.jpg" alt="Helmet"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/helmet.jpg" alt="Helmet"></div>
             </div><!-- /one-half column -->
 
             <div class="one-half column">
@@ -134,7 +134,7 @@
 
 
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/gloves.jpg" alt="Gloves"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/gloves.jpg" alt="Gloves"></div>
             </div><!-- /one-half column -->
           </div><!-- /row -->
       </section>
@@ -215,7 +215,7 @@
             </div><!-- one-half column -->
 
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:120%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/jacket.jpg" alt="Jacket"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:120%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/jacket.jpg" alt="Jacket"></div>
             </div><!-- /one-half column -->
 
           </div><!-- /row -->
@@ -281,7 +281,7 @@
           <div class="row">
 
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/boots.jpg" alt="Boots"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/boots.jpg" alt="Boots"></div>
             </div><!-- /one-half column -->
 
             <div class="one-half column">
@@ -359,7 +359,7 @@
             </div><!-- one-half column -->
 
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:125%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/trousers.jpg" alt="trousers"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:125%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/trousers.jpg" alt="trousers"></div>
             </div><!-- /one-half column -->
 
           </div><!-- /row -->

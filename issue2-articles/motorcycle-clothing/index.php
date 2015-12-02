@@ -11,18 +11,18 @@
 
 </head>
 
-<body id="<? echo $page[''.$page_id.'']['id'];?>" class="drawer drawer-right">
+<body id="<? echo $page_issue2[''.$page_id.'']['id'];?>" class="drawer drawer-right">
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-    <header class="page-header dark imgix-fluid-bg dark-overlay" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/page-header.jpg?auto=format,enhance&fit=crop" role="banner">
+    <header class="page-header dark imgix-fluid-bg dark-overlay" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/page-header.jpg?auto=format,enhance&fit=crop" role="banner">
         <?php include ("$path/includes/logo.php"); ?>
         <?php include ("$path/includes/menu.php"); ?>
 
         <div class="article-intro offset-by-six columns">
-            <h1><? echo $page[''.$page_id.'']['title'];?></h1>
-            <p><? echo $page[''.$page_id.'']['blurb'];?></p>
+            <h1><? echo $page_issue2[''.$page_id.'']['title'];?></h1>
+            <p><? echo $page_issue2[''.$page_id.'']['blurb'];?></p>
         </div>
 
         <?php include ("$path/includes/prev-next.php"); ?>
@@ -42,7 +42,7 @@
               <div class="row">
                 <div class="u-text-center">
                   <div class="three columns offset-by-four">
-                    <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/CE-marking.jpg" alt="CE marking"></div>
+                    <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/CE-marking.jpg" alt="CE marking"></div>
                   </div>
                 </div>
               </div>
@@ -61,7 +61,7 @@
 
             <div class="one-third column">
               <div class="u-text-center">
-               <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/boots.jpg" alt="boots"></div>
+               <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/boots.jpg" alt="boots"></div>
                 <h3>Boots</h3>
                 <h5>CE EN 13634</h5>
               </div>
@@ -69,7 +69,7 @@
 
             <div class="one-third column">
               <div class="u-text-center">
-                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/jacket.jpg" alt="Jackets, trousers and suits"></div>
+                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/jacket.jpg" alt="Jackets, trousers and suits"></div>
                 <h3>Jackets, trousers &amp; suits</h3>
                 <h5>CE EN 13595</h5>
               </div>
@@ -77,7 +77,7 @@
 
             <div class="one-third column">
               <div class="u-text-center">
-                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/body-armour.jpg" alt="body armour"></div>
+                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/body-armour.jpg" alt="body armour"></div>
                 <h3>Impact protectors &amp; body armour</h3>
                 <h5>CE EN 1621</h5>
               </div>
@@ -95,7 +95,7 @@
           <blockquote>
             <div class="row">
               <div class="four columns">
-                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:105%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/helmet.jpg" alt="Crash helmet"></div>
+                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:105%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/helmet.jpg" alt="Crash helmet"></div>
               </div>
               <div class="eight columns">
                 <p>Crash helmets and visors don’t have to be CE-marked, as instead they can display the British Standard kitemark, or European equivalent.</p>

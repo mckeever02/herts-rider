@@ -10,18 +10,18 @@
 
 </head>
 
-<body id="<? echo $page[''.$page_id.'']['id'];?>" class="drawer drawer-right">
+<body id="<? echo $page_issue2[''.$page_id.'']['id'];?>" class="drawer drawer-right">
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-    <header class="page-header dark imgix-fluid-bg dark-overlay" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/page-header.jpg?auto=format,enhance&fit=crop" role="banner">
+    <header class="page-header dark imgix-fluid-bg dark-overlay" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/page-header.jpg?auto=format,enhance&fit=crop" role="banner">
         <?php include ("$path/includes/logo.php"); ?>
         <?php include ("$path/includes/menu.php"); ?>
 
         <div class="article-intro offset-by-six columns">
-            <h1><? echo $page[''.$page_id.'']['title'];?></h1>
-            <p><? echo $page[''.$page_id.'']['blurb'];?></p>
+            <h1><? echo $page_issue2[''.$page_id.'']['title'];?></h1>
+            <p><? echo $page_issue2[''.$page_id.'']['blurb'];?></p>
         </div>
 
         <?php include ("$path/includes/prev-next.php"); ?>
@@ -37,12 +37,12 @@
                 <p> I started with motocross when I was six and then I took to the track from the age of 12. Now I’m 24, a BSB Champion and riding in the World Superbike Championship with Voltcom Crescent Suzuki.</p>
                 </div>
                 <div class="one-half column">
-                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:64%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/alex-lowes.jpg" alt="Alex Lowes"></div>
+                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:64%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/alex-lowes.jpg" alt="Alex Lowes"></div>
                 </div><!-- /one-half column -->
             </div>
 
             <div class="row wow fadeIn">
-                 <div class="imgix-fluid-bg imgix-image" style="padding-bottom:40%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/alex-bike.jpg" alt="Alex Lowes"></div>
+                 <div class="imgix-fluid-bg imgix-image" style="padding-bottom:40%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/alex-bike.jpg" alt="Alex Lowes"></div>
 
             </div>
 
@@ -54,7 +54,7 @@
 
             <div class="row wow fadeInUp">
                <div class="one-half column">
-                    <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/alex-bike-2.jpg" alt="Alex Lowes"></div>
+                    <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/alex-bike-2.jpg" alt="Alex Lowes"></div>
 
                </div>
                <div class="one-half column">

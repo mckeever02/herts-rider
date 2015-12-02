@@ -10,18 +10,18 @@
 
 </head>
 
-<body id="<? echo $page[''.$page_id.'']['id'];?>" class="drawer drawer-right">
+<body id="<? echo $page_issue2[''.$page_id.'']['id'];?>" class="drawer drawer-right">
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-    <header class="page-header dark imgix-fluid-bg dark-overlay" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/page-header.jpg?auto=format,enhance&fit=crop" role="banner">
+    <header class="page-header dark imgix-fluid-bg dark-overlay" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/page-header.jpg?auto=format,enhance&fit=crop" role="banner">
         <?php include ("$path/includes/logo.php"); ?>
         <?php include ("$path/includes/menu.php"); ?>
 
         <div class="article-intro offset-by-six columns">
-            <h1><? echo $page[''.$page_id.'']['title'];?></h1>
-            <p><? echo $page[''.$page_id.'']['blurb'];?></p>
+            <h1><? echo $page_issue2[''.$page_id.'']['title'];?></h1>
+            <p><? echo $page_issue2[''.$page_id.'']['blurb'];?></p>
         </div>
 
         <?php include ("$path/includes/prev-next.php"); ?>
@@ -42,7 +42,7 @@
         <section class="container wow fadeInUp">
           <div class="row">
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:115%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/right-kit.jpg" alt="Wear the right kit"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:115%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/right-kit.jpg" alt="Wear the right kit"></div>
             </div><!-- one-half column -->
 
             <div class="one-half column">
@@ -61,7 +61,7 @@
         </section>
 
         <section class="container">
-          <a href="http://www.carolenash.com/rider-cover" target="_blank"><div class="imgix-fluid-bg imgix-image" style="padding-bottom:33%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/carole-nash-banner.jpg" alt="Carole Nash"></div>
+          <a href="http://www.carolenash.com/rider-cover" target="_blank"><div class="imgix-fluid-bg imgix-image" style="padding-bottom:33%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/carole-nash-banner.jpg" alt="Carole Nash"></div>
           </a>
         </section>
 
@@ -76,12 +76,12 @@
 
               <p>The cost of your premium in the future is in your  hands. Take advanced courses, don’t get points on your licence, consider a limited mileage policy, fit security and join a bike club. These things all help reduce your premium.</p>
 
-              <a href="http://www.carolenash.com/rider-cover" target="_blank"><div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/carole-nash-square.jpg" alt="Carole Nash"></div></a>
+              <a href="http://www.carolenash.com/rider-cover" target="_blank"><div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/carole-nash-square.jpg" alt="Carole Nash"></div></a>
 
             </div><!-- /one-half column -->
 
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/scooter.jpg" alt="Man on scooter"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/scooter.jpg" alt="Man on scooter"></div>
               <blockquote><p>&ldquo;A 17-year-old can insure a 125cc bike for about £400 a year.&rdquo;</p></blockquote>
             </div><!-- one-half column -->
 

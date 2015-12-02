@@ -10,19 +10,19 @@
 
 </head>
 
-<body id="<? echo $page[''.$page_id.'']['id'];?>" class="drawer drawer-right">
+<body id="<? echo $page_issue2[''.$page_id.'']['id'];?>" class="drawer drawer-right">
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-    <header class="page-header dark imgix-fluid-bg dark-overlay" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/page-header.jpg?auto=format,enhance&fit=crop" role="banner">
+    <header class="page-header dark imgix-fluid-bg dark-overlay" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/page-header.jpg?auto=format,enhance&fit=crop" role="banner">
         <?php include ("$path/includes/logo.php"); ?>
         <?php include ("$path/includes/menu.php"); ?>
 
         <div class="article-intro offset-by-six columns">
             <p class="subheading">Your guide to</p>
-            <h1><? echo $page[''.$page_id.'']['title'];?></h1>
-            <p><? echo $page[''.$page_id.'']['blurb'];?></p>
+            <h1><? echo $page_issue2[''.$page_id.'']['title'];?></h1>
+            <p><? echo $page_issue2[''.$page_id.'']['blurb'];?></p>
         </div>
 
         <?php include ("$path/includes/prev-next.php"); ?>
@@ -50,12 +50,9 @@
 
           <h1>Your Bike</h1>
 
-          <div class="row">
+          <p class="large-text">You need your bike in tip-top condition whatever the season, but there are some things you need to look out for especially, if you ride in the winter.</p>
 
-            <div class="full column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/stay-seen.jpg" alt="Stay seen"></div>
-            </div><!-- /full-column column -->
-          </div>
+
 
           <div class="row">
             <div class="longform-text-container">
@@ -104,7 +101,7 @@
           <div class="row">
 
             <div class="full column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/expect-the-unexpected.jpg" alt="Expect the unexpected"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/expect-the-unexpected.jpg" alt="Expect the unexpected"></div>
             </div><!-- /full-column column -->
           </div>
 
@@ -179,7 +176,7 @@
           <div class="row">
 
             <div class="full column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page[''.$page_id.'']['id'];?>/images/round-the-bend.jpg" alt="Going round thte bend"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/round-the-bend.jpg" alt="Going round thte bend"></div>
             </div><!-- /full-column column -->
           </div>
 

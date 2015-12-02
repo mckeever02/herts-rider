@@ -23,6 +23,7 @@ body {
   box-sizing: border-box;
     margin: 0;
     padding: 0;
+  @include article-color($alizarin-crimson);
 }
 
 img {
@@ -313,6 +314,11 @@ h1.logo {
 
 .arrow-nav a.next {
   right: 0;
+}
+
+.arrow-nav a.articles  div, .arrow-nav a.articles .icon-wrap {
+  background: $alizarin-crimson;
+  border-color: $alizarin-crimson;
 }
 
 .arrow-nav a svg {
