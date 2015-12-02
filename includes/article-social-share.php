@@ -12,7 +12,7 @@
         </form>
     </div> <!--/form container -->
 
-    <a href="http://www.facebook.com/sharer/sharer.php?s=100&p[url]=hhttp://firstcarmedia.co.uk/articles/<? echo $page[''.$page_id.'']['id'];?>&p[images][0]=http://firstcarmedia.co.uk/&p[title]=<? echo $page[''.$page_id.'']['title'];?>&p[summary]=" class="button-tertiary button-social button-facebook" target="_blank">
+    <a href="http://www.facebook.com/sharer/sharer.php?s=100&p[url]=<? echo $url ?>articles/<? echo $page[''.$page_id.'']['id'];?>&p[images][0]=<? echo $url ?>articles/<? echo $page[''.$page_id.'']['id'];?>/page-header.jpg&p[title]=<? echo $page[''.$page_id.'']['title'];?>&p[summary]=<? echo $page[''.$page_id.'']['blurb'];?>" class="button-tertiary button-social button-facebook" target="_blank">
       <svg class="icon" x="0px" y="0px" width="40px" height="40px" viewBox="0 0 40 40">
         <g>
           <path d="M18,20.664h-2V18h2v-2.336C18,13.781,19.188,12,22,12c1.133,0,2,0.148,2,0.148l-0.109,2.516h-1.727
@@ -20,7 +20,7 @@
         </g>
       </svg>
     </a>
-    <a href="http://twitter.com/home?status=<? echo $page[''.$page_id.'']['title'];?> @FirstCarUK: http://firstcarmedia.co.uk/articles/<? echo $page[''.$page_id.'']['id'];?>" class="button-tertiary button-social button-twitter" target="_blank">
+    <a href="http://twitter.com/home?status=I just read <? echo $page[''.$page_id.'']['title'];?> at: <? echo $url ?>articles/<? echo $page[''.$page_id.'']['id'];?>" class="button-tertiary button-social button-twitter" target="_blank">
       <svg class="icon" x="0px" y="0px" width="40px" height="40px" viewBox="0 0 40 40">
         <g>
           <path d="M26.367,16.734c0,0.148,0,0.281,0,0.43c0,4.336-3.297,9.336-9.328,9.336c-1.852,0-3.594-0.406-5.039-1.336
@@ -33,7 +33,7 @@
         </g>
       </svg>
     </a>
-    <a href="mailto:?subject=<? echo $page[''.$page_id.'']['title'];?> article&body=Check this article out: http://firstcarmedia.co.uk/articles/<? echo $page[''.$page_id.'']['id'];?>" class="button-tertiary button-social button-email" target="_blank">
+    <a href="mailto:?subject=<? echo $page[''.$page_id.'']['title'];?> article&body=Check this article out: <? echo $url ?>articles/<? echo $page[''.$page_id.'']['id'];?>" class="button-tertiary button-social button-email" target="_blank">
       <svg class="icon" x="0px" y="0px" width="40px" height="40px" viewBox="0 0 40 40">
         <g>
           <path d="M20,21l-8-6c0-0.555,0.445-1,1-1h14c0.555,0,1,0.445,1,1L20,21z M20,22.797l8-6V25c0,0.555-0.445,1-1,1H13
@@ -41,7 +41,7 @@
         </g>
       </svg>
     </a>
-    
+
     <div class="u-center">
         <a href="#primary-menu" class="small-text">Back to top</a>
     </div>

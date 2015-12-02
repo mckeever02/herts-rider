@@ -5,6 +5,9 @@
 
     $imgix_path = "https://herts-rider.imgix.net/articles/";
 
+    $url = "http://hertfordshirerider.co.uk/";
+
+
 
     //Previous and Next Articles
 
