@@ -86,7 +86,7 @@
 
               <div class="row">
                 <div class="one-third column">
-                    <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/roads-scholar.jpg" alt="Roads scholar"></div>
+                    <div class="imgix-fluid-bg imgix-image" style="padding-bottom:150%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/good-luck.jpg" alt="Good luck"></div>
                 </div>
 
                 <div class="two-thirds column">
@@ -100,7 +100,7 @@
 
             <div class="row">
               <div class="two-thirds column">
-                  <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/customs-officer.jpg" alt="Customs Officer"></div>
+                  <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/customs-officer.jpg" alt="Customs Officer"></div>
               </div>
 
               <div class="one-third column">
@@ -125,7 +125,7 @@
 
 
               <div class="row">
-                  <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/lone-riding.jpg" alt="Lone Riding"></div>
+                  <div class="imgix-fluid-bg imgix-image" style="padding-bottom:70%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/lone-riding.jpg" alt="Lone Riding"></div>
                   <blockquote>
                     <p>&ldquo;One man and one bike looking at a map in the middle of the Kazakhstan steppe certainly confirms you’re on an adventure.&rdquo;</p>
                   </blockquote>

@@ -39,7 +39,7 @@
             <p>Capable of capturing high-resolution 1440p30 and 1080p60 video, there’s even a 720p100 option that enables you to capture everything in pin-sharp slow motion.</p>
 
             <div class="row">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/gopro-image1.jpg" alt="Go Pro"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/gopro-image1.jpg" alt="Go Pro"></div>
             </div><!-- /row -->
 
           <p>Waterproof, shockproof and able to deliver still photos at the rate of 10 frames per second, the Hero4 Session can be controlled via just one button. With built-in wi-fi and Bluetooth, you can even control the Hero4 Session via an app on your smartphone.</p>
@@ -51,7 +51,7 @@
 
 
           <div class="row">
-            <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/gopro-image2.jpg" alt="Go Pro image 2"></div>
+            <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/gopro-image2.jpg" alt="Go Pro image 2"></div>
           </div>
 
           <div class="longform-text-container container-margin-top">
