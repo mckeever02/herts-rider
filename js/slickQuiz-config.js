@@ -26,7 +26,7 @@ var quizJSON = {
             "incorrect": "<p><span>Incorrect</span>Correct Answer: <strong>Approaching a dip in the road.</strong> As you begin to think about overtaking, ask yourself if it’s really necessary. If you can’t see well ahead stay back for a safer place to pull out.</p>" // no comma here
         },
         { // Question 2 - Multiple Choice, Multiple True Answers, Select Any
-            "q": "You’re travelling along a narrow country road. When passing a cyclist you should go..><img src='images/question-2.jpg'>",
+            "q": "You’re travelling along a narrow country road. When passing a cyclist you should go..<img src='images/question-2.jpg'>",
             "a": [
                 {"option": "Slowly, sounding your horn as you pass",          "correct": false},
                 {"option": "Quickly, leaving plenty of room",                 "correct": true},
@@ -70,7 +70,7 @@ var quizJSON = {
             "incorrect": "<p><span>Incorrect</span>Correct answer: <strong>No, not in any circumstances</strong>. It’s an offence to park there. You will be causing an obstruction by obscuring the view of both pedestrians and drivers.</p>" // no comma here
         },
         { // Question 6
-            "q": "In heavy motorway traffic the vehicle behind you is following too closely. How can you lower the risk of collision?img src='images/question-6.jpg'>",
+            "q": "In heavy motorway traffic the vehicle behind you is following too closely. How can you lower the risk of collision? <img src='images/question-6.jpg'>",
             "a": [
                 {"option": "Increase your distance from the vehicle in front",  "correct": true},
                 {"option": "Operate the brakes sharply",                        "correct": false},
@@ -81,7 +81,7 @@ var quizJSON = {
             "incorrect": "<p><span>Incorrect</span>Correct answer: <strong>Increase your distance from the vehicle in front</strong>. On busy roads traffic may still travel at high speeds despite being close together. Don’t follow the vehicle in front too closely. If a driver behind seems to be ‘pushing’ you, gradually increase your distance from the vehicle in front by slowing down gently. This will give you more space in front if you have to brake, and lessen the risk of a collision involving several vehicles.</p>" // no comma here
         },
         { // Question 7
-            "q": "You’re approaching a crossroads. The traffic lights have failed. What should you do?img src='images/question-7.jpg'>",
+            "q": "You’re approaching a crossroads. The traffic lights have failed. What should you do? <img src='images/question-7.jpg'>",
             "a": [
                 {"option": "Brake and stop only for large vehicles",            "correct": false},
                 {"option": "Brake sharply to a stop before looking",            "correct": false},
@@ -92,7 +92,7 @@ var quizJSON = {
             "incorrect": "<p><span>Incorrect</span>Correct answer: <strong>Be prepared to stop for any traffic</strong>. When approaching a junction where the traffic lights have failed, you should proceed with caution. Treat the situation as an unmarked junction and be prepared to stop.</p>" // no comma here
         },
         { // Question 8
-            "q": "You break down on a motorway. You need to call for help. Why might it be better to use an emergency roadside telephone rather than a mobile phone?img src='images/question-8.jpg'>",
+            "q": "You break down on a motorway. You need to call for help. Why might it be better to use an emergency roadside telephone rather than a mobile phone? <img src='images/question-8.jpg'>",
             "a": [
                 {"option": "It connects you to a local garage",                 "correct": false},
                 {"option": "Using a mobile phone will distract other drivers",  "correct": false},

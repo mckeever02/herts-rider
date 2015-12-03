@@ -81,7 +81,7 @@
         'button' => 'View article'),
     '10' => array(
         'id'    => 'maintenance-tips-and-hints',
-        'title' => 'Top five maintenance hacks',
+        'title' => 'Maintenance tips & hints',
         'blurb' => 'Modern bikes are harder to work on than ever, as their makers want you to pay a franchised dealer to carry out even the most simple tasks. But there’s still plenty you can do...',
         'type'  => 'articles',
         'button' => 'View article'),
