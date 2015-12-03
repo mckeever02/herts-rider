@@ -10,7 +10,7 @@
 
 </head>
 
-<body id="<? echo $page[''.$page_id.'']['id'];?>" class="drawer drawer-right">
+<body id="<? echo $page_issue2[''.$page_id.'']['id'];?>" class="drawer drawer-right">
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -31,23 +31,23 @@
                 </a>
                 <a href="../about" class="button button-small button-icon">Find out more</a>
             </li>
-            
+
             <li class="intro article-tile imgix-fluid-bg" data-src="https://herts-rider.imgix.net/articles/contents/images/page-header.jpg?auto=format,enhance&fit=crop">
                <a class="tile-link">
                 <h3>Subscribe to our Newsletter</h3>
                 <p>Keep up-to-date with Herts Rider by signing up to our Newsletter.</p>
-                
+
                 <?=$success?>
                 <form id="contact-form" name="contact-form" method="post" action="../../submit.php#form-container">
                     <input type="text" placeholder="Enter your email" class="validate[required,custom[email]]" name="email" id="email" value="<?=(isset($_SESSION['post']['email']) ? $_SESSION['post']['email'] : '');?>" />
                     <input type="submit" name="button" value="Subscribe" />
                     <?=$str?>
                 </form>
-           
+
                 </a>
             </li>
 
-            <?php foreach($page as $item) {
+            <?php foreach($page_issue2 as $item) {
             echo "
                 <li class=\"article-tile imgix-fluid-bg {$item['id']} {$item['type']}\" data-src=\"https://herts-rider.imgix.net/articles/{$item['id']}/images/page-header.jpg?auto=format,enhance&fit=crop\">
                     <a class=\"tile-link\" href=\"../{$item['id']}\">
