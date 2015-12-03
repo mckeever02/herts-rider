@@ -68,9 +68,9 @@
         'type'  => 'articles',
         'button' => 'View article'),
     '8' => array(
-        'id'    => 'john-oliver-column',
-        'title' => 'John Oliver column',
-        'blurb'  => 'blurb needed',
+        'id'    => 'close-shave',
+        'title' => 'A seriously close shave',
+        'blurb'  => 'John Oliver is a highly skilled and experienced motorcyclist, but that didn’t stop him from almost being involved in a crash that was entirely his own fault...',
         'type'  => 'articles',
         'button' => 'View article'),
     '9' => array(
