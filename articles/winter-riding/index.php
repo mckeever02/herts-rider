@@ -30,7 +30,7 @@
 
     <article class="standard-article">
 
-        <section class="container wow fadeInUp">
+        <section class="container">
 
           <div class="longform-text-container">
 
@@ -43,7 +43,7 @@
           </div><!-- /longform-text-container -->
         </section>
 
-        <section class="container numbered wow fadeInUp">
+        <section class="container numbered">
 
           <h1>Your Bike</h1>
             <div class="longform-text-container">
@@ -56,7 +56,7 @@
                 <p>Need to be the right ones for the job and have the correct pressures and legal depth. When we say ‘right ones for the job’ you may want to invest in winter tyres. These have a high silica compound allowing for quicker warm-up times and plenty of tread and/or sipes to increase grip in the rain and snow. Don’t use track-day only tyres as these are designed to work in a very narrow temperature band during summer, and they won’t have the tread to work in rain.</p>
               </div><!-- /column -->
               <div class="one-half column">
-                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/tyres.jpg" alt="Winter tyres"></div>
+                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/tyres.jpg" alt="Winter tyres"></div>
               </div><!-- /half-column column -->
             </div><!-- /row -->
 
@@ -67,7 +67,7 @@
               </div><!-- /column -->
 
               <div class="one-half column">
-                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/rusty-chain.jpg" alt="Rusty chain"></div>
+                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/rusty-chain.jpg" alt="Rusty chain"></div>
               </div><!-- /half-column column -->
             </div><!-- /row -->
 
@@ -77,7 +77,7 @@
                 <p>Helpful all-year round, but especially in winter. These auto-lube your chain and are worked either by the vacuum from your carburettors or electrically.</p>
               </div><!-- /column -->
               <div class="one-half column">
-                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/tyres.jpg" alt="Winter tyres"></div>
+                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:70%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/automatic-chain-oiler.jpg" alt="Automatic chain oiler"></div>
               </div><!-- /half-column column -->
             </div><!-- /row -->
 
@@ -101,7 +101,7 @@
               </div><!-- /column -->
 
               <div class="one-half column">
-                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/bar-muffs-chain.jpg" alt="Bar muffs"></div>
+                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:70%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/bar-muffs.jpg" alt="Bar muffs"></div>
               </div><!-- /half-column column -->
             </div><!-- /row -->
 
@@ -128,13 +128,13 @@
 
         <div class="row container-margin-top">
             <div class="one-third column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/heated-kit-1.jpg" alt="Heated gloves"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:120%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/heated-kit-1.jpg" alt="Heated gloves"></div>
             </div>
             <div class="one-third column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/heated-kit-2.jpg" alt="Heated jacket"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:120%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/heated-kit-2.jpg" alt="Heated jacket"></div>
             </div>
             <div class="one-third column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/heated-kit-3.jpg" alt="Heated jacket control"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:120%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/heated-kit-3.jpg" alt="Heated jacket control"></div>
             </div>
         </div><!-- /row -->
         <div class="row">
@@ -149,7 +149,7 @@
           </div>
 
           <div class="one-half column">
-            <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/yellow-visor.jpg" alt="Yellow Visor"></div>
+            <div class="imgix-fluid-bg imgix-image" style="padding-bottom:90%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/yellow-visor.jpg" alt="Yellow Visor"></div>
           </div><!-- /half-column column -->
         </div><!-- /row -->
 
@@ -160,7 +160,7 @@
           </div>
 
           <div class="one-half column">
-            <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/be-seen.jpg" alt="Bright jacket"></div>
+            <div class="imgix-fluid-bg imgix-image" style="padding-bottom:120%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/be-seen.jpg" alt="Bright jacket"></div>
           </div><!-- /half-column column -->
         </div><!-- /row -->
       </section>
