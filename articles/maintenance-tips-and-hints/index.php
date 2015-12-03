@@ -54,7 +54,7 @@
           <h1>Penetrating spray</h1>
           <div class="row">
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/penetrating-spray.jpg" alt="Penetrating spray"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:90%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/penetrating-spray.jpg" alt="Penetrating spray"></div>
             </div><!-- /one-half column -->
             <div class="one-half column">
               <p>There’s no need to go straight in with the big hammer or fire up the blow-torch to loosen stubborn nuts. Often you simply need to pre-empt your work and 24 hours before stripping something down you know could have issues with, simply spray all the major nuts and bolts with a good-quality penetration spray like WD-40 or ACF50. Buy the cans with the directable nozzle and you will be able to pin-point troublesome areas. Often a coating of spray in the right place can do just enough so you can loosen it.</p>
@@ -67,7 +67,7 @@
           <h1>Ramp/bike lift</h1>
           <div class="row">
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/bike-lift-ramp.jpg" alt="Ramp/bike lift"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:70%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/bike-lift-ramp.jpg" alt="Ramp/bike lift"></div>
             </div><!-- /one-half column -->
             <div class="one-half column">
               <p>If you’re not comfortable when working on your bike you often don’t do a good job or can’t concentrate on what you’re doing. A good bike lift/ramp will ensure the bike is at the right height for you to work on it. With ramps you’ll still need good quality paddock stands to support the front and rear of the bike, but this will also mean you can remove wheels/fairings easily without hurting your back. It’s worth investing in a good stool with castors so you can whizz from tool box to ramp in comfort.</p>
@@ -80,7 +80,7 @@
           <h1>Torque wrench</h1>
           <div class="row">
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/torque-wrench.jpg" alt="Torque Wrench"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/torque-wrench.jpg" alt="Torque Wrench"></div>
             </div><!-- /one-half column -->
             <div class="one-half column">
               <p>Buy one. You’ll need it. This is a vital part of any motorcycle maintainer’s kit. Whether you’re tightening cylinder head bolts, or chassis bolts – torquing these to the manufacturer’s settings is vital. Costly (£120-£450) but you need to get these spot-on.</p>
@@ -118,7 +118,7 @@
           <h1>Be kitted out</h1>
           <div class="row">
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/safety-kit.jpg" alt="Wear a safety kit"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:70%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/safety-kit.jpg" alt="Wear a safety kit"></div>
             </div><!-- /one-half column -->
             <div class="one-half column">
             <p>You don’t necessarily need made-to-measure overalls, but be sensible and wear the protection you need as accidents will happen. Some overalls or functional workwear is always handy, with plenty of pockets. Use eye protection if you’re doing any cutting. If you’re spraying use a face-mask and use gloves to protect your hands from oil or hazardous fluids.</p>
@@ -136,9 +136,6 @@
               <li><strong>A tap and die set</strong> is handy for creating and repairing threads, while a coil spring compressor is good for removing suspension springs</li>
               <li>Whether or not you have power tools a <strong>compressor</strong> can be used for any manner of jobs, including cleaning.</li>
               <li>Finally, with wiring and electrics on motorcycles throwing up all manner of potential problems, a simple <strong>multi-meter</strong> will help you work out what is wrong and where, with your wiring.</li>
-
-
-
             </ul>
           </div><!-- /row -->
         </section>
