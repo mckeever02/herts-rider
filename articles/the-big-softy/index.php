@@ -39,7 +39,7 @@
 
           <div class="row">
             <div class="one-half column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/xjr-closeup.jpg" alt="Yamaha XJR1300 closeup"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/xjr-closeup.jpg" alt="Yamaha XJR1300 closeup"></div>
             </div>
             <div class="one-half column">
               <blockquote>
@@ -61,7 +61,7 @@
           </div><!-- /longform-text-container -->
 
           <div class="row">
-            <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/xjr-wide-motion-shot.jpg" alt="Yamaha XJR1300 wide motion shoy"></div>
+            <div class="imgix-fluid-bg imgix-image" style="padding-bottom:55%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/xjr-wide-motion-shot.jpg" alt="Yamaha XJR1300 wide motion shoy"></div>
           </div><!-- /row -->
 
           <div class="longform-text-container container-margin-top">
@@ -78,13 +78,13 @@
 
           <div class="row">
             <div class="four columns">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:70%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/xjr-wheel.jpg" alt="Yamaha XJR1300 alloys"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:65%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/xjr-wheel.jpg" alt="Yamaha XJR1300 alloys"></div>
             </div>
             <div class="four columns">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:70%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/xjr-suspension.jpg" alt="Yamaha XJR1300 suspension"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:65%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/xjr-suspension.jpg" alt="Yamaha XJR1300 suspension"></div>
             </div>
             <div class="four columns">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:70%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/xjr-rear.jpg" alt="Yamaha XJR1300 rear lights"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:65%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/xjr-rear.jpg" alt="Yamaha XJR1300 rear lights"></div>
             </div>
           </div><!-- /row -->
 
@@ -99,7 +99,7 @@
               </blockquote>
             </div>
             <div class="seven columns">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/xjr-open-road.jpg" alt="Yamaha XJR1300 on the open road"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/xjr-open-road.jpg" alt="Yamaha XJR1300 on the open road"></div>
             </div>
           </div><!-- /row -->
 
@@ -111,7 +111,7 @@
           </div><!-- /longform-text-container -->
 
           <div class="row">
-            <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/xjr-parked-up.jpg" alt="Yamaha XJR1300 parked up"></div>
+            <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/xjr-parked-up.jpg" alt="Yamaha XJR1300 parked up"></div>
           </div><!-- /row -->
 
         </section>
@@ -119,16 +119,17 @@
         <section class="container">
           <h2>Specifications</h2>
           <div class="row">
-            <div class="one-third column">
+            <div class="two-thirds column">
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:70%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/xjr-render.jpg" alt="Yamaha XJR1300 render"></div>
+            </div><!-- /column -->
+            <div class="one-third column container-margin-top">
               <p><strong>Cost new:</strong> £8599 <br>
               <strong>Performance:</strong> 98bhp <br>
               <strong>Wet weight:</strong> 240kg <br>
               <strong>Fuel tank:</strong> 14.5 litres< <br>
               <strong>Seat height:</strong> 829mm </p>
             </div><!-- /column -->
-            <div class="two-thirds column">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/xjr-render.jpg" alt="Yamaha XJR1300 render"></div>
-            </div><!-- /column -->
+
 
 
 
