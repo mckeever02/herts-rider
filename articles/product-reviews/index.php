@@ -37,7 +37,7 @@
 </p>
           </div><!-- /longform-text-container -->
 
-          <a target="_blank" href="http://www.bikestop.co.uk/ride-style/cruiser-custom?utm_source=herts%20rider&utm_medium=banner&utm_content=custom%20-%20desktop%20banner&utm_campaign=bike%20stop%20advertising%20-%20website%20promotion%20-%20december%202015"><div class="imgix-fluid-bg imgix-image" style="padding-bottom:30%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/bikestop-banner.jpg" alt="www.bikestop.co.uk"></div></a>
+          <a target="_blank" href="http://www.bikestop.co.uk/ride-style/cruiser-custom?utm_source=herts%20rider&utm_medium=banner&utm_content=custom%20-%20desktop%20banner&utm_campaign=bike%20stop%20advertising%20-%20website%20promotion%20-%20december%202015"><div class="imgix-fluid-bg imgix-image" style="padding-bottom:30%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/bikestop-banner.png" alt="www.bikestop.co.uk"></div></a>
 
       </section>
 
@@ -166,7 +166,7 @@
       </section>
 
       <section class="container">
-        <a target="_blank" href="http://www.bikestop.co.uk/ride-style/cruiser-custom?utm_source=herts%20rider&utm_medium=banner&utm_content=custom%20-%20desktop%20banner&utm_campaign=bike%20stop%20advertising%20-%20website%20promotion%20-%20december%202015"><div class="imgix-fluid-bg imgix-image" style="padding-bottom:30%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/bikestop-banner.jpg" alt="www.bikestop.co.uk"></div></a>
+        <a target="_blank" href="http://www.bikestop.co.uk/ride-style/cruiser-custom?utm_source=herts%20rider&utm_medium=banner&utm_content=custom%20-%20desktop%20banner&utm_campaign=bike%20stop%20advertising%20-%20website%20promotion%20-%20december%202015"><div class="imgix-fluid-bg imgix-image" style="padding-bottom:30%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/bikestop-banner.png" alt="www.bikestop.co.uk"></div></a>
       </section>
 
         <?php include ("$path/includes/article-social-share.php"); ?>
