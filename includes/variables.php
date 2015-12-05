@@ -99,8 +99,8 @@
         'button' => 'View article'),
     '13' => array(
         'id'    => 'product-reviews',
-        'title' => 'new-product-reviews',
-        'blurb' => 'blurb needed',
+        'title' => 'Ten of the Best',
+        'blurb' => 'If you’re after the right helmet for year-round use, the best way to protect your bike from the elements or a way to keep your pinkies warm in winter, just step this way…',
         'type'  => 'articles',
         'button' => 'View article'),
     '14' => array(
