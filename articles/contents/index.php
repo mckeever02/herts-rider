@@ -23,7 +23,7 @@
 
 
         <ul class="contents">
-            <li class="intro article-tile imgix-fluid-bg" data-src="https://herts-rider.imgix.net/articles/about/images/page-header.jpg?auto=format,enhance&fit=crop">
+            <li class="intro article-tile imgix-fluid-bg" data-src="<? echo $imgix_path ?>about/images/page-header.jpg?auto=format,enhance&fit=crop">
                 <a class="tile-link" href="../about">
                     <h2>Welcome to Hertfordshire Rider</h2>
                     <p class="opening">Whatever you do on two wheels, you need to do things right.</p>
@@ -32,7 +32,7 @@
                 <a href="../about" class="button button-small button-icon">Find out more</a>
             </li>
 
-            <li class="intro article-tile imgix-fluid-bg" data-src="https://herts-rider.imgix.net/articles/contents/images/page-header.jpg?auto=format,enhance&fit=crop">
+            <li class="intro article-tile imgix-fluid-bg" data-src="<? echo $imgix_path ?>contents/images/page-header.jpg?auto=format,enhance&fit=crop">
                <a class="tile-link">
                 <h3>Subscribe to our Newsletter</h3>
                 <p>Keep up-to-date with Herts Rider by signing up to our Newsletter.</p>
@@ -49,7 +49,7 @@
 
             <?php foreach($page_issue2 as $item) {
             echo "
-                <li class=\"article-tile imgix-fluid-bg {$item['id']} {$item['type']}\" data-src=\"https://herts-rider.imgix.net/articles/{$item['id']}/images/page-header.jpg?auto=format,enhance&fit=crop\">
+                <li class=\"article-tile imgix-fluid-bg {$item['id']} {$item['type']}\" data-src=\"$imgix_path{$item['id']}/images/page-header.jpg?auto=format,enhance&fit=crop\">
                     <a class=\"tile-link\" href=\"../{$item['id']}\">
                         <h3>{$item['title']}</h3>
                         <p>{$item['blurb']}</p>
