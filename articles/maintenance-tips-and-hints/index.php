@@ -31,7 +31,7 @@
 
         <section class="container">
 
-          <a href=""><div class="imgix-fluid-bg imgix-image" style="padding-bottom:30%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/herts-bikes-banner.jpg" alt="Herts Bikes"></div></a>
+          <div class="imgix-fluid-bg imgix-image" style="padding-bottom:30%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/herts-bikes-banner.jpg" alt="Herts Bikes"></div>
         </section>
 
         <!-- Item 1 -->

@@ -36,6 +36,9 @@
             <p class="u-text-center">All products are available from <a href="http://www.bikestop.co.uk">www.bikestop.co.uk</a>
 </p>
           </div><!-- /longform-text-container -->
+
+          <a target="_blank" href="http://www.bikestop.co.uk/ride-style/cruiser-custom?utm_source=herts%20rider&utm_medium=banner&utm_content=custom%20-%20desktop%20banner&utm_campaign=bike%20stop%20advertising%20-%20website%20promotion%20-%20december%202015"><div class="imgix-fluid-bg imgix-image" style="padding-bottom:30%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/bikestop-banner.jpg" alt="www.bikestop.co.uk"></div></a>
+
       </section>
 
       <section class="container numbered">
@@ -98,6 +101,10 @@
         </div>
       </section>
 
+      <section class="container">
+        <a target="_blank" href="http://www.bikestop.co.uk/motorcycle-clothing/dainese?utm_source=herts%20rider&utm_medium=banner&utm_content=dainese%20-%20desktop%20banner&utm_campaign=bike%20stop%20advertising%20-%20website%20promotion%20-%20december%202015"><div class="imgix-fluid-bg imgix-image" style="padding-bottom:30%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/bikestop-banner2.png" alt="www.bikestop.co.uk"></div></a>
+      </section>
+
       <section class="container numbered">
         <h1>Dainese Street Biker D-WP: £129.99</h1>
         <div class="row">
@@ -156,6 +163,10 @@
             <p>Oxford Products has long been considered the best manufacturer of heated grips; it was the first to mass produce the heated grip following its invention in the 1970s. Oxford Products makes a range of heated grips for a number of different machines, from sportsbikes, adventure bikes, tourers, commuter machines and scooters. Each has been developed with ease of use and fitment in mind. They feature micro-electronics and moulded wiring, a rain-proof switch and today’s latest heated grips draw very little from your bike’s battery and take around an hour to fit. Thanks to the great British weather, this is the best upgrade you can fit to your bike. Try them! </p>
           </div>
         </div>
+      </section>
+
+      <section class="container">
+        <a target="_blank" href="http://www.bikestop.co.uk/ride-style/cruiser-custom?utm_source=herts%20rider&utm_medium=banner&utm_content=custom%20-%20desktop%20banner&utm_campaign=bike%20stop%20advertising%20-%20website%20promotion%20-%20december%202015"><div class="imgix-fluid-bg imgix-image" style="padding-bottom:30%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/bikestop-banner.jpg" alt="www.bikestop.co.uk"></div></a>
       </section>
 
         <?php include ("$path/includes/article-social-share.php"); ?>
