@@ -10,7 +10,7 @@
           <div class="drawer-brand"></div>
 
           <ul class="drawer-menu">
-            <?php foreach($page as $item) {
+            <?php foreach($page_issue2 as $item) {
                 echo "<li class=\"drawer-menu-item {$item['id']} {$item['type']}\"><a href=\"../../{$item['type']}/{$item['id']}\">{$item['title']}</a></li>";
                 } ?>
           </ul>

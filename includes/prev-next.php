@@ -1,5 +1,5 @@
         <nav class="arrow-nav nav-growpop">
-          <a class="prev <? echo $page[''.$prev.'']['id'];?> <? echo $page[''.$prev.'']['type'];?>" href="../../<? echo $page[''.$prev.'']['type'];?>/<? echo $page[''.$prev.'']['id'];?>">
+          <a class="prev <? echo $page_issue2[''.$prev.'']['id'];?> <? echo $page_issue2[''.$prev.'']['type'];?>" href="../../<? echo $page_issue2[''.$prev.'']['type'];?>/<? echo $page_issue2[''.$prev.'']['id'];?>">
              <span class="icon-wrap">
               <svg class="icon" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 9.691 9.809">
                 <g>
@@ -9,12 +9,12 @@
             </span>
             <div>
               <p class="subheading">Previous article</p>
-              <h4><? echo $page[''.$prev.'']['title'];?></h4>
-              <img class="article-preview-thumbnail" src="../../<? echo $page[''.$prev.'']['type'];?>/<? echo $page[''.$prev.'']['id'];?>/images/thumbnail.jpg" alt="<? echo  $page[''.$prev.'']['title'];?>">
+              <h4><? echo $page_issue2[''.$prev.'']['title'];?></h4>
+              <img class="article-preview-thumbnail" src="../../<? echo $page_issue2[''.$prev.'']['type'];?>/<? echo $page_issue2[''.$prev.'']['id'];?>/images/thumbnail.jpg" alt="<? echo  $page[''.$prev.'']['title'];?>">
             </div>
           </a>
 
-          <a class="next <? echo $page[''.$next.'']['id'];?> <? echo $page[''.$next.'']['type'];?>" href="../../<? echo $page[''.$next.'']['type'];?>/<? echo $page[''.$next.'']['id'];?>">
+          <a class="next <? echo $page_issue2[''.$next.'']['id'];?> <? echo $page_issue2[''.$next.'']['type'];?>" href="../../<? echo $page_issue2[''.$next.'']['type'];?>/<? echo $page_issue2[''.$next.'']['id'];?>">
             <span class="icon-wrap">
               <svg class="icon rotate-right" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 9.691 9.809">
                 <g>
@@ -24,8 +24,8 @@
             </span>
             <div>
               <p class="subheading">Next article</p>
-              <h4><? echo $page[''.$next.'']['title'];?></h4>
-              <img class="article-preview-thumbnail" src="../../<? echo $page[''.$next.'']['type'];?>/<? echo $page[''.$next.'']['id'];?>/images/thumbnail.jpg" alt="<? echo  $page[''.$next.'']['title'];?>">
+              <h4><? echo $page_issue2[''.$next.'']['title'];?></h4>
+              <img class="article-preview-thumbnail" src="../../<? echo $page_issue2[''.$next.'']['type'];?>/<? echo $page_issue2[''.$next.'']['id'];?>/images/thumbnail.jpg" alt="<? echo  $page[''.$next.'']['title'];?>">
             </div>
           </a>
         </nav>

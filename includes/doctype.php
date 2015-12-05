@@ -35,5 +35,5 @@ if(isset($_SESSION['sent']) && $_SESSION['sent'])
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title><? echo $page[''.$page_id.'']['title'];?> | Herts Rider</title>
-  <meta name="description" content="<? echo $page[''.$page_id.'']['blurb'];?>">
+  <title><? echo $page_issue2[''.$page_id.'']['title'];?> | Herts Rider</title>
+  <meta name="description" content="<? echo $page_issue2[''.$page_id.'']['blurb'];?>">
