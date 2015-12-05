@@ -76,7 +76,7 @@
     '9' => array(
         'id'    => 'theory-test-quiz',
         'title' => 'Theory test quiz',
-        'blurb' => 'Blurb needed',
+        'blurb' => 'See if you’re ready to take the theory test with our interactive quiz',
         'type'  => 'articles',
         'button' => 'View article'),
     '10' => array(

@@ -1,5 +1,5 @@
 <!-- Set the Page ID -->
-<?php $page_id = 12; ?>
+<?php $page_id = 15; ?>
 
 <?php include ("../../includes/variables.php"); ?>
 <?php include ("$path/includes/doctype.php"); ?>
@@ -23,7 +23,7 @@
     <?php include ("$path/includes/prev-next.php"); ?>
     <div class="container">
         <a href="<? echo $page_issue2[''.$page_id.'']['url'];?>" target="_blank">
-            <div class="imgix-fluid-bg" style="padding-bottom:62%;" data-src="https://herts-rider.imgix.net/ads/<? echo $page_issue2[''.$page_id.'']['id'];?>/ad.jpg" alt="<? echo $page_issue2[''.$page_id.'']['title'];?>"></div>
+            <div class="imgix-fluid-bg" style="padding-bottom:65%;" data-src="https://herts-rider.imgix.net/ads/<? echo $page_issue2[''.$page_id.'']['id'];?>/ad.jpg" alt="<? echo $page_issue2[''.$page_id.'']['title'];?>"></div>
         </a>
         <span>Advertisment</span>
     </div>
