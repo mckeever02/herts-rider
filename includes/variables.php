@@ -92,7 +92,7 @@
         'type'  => 'articles',
         'button' => 'View article'),
     '12' => array(
-        'id'    => 'How-to-buy-the-right-kit',
+        'id'    => 'how-to-buy-the-right-kit',
         'title' => 'How to buy the right kit',
         'blurb' => 'Making sure you’re well protected is at least as important as picking the right bike, but modern biking kit isn’t as bulky or as expensive as it was. There’s suitable kit available for every budget – you really don’t have to break the bank to be protected against incidents and the elements.',
         'type'  => 'articles',
