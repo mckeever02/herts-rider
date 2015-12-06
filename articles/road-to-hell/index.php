@@ -49,7 +49,7 @@
             <p>This made me ride a certain way, even on my Honda CG 125. My mindset was ‘faster than the train’, so I went fast. Because I wanted to go fast, anyone who wasn’t of the same mindset as me was in my way. I didn’t ask myself any questions when I got on the bike. I didn’t really care about anyone else using the roads because I was ‘fastest’.</p>
 
             <div class="row">
-              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/motorcyclists-in-london.jpg" alt="Motorcyclists in London"></div>
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:50%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/Motorcyclists-in-london.jpg" alt="Motorcyclists in London"></div>
               <blockquote>
                 <p>&ldquo;A guy in a black cab took care of the Fireblade for me, side swiping me at about 45mph while I was filtering traffic. The bike was a write off. Luckily, I was fine.&rdquo;</p>
               </blockquote>

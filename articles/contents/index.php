@@ -20,8 +20,6 @@
         <?php include ("$path/includes/menu.php"); ?>
     </header>
 
-
-
         <ul class="contents">
             <li class="intro article-tile imgix-fluid-bg" data-src="<? echo $imgix_path ?>about/images/page-header.jpg?auto=format,enhance&fit=crop">
                 <a class="tile-link" href="../about">
