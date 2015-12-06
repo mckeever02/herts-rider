@@ -56,7 +56,7 @@
                 <p>Need to be the right ones for the job and have the correct pressures and legal depth. When we say ‘right ones for the job’ you may want to invest in winter tyres. These have a high silica compound allowing for quicker warm-up times and plenty of tread and/or sipes to increase grip in the rain and snow. Don’t use track-day only tyres as these are designed to work in a very narrow temperature band during summer, and they won’t have the tread to work in rain.</p>
               </div><!-- /column -->
               <div class="one-half column">
-                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/tyres.jpg" alt="Winter tyres"></div>
+                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:95%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/tyres.jpg" alt="Winter tyres"></div>
               </div><!-- /half-column column -->
             </div><!-- /row -->
 

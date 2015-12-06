@@ -99,11 +99,11 @@
             </div><!-- /longform-text-container -->
 
             <div class="row">
-              <div class="two-thirds column">
-                  <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/customs-officer.jpg" alt="Customs Officer"></div>
+              <div class="one-half column">
+                  <div class="imgix-fluid-bg imgix-image" style="padding-bottom:70%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/customs-officer.jpg" alt="Customs Officer"></div>
               </div>
 
-              <div class="one-third column">
+              <div class="one-half column">
                 <blockquote>
                   <p>&ldquo;Customs officers could be our worst nightmare or our best friend.&rdquo;</p>
                 </blockquote>
