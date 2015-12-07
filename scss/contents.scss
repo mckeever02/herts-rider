@@ -26,21 +26,20 @@
 
 
              &:nth-of-type(6),
+             &:nth-of-type(12),
+
              &:nth-of-type(21){
                 @extend .five.columns;
             }
 
             &:nth-of-type(7),
+            &:nth-of-type(11),
             &:nth-of-type(22){
                 @extend .seven.columns;
             }
 
-            &:nth-of-type(12),
-            &:nth-of-type(14),
-            &:nth-of-type(19),
-            &:nth-of-type(20),
-            &:nth-of-type(23),
-            &:nth-of-type(24){
+            &:nth-of-type(17),
+            &:nth-of-type(19){
                 @extend .six.columns;
             }
 
@@ -94,11 +93,11 @@
                     width: 100%;
                 }
             }
-            
+
             #contact-form  input[type=text]{
                 color: $black-pearl!important;
             }
-            
+
             .sent {
                 background-color: transparent;
                 margin: 0;
@@ -120,8 +119,8 @@
                 content: "";
                 opacity: 0.65;
             }
-            
-            @media (min-width: $tablet-breakpoint) and (max-width: 1400px) {    
+
+            @media (min-width: $tablet-breakpoint) and (max-width: 1400px) {
                 h2 {
                     font-size: 4rem;
                 }
@@ -129,19 +128,19 @@
                     width: 100%;
                 }
             }
-            
+
             @media (min-width: $tablet-breakpoint) and (max-width: $desktop-breakpoint) {
                 input {
                     border-radius: 5px;
                     width: 100%;
                 }
-                
+
             }
             @media (max-width: $tablet-breakpoint) {
                 width: 98% !important;
                 clear: both;
                 padding-bottom: 30px;
-                
+
                 .tile-link {
                     padding-bottom: 100px;
                 }
