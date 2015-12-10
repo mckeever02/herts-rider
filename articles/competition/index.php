@@ -33,7 +33,7 @@
 
           <div class="longform-text-container">
             <div class="row">
-              <p class="introduction">Hertfordshire Rider has teamed up with <a href="http://www.bikestop.co.uk">Bikestop</a> to give you the chance to win GoPro’s smallest action camera yet – the Hero4 Session.</p>
+              <p class="introduction">Hertfordshire Rider has teamed up with <a href="http://www.bikestop.co.uk">Bike Stop</a> to give you the chance to win GoPro’s smallest action camera yet – the Hero4 Session.</p>
             </div><!-- /row -->
 
             <p>Capable of capturing high-resolution 1440p30 and 1080p60 video, there’s even a 720p100 option that enables you to capture everything in pin-sharp slow motion.</p>
@@ -57,7 +57,7 @@
           <div class="longform-text-container container-margin-top">
             <h4>The T's &amp; C's</h4>
             <ul>
-              <li>This competition is run by FirstCar Limited and Bikestop Limited.</li>
+              <li>This competition is run by FirstCar Limited and Bike Stop Limited.</li>
               <li>Entries must be received by midnight on 1 May 2016 after which the winner will be randomly selected.</li>
             </ul>
           </div>

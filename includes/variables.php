@@ -67,7 +67,7 @@
     '7' => array(
         'id'    => 'competition',
         'title' => 'Win a GoPro Hero4 Session worth £249',
-        'blurb'  => 'Capture the action with the most compact GoPro camera yet',
+        'blurb'  => 'Bike Stop in Stevenage is giving you the chance to capture the action with the most compact GoPro camera yet<br><br><img src="../../images/bikestop-logo.gif" alt="Bike Stop Logo">',
         'type'  => 'articles',
         'button' => 'View article'),
     '8' => array(
@@ -102,12 +102,12 @@
     '13' => array(
         'id'    => 'how-to-buy-the-right-kit',
         'title' => 'How to buy the right kit',
-        'blurb' => 'Making sure you’re well protected is at least as important as picking the right bike, but modern biking kit isn’t as bulky or as expensive as it was. There’s suitable kit available for every budget – you really don’t have to break the bank to be protected against incidents and the elements.',
+        'blurb' => 'Martin Brown from Bike Stop tells you all you need to know to make sure you’ve got the right kit for your riding',
         'type'  => 'articles',
         'button' => 'View article'),
     '14' => array(
         'id'    => 'product-reviews',
-        'title' => 'Ten of the Best',
+        'title' => 'Ten of the best',
         'blurb' => 'If you’re after the right helmet for year-round use, the best way to protect your bike from the elements or a way to keep your pinkies warm in winter, just step this way…',
         'type'  => 'articles',
         'button' => 'View article'),

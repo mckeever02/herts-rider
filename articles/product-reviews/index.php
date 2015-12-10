@@ -33,7 +33,7 @@
         <section class="container">
 
           <div class="longform-text-container">
-            <p class="u-text-center">All products are available from <a href="http://www.bikestop.co.uk">www.bikestop.co.uk</a>
+            <p class="u-text-center">All products are available from <a href="http://www.bikestop.co.uk">Bike Stop</a>
 </p>
           </div><!-- /longform-text-container -->
 
