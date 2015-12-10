@@ -33,7 +33,7 @@
         <section class="container">
 
           <div class="longform-text-container">
-            <p class="introduction">Making sure you’re protected is as important, if not more important, than picking the right bike. Fortunately, modern day biking kit isn’t as bulky or as expensive as it used to be with something for every budget &mdash; you really don’t have to break the bank to be protected against incidents and the elements.</p>
+            <p class="introduction">Making sure you’re protected is as important, if not more important, than picking the right bike. Fortunately, modern day biking kit isn’t as bulky or as expensive as it used to be with something for every budget &mdash; you really don’t have to break the bank to be protected against incidents and the elements. Here, Martin Brown from Bike Stop tells you everything you need to know to make sure you have the right kit for your riding.</p>
           </div><!-- /longform-text-container -->
 
           <div class="row container-margin-top">
@@ -367,6 +367,13 @@
 
         </div><!-- /row -->
 
+      </section>
+
+      <section class="container">
+          <div class="u-text-center">
+            <p>Brought to you by:</p>
+            <img src="../../images/bikestop-logo.gif" alt="Bike Stop Logo">
+          </div>
       </section>
 
 
