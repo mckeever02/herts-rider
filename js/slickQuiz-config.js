@@ -25,16 +25,16 @@ var quizJSON = {
             "correct": "<p><span>Correct</span>As you begin to think about overtaking, ask yourself if it’s really necessary. If you can’t see well ahead stay back for a safer place to pull out.</p>",
             "incorrect": "<p><span>Incorrect</span>Correct Answer: <strong>Approaching a dip in the road.</strong> As you begin to think about overtaking, ask yourself if it’s really necessary. If you can’t see well ahead stay back for a safer place to pull out.</p>" // no comma here
         },
-        { // Question 2 - Multiple Choice, Multiple True Answers, Select Any
+        { // Question 2
             "q": "You’re travelling along a narrow country road. When passing a cyclist you should go..<img src='images/question-2.jpg'>",
             "a": [
-                {"option": "Slowly, sounding your horn as you pass",          "correct": false},
-                {"option": "Quickly, leaving plenty of room",                 "correct": true},
+                {"option": "Slowly, sounding your horn as you pass",          "correct": true},
+                {"option": "Quickly, leaving plenty of room",                 "correct": false},
                 {"option": "Slowly, leaving plenty of room",                  "correct": false},
                 {"option": "Quickly, sounding the horn as you pass",          "correct": false} // no comma here
             ],
             "correct": "<p><span>Correct</span>Look well ahead and only pull out if it’s safe. You will need to use all of the road to pass the cyclist, so be extra-cautious. Look out for entrances to fields where tractors or other farm machinery could be waiting to pull out.</p>",
-            "incorrect": "<p><span>Incorrect</span>Correct Answer: <strong>Quickly, leaving plenty of room.</strong>Look well ahead and only pull out if it’s safe. You will need to use all of the road to pass the cyclist, so be extra-cautious. Look out for entrances to fields where tractors or other farm machinery could be waiting to pull out.</p>" // no comma here
+            "incorrect": "<p><span>Incorrect</span>Correct Answer: <strong>Slowly, leaving plenty of room.</strong>Look well ahead and only pull out if it’s safe. You will need to use all of the road to pass the cyclist, so be extra-cautious. Look out for entrances to fields where tractors or other farm machinery could be waiting to pull out.</p>" // no comma here
         },
         { // Question 3 - Multiple Choice, Multiple True Answers, Select All
             "q": "You should never wave people across at pedestrian crossings because..<img src='images/question-3.jpg'>",

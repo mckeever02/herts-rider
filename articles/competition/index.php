@@ -33,7 +33,7 @@
 
           <div class="longform-text-container">
             <div class="row">
-              <p class="introduction">Hertfordshire Rider has teamed up with Bikestop to give you the chance to win GoPro’s smallest action camera yet – the Hero4 Session.</p>
+              <p class="introduction">Hertfordshire Rider has teamed up with <a href="http://www.bikestop.co.uk">Bikestop</a> to give you the chance to win GoPro’s smallest action camera yet – the Hero4 Session.</p>
             </div><!-- /row -->
 
             <p>Capable of capturing high-resolution 1440p30 and 1080p60 video, there’s even a 720p100 option that enables you to capture everything in pin-sharp slow motion.</p>
