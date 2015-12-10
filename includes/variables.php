@@ -67,7 +67,7 @@
     '7' => array(
         'id'    => 'competition',
         'title' => 'Win a GoPro Hero4 Session worth £249',
-        'blurb'  => 'Bike Stop in Stevenage is giving you the chance to capture the action with the most compact GoPro camera yet. <br><br>Brought to you by:<br><img src="../../images/bikestop-logo.gif" alt="Bike Stop Logo">',
+        'blurb'  => "Bike Stop in Stevenage is giving you the chance to capture the action with the most compact GoPro camera yet. <br><br>Brought to you by:<br><img src='../../images/bikestop-logo.gif' alt='Bike Stop Logo'>",
         'type'  => 'articles',
         'button' => 'View article'),
     '8' => array(
@@ -102,7 +102,7 @@
     '13' => array(
         'id'    => 'how-to-buy-the-right-kit',
         'title' => 'How to buy the right kit',
-        'blurb' => 'Martin Brown from Bike Stop tells you all you need to know to make sure you’ve got the right kit for your riding. <br><br>Brought to you by:<br><img src="../../images/bikestop-logo.gif" alt="Bike Stop Logo">',
+        'blurb' => "Martin Brown from Bike Stop tells you all you need to know to make sure you’ve got the right kit for your riding.<br><br>Brought to you by:<br><img src='../../images/bikestop-logo.gif' alt='Bike Stop Logo'>",
         'type'  => 'articles',
         'button' => 'View article'),
     '14' => array(
