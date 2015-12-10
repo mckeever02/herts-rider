@@ -33,14 +33,8 @@
 
           <div class="longform-text-container">
             <div class="row">
-              <div class="one-third column">
-                <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/rob-box.jpg" alt="Rob Box"></div>
-              </div><!-- one-third column -->
-              <div class="two-thirds column">
-                <p class="introduction">What do you think is the best way to commute? How do you approach your daily commute? What are your mindset and goals? What do you think about before you set off?</p>
-                <p>You’ve probably never thought consciously about any of these things, yet all of them can make a real difference to the way you ride, and particularly how much you enjoy your riding. If you’re just a leisure rider this is important – but it’s even more so if you commute by bike.</p>
-
-              </div>
+              <p class="introduction">What do you think is the best way to commute? How do you approach your daily commute? What are your mindset and goals? What do you think about before you set off?</p>
+              <p>You’ve probably never thought consciously about any of these things, yet all of them can make a real difference to the way you ride, and particularly how much you enjoy your riding. If you’re just a leisure rider this is important – but it’s even more so if you commute by bike.</p>
             </div><!-- /row -->
 
             <p>When I switched from commuting by train into London, to doing it on a bike, I felt under pressure to prove I’d made the right choice. Pressure I’d created myself based on conversations I’d had with my mates. I wanted to show them I’d made the right call by making it quicker, easier and therefore better.</p>
@@ -77,6 +71,20 @@
           </div>
 
         </section>
+
+        <section class="container">
+
+          <div class="row">
+            <div class="one-half column">
+              <div class="imgix-fluid-bg imgix-image" style="padding-bottom:100%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/rob-box.jpg" alt="Rob Box"></div>
+            </div>
+            <div class="one-half column">
+              <p><em>Rob Box is 39 years old, lives in Hertfordshire and commutes into London every day all year round. He's been riding for five years and believes fast doesn't always get you there quicker – and also everyone should read the Highway Code.</em></p>
+            </div>
+          </div>
+
+        </section>
+
 
 
           <?php include ("$path/includes/article-social-share.php"); ?>
