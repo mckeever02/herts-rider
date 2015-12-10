@@ -46,6 +46,16 @@
 
           <p>Packing a pair of microphones and able to automatically deal with low light so you don’t have to think about it, the Hero4 Session is a miracle of technology in one tiny package. For the full SP, just log on to the <a href="https://shop.gopro.com/EMEA/cameras/hero4-session/CHDHS-101-EU.html">official GoPro page</a> to find out more about what the Hero4 Session can do.</p>
 
+          <div class="row">
+            <div class="imgix-fluid-bg imgix-image u-text-center" style="padding-bottom:20%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/bikestop-logo.gif.jpg" alt="Bike Stop logo"></div>
+          </div>
+
+          <p>Started in 1981, Stevenage-based Bike Stop stocks the best-quality protective gear on the market. Catering for all budgets, Bike Stop sells brands such as Rukka, RST, Belstaff, Shoei, AGV, Givi, Abus, Autocom, GoPro and more.</p>
+
+          <p>All Bike Stop staff are regularly trained and excel in knowing all there is to know about the latest high-tech developments such as air-bag suits and jackets.</p>
+
+          <p>Bike Stop has seven showrooms over two floors with air conditioning, and customer seating inside and out. But it isn’t just a shop however – it’s also a very popular biker's ride-out and meeting place with its own parking, free Lavazza whole-bean coffee and cakes. So make sure you stop by very soon.</p>
+
 
           </div><!-- /longform-text-container -->
 

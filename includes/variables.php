@@ -67,7 +67,7 @@
     '7' => array(
         'id'    => 'competition',
         'title' => 'Win a GoPro Hero4 Session worth £249',
-        'blurb'  => 'Bike Stop in Stevenage is giving you the chance to capture the action with the most compact GoPro camera yet<br><br><img src="../../images/bikestop-logo.gif" alt="Bike Stop Logo">',
+        'blurb'  => 'Bike Stop in Stevenage is giving you the chance to capture the action with the most compact GoPro camera yet. <br><br>Brought to you by:<br><img src="../../images/bikestop-logo.gif" alt="Bike Stop Logo">',
         'type'  => 'articles',
         'button' => 'View article'),
     '8' => array(
