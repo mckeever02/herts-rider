@@ -42,7 +42,7 @@
               </div><!-- /row -->
               <p>I was thinking of buying a £17,000 BMW GSA at SBW Motorrad in Hertford and mentioned to the owner that if I bought such a bike I’d need to do something special with it. A DVD of <a href="http://www.globebusters.com/store/dvds/the-ride-london-to-beijing">The Ride</a> was produced, and having watched it I decided this was what I was looking for. I ordered the bike and specced it for some serious riding, although at this stage I didn’t know where to.</p>
 
-              <p>Having watched the DVD I knew I’d travel with Globebusters, run by the hugely impressive Kevin Saunders. Any trip he was leading would be well planned, well executed and a damn good laugh too. But which trip?</p>
+              <p>Having watched the DVD I knew I’d travel with Globebusters, run by the hugely impressive Kevin Sanders. Any trip he was leading would be well planned, well executed and a damn good laugh too. But which trip?</p>
 
               <p>Looking at my options the trip had to be a big adventure to somewhere I’d never been, but all over in time for me to be back to spend the summer holidays with my 11-year old son. That settled it; there was a ride available from the UK to Xi’an, China, that took in 17 countries, eight weeks and 10,000 miles, finishing at the end of July. Perfect.</p>
 
