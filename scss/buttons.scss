@@ -119,6 +119,12 @@ input[type="button"].button-primary:focus {
   }
 }
 
+.button-large {
+  font-size: 1.6rem;
+  line-height: 60px;
+  height: 60px;
+}
+
 
 
 .button-campfire:before {
@@ -145,7 +151,3 @@ input[type="button"].button-primary:focus {
   @include icon;
   content: "";
 }
-
-
-
-

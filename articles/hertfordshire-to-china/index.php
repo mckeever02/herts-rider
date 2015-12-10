@@ -177,8 +177,8 @@
 
 
             <div class="u-text-center container-margin-top">
-              <p>Download Nick’s top tips for a successful bike trip</p>
-              <a href="china-ride.pdf" class="button button-primary">Download free PDF (1.5Mb)</a>
+              <h2>Download Nick’s top tips for a successful bike trip</h2>
+              <a href="china-ride.pdf" class="button button-primary button-large">Download free PDF (1.5Mb)</a>
             </div>
 
 

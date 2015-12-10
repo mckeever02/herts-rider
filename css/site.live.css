@@ -3828,6 +3828,11 @@ input[type="button"].button-primary {
   .button-small.button-icon:before {
     font-size: 1.4rem; }
 
+.button-large {
+  font-size: 1.6rem;
+  line-height: 60px;
+  height: 60px; }
+
 .button-campfire:before {
   font-family: "SSPika";
   font-weight: normal;
