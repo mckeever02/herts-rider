@@ -1,5 +1,5 @@
 <!-- Set the Page ID -->
-<?php $page_id = 22; ?>
+<?php $page_id = 21; ?>
 
 <?php include ("../../includes/variables.php"); ?>
 <?php include ("$path/includes/doctype.php"); ?>

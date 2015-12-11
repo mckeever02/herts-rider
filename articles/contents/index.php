@@ -52,6 +52,7 @@
                         <h3>{$item['title']}</h3>
                         <p>{$item['blurb']}</p>
                     </a>
+                    <span>{$item['sponsor']}</span>
                     <a href=\"../{$item['id']}\" class=\"button button-small button-icon\">{$item['button']}</a>
                 </li>
                 ";

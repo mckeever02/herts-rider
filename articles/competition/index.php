@@ -1,5 +1,5 @@
 <!-- Set the Page ID -->
-<?php $page_id = 7; ?>
+<?php $page_id = 3; ?>
 
 <?php include ("../../includes/variables.php"); ?>
 <?php include ("$path/includes/doctype.php"); ?>
@@ -21,7 +21,10 @@
 
         <div class="article-intro offset-by-six columns">
             <h1><? echo $page_issue2[''.$page_id.'']['title'];?></h1>
-            <p class="blurb"><? echo $page_issue2[''.$page_id.'']['blurb'];?></p>
+            <p class="blurb"><? echo $page_issue2[''.$page_id.'']['blurb'];?><a href='http://www.bikestop.co.uk'>
+              <br><img src='../../images/bikestop-logo.gif' alt='Bike Stop Logo'></a>
+            </p>
+
         </div>
 
         <?php include ("$path/includes/prev-next.php"); ?>
@@ -47,7 +50,7 @@
           <p>Packing a pair of microphones and able to automatically deal with low light so you don’t have to think about it, the Hero4 Session is a miracle of technology in one tiny package. For the full SP, just log on to the <a href="https://shop.gopro.com/EMEA/cameras/hero4-session/CHDHS-101-EU.html">official GoPro page</a> to find out more about what the Hero4 Session can do.</p>
 
           <div class="row">
-            <img class="u-center-table" src="../../images/bikestop-logo.gif" alt="Bike Stop Logo">
+            <a href="http://www.bikestop.co.uk"><img class="u-center-table" src="../../images/bikestop-logo.gif" alt="Bike Stop Logo"></a>
           </div>
 
           <div class="container-margin-top">
@@ -66,6 +69,11 @@
 
           <div class="row">
             <div class="imgix-fluid-bg imgix-image" style="padding-bottom:60%;" data-src="<? echo $imgix_path ?><? echo $page_issue2[''.$page_id.'']['id'];?>/images/gopro-image2.jpg" alt="Go Pro image 2"></div>
+          </div>
+
+          <div class="u-center-table">
+            <h2 class="u-text-center">Enter for your chance to win</h2>
+            <a href="https://www.surveymonkey.co.uk/r/G2W3WTP" class="button button-icon" style="display:block;" target="_blank">Click Here to Enter</a>
           </div>
 
           <div class="longform-text-container container-margin-top">

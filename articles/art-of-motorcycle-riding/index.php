@@ -69,7 +69,22 @@
 
             <p>The more often you take the time to think ‘why is x, y or z happening?’ the better your decision making will be, the more you’ll enjoy your riding and the safer you’ll be.</p>
 
+
+
           </div><!-- /longform-text-container -->
+
+        </section>
+
+          <section class="container lined wow fadeInUp">
+              <div class="longform-text-container">
+                  <div class="four columns reset-margin-left"><img src="images/dave_glanville.jpg" alt="Dave Glanville"></div>
+                  <div class="eight columns">
+                    <h3>Dave Glanville</h3>
+                    <p>Dave has been riding for over 20 years on road and on track and still rides all year round.</p>
+                    <p>He was a national advisor on motorcycle road safety to Road Safety GB up until a couple of years ago and was responsible for a number of rider safety campaigns in Yorkshire.</p>
+                  </div>
+              </div>
+          </section>
 
           <?php include ("$path/includes/article-social-share.php"); ?>
 

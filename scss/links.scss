@@ -20,4 +20,15 @@ a {
   }
 }
 
-
+.sponsor {
+  z-index: 3;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  bottom: 30%;
+  left: 10%;
+  min-height: auto;
+  @media (max-width: $tablet-breakpoint) {
+    display: none;
+  }
+}

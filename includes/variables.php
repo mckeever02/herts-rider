@@ -41,9 +41,10 @@
         'type'  => 'ads',
         'button' => 'View article'),
     '3' => array(
-        'id'    => 'winter-riding',
-        'title' => 'Winter Riding',
-        'blurb' => 'Modern kit, clothing and bikes give British bikers the chance to really extend our biking year – if we want to',
+        'id'    => 'competition',
+        'title' => 'Win a GoPro Hero4 Session worth £249',
+        'blurb'  => "Bike Stop in Stevenage is giving you the chance to capture the action with the most compact GoPro camera yet. <br><br>Brought to you by:",
+        'sponsor' => "<a class='sponsor' href='http://www.bikestop.co.uk'><img src='../../images/bikestop-logo.gif' alt='Bike Stop Logo'></a>",
         'type'  => 'articles',
         'button' => 'View article'),
     '4' => array(
@@ -55,7 +56,7 @@
     '5' => array(
         'id'    => 'art-of-motorcycle-riding',
         'title' => 'Zen and the art of motorcycle riding',
-        'blurb' => 'Whether you’re a new rider or a grizzly seasoned dispatcher, one key quality all riders need is self-awareness. I don’t mean you need to take an existential journey into the meaning of existence and your place within it, but you do need to have some idea of how you react to difference circumstances and situations.',
+        'blurb' => 'Whether you’re a new rider or a grizzly seasoned dispatcher, one key quality all riders need is self-awareness.',
         'type'  => 'articles',
         'button' => 'View article'),
     '6' => array(
@@ -65,9 +66,9 @@
         'type'  => 'articles',
         'button' => 'View article'),
     '7' => array(
-        'id'    => 'competition',
-        'title' => 'Win a GoPro Hero4 Session worth £249',
-        'blurb'  => "Bike Stop in Stevenage is giving you the chance to capture the action with the most compact GoPro camera yet. <br><br>Brought to you by:<br><img src='../../images/bikestop-logo.gif' alt='Bike Stop Logo'>",
+        'id'    => 'winter-riding',
+        'title' => 'Winter Riding',
+        'blurb' => 'Modern kit, clothing and bikes give British bikers the chance to really extend our biking year – if we want to',
         'type'  => 'articles',
         'button' => 'View article'),
     '8' => array(
@@ -102,7 +103,8 @@
     '13' => array(
         'id'    => 'how-to-buy-the-right-kit',
         'title' => 'How to buy the right kit',
-        'blurb' => "Martin Brown from Bike Stop tells you all you need to know to make sure you’ve got the right kit for your riding.<br><br>Brought to you by:<br><img src='../../images/bikestop-logo.gif' alt='Bike Stop Logo'>",
+        'blurb' => "Martin Brown from Bike Stop tells you all you need to know to make sure you’ve got the right kit for your riding. <br><br>Brought to you by:",
+        'sponsor' => "<a class='sponsor' href='http://www.bikestop.co.uk'><img src='../../images/bikestop-logo.gif' alt='Bike Stop Logo'></a>",
         'type'  => 'articles',
         'button' => 'View article'),
     '14' => array(
@@ -141,18 +143,12 @@
         'type'  => 'articles',
         'button' => 'View article'),
     '20' => array(
-        'id'    => 'sportsbikeshop-competition',
-        'title' => 'Win £750-worth of biking kit',
-        'blurb'  => 'Win the kit you need to stay safe on your bike, thanks to sportsbikeshop.co.uk',
-        'type'  => 'articles',
-        'button' => 'View article'),
-    '21' => array(
         'id'    => 'routes-to-riding',
         'title' => 'Routes to riding',
         'blurb' => 'Confused about what it takes to get onto two wheels? Here, all is explained...',
         'type'  => 'articles',
         'button' => 'View article'),
-    '22' => array(
+    '21' => array(
         'id'    => 'motorcycle-security',
         'title' => 'Motorcycle security',
         'blurb' => 'Motorbikes are easy targets for thieves, which is why you need to make life as hard as possible for them. Here’s how',

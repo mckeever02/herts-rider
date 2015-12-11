@@ -22,7 +22,9 @@
 
         <div class="article-intro offset-by-six columns">
             <h1><? echo $page_issue2[''.$page_id.'']['title'];?></h1>
-            <p><? echo $page_issue2[''.$page_id.'']['blurb'];?></p>
+            <p><? echo $page_issue2[''.$page_id.'']['blurb'];?>
+              <br><img src='../../images/bikestop-logo.gif' alt='Bike Stop Logo'></a>
+            </p>
         </div>
 
         <?php include ("$path/includes/prev-next.php"); ?>
@@ -372,7 +374,7 @@
       <section class="container">
           <div class="u-text-center">
             <p>Brought to you by:</p>
-            <img src="../../images/bikestop-logo.gif" alt="Bike Stop Logo">
+            <a href="http://www.bikestop.co.uk"><img src="../../images/bikestop-logo.gif" alt="Bike Stop Logo"></a>
           </div>
       </section>
 
