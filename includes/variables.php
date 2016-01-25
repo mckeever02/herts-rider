@@ -153,6 +153,12 @@
         'title' => 'Motorcycle security',
         'blurb' => 'Motorbikes are easy targets for thieves, which is why you need to make life as hard as possible for them. Here’s how',
         'type'  => 'articles',
+        'button' => 'View article'),
+    '22' => array(
+        'id'    => 'a-bit-on-the-side',
+        'title' => 'A bit on the side',
+        'blurb' => 'Julie and Alex Bello’s severely disabled daughter doesn’t stop them from enjoying their motorbike – because she comes along for the ride',
+        'type'  => 'articles',
         'button' => 'View article')
     );
 
